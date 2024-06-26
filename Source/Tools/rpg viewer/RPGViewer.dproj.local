@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/01/18 17:36:34.170.pas,C:\acemir\trunk\Source\WIL\WIL.pas=</Transaction>
+    <Transaction>2013/01/18 17:36:46.681.pas,C:\acemir\trunk\Source\WIL\wmM2Def.pas=</Transaction>
+    <Transaction>2013/01/18 17:36:49.424.pas,C:\acemir\trunk\Source\WIL\wmM2Zip.pas=</Transaction>
+    <Transaction>2013/01/18 17:36:52.493.pas,C:\acemir\trunk\Source\WIL\wmM3Zip.pas=</Transaction>
+    <Transaction>2013/01/18 17:36:55.896.pas,C:\acemir\trunk\Source\WIL\wmMyImage.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
