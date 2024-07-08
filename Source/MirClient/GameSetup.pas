@@ -8,13 +8,13 @@ const
   HELP_IMAGE_FORM = 660;
   HELP_IMAGE_ARMING = 661;
   
-  OS_SHOWNAME = 0; //显示人物名称
-  OS_DURAHINT = 1; //持久警告
-  OS_SHOWMAPHINT = 2; //显示地图标识
-  OS_SHOWITEMNAME = 3; //Ctrl显示物品名称
-  OS_AUTOPICKUPITEM = 4; //自动捡物
-  OS_EXEMPTSHIFT = 5; //免Shift键
-  OS_GETEXPFILTRATE = 6; //低经验值获取过滤
+  OS_SHOWNAME = 0; //Display character name
+  OS_DURAHINT = 1; //Dura Warning
+  OS_SHOWMAPHINT = 2; //Show map markers
+  OS_SHOWITEMNAME = 3; //Ctrl+Display item name
+  OS_AUTOPICKUPITEM = 4; //Automatic Pickup
+  OS_EXEMPTSHIFT = 5; //No Shift key required
+  OS_GETEXPFILTRATE = 6; //Low experience value gain filter
   OS_MOVEHPSHOW = 7; //移动飘血显示
   OS_HPPROTECT = 8; //血量保护
   OS_MPPROTECT = 9; //魔法值保护
@@ -213,10 +213,10 @@ var
   g_WayTag: array[0..7] of string[2] = ('↑', '↗', '→', '↘', '↓',
     '↙', '←', '↖');
 
-  g_dwDropItemFlashTime: LongWord = 3 * 1000; //地面物品闪时间间隔
+  g_dwDropItemFlashTime: LongWord = 3 * 1000; //Ground object flash time interval
 
-  g_dwAutoPickupTick: LongWord = 0; //自动捡物检测时间
-  g_dwAutoPickupTime: LongWord = 500; //自动捡物间隔
+  g_dwAutoPickupTick: LongWord = 0; //Automatic object picking detection time
+  g_dwAutoPickupTime: LongWord = 500; //Automatic picking interval
 
   g_dwDuraAlertTick: LongWord = 0; //持久警告检测时间
   g_dwDuraAlertTime: LongWord = 60 * 1000; //持久敬告检测时间
@@ -334,7 +334,7 @@ begin
   SaveBagItems(sDirname + Format(BagItemsFile, [UserName]));
 end;
 
-//保存配置信息
+//Save configuration information
 
 procedure SaveIDInfo();
 
@@ -409,12 +409,12 @@ begin
   //FrmDlg.DMemoNotepaper.Lines.SaveToFile(sFileName);
 
   SaveKeyInfo(sDirname + CustomKeyFile); //save custom keymaps
-  //SaveItemRule(sDirname + ItemRuleFile); //保存物品规则信息
+  //SaveItemRule(sDirname + ItemRuleFile); //Save item rule information
 
   //ClearItemRule();
 end;
 
-//加载配置信息
+//Loading configuration information
 
 procedure LoadIDInfo();
   procedure LoadKeyInfo(sFileName: string);

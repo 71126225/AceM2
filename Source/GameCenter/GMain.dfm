@@ -25,7 +25,7 @@ object frmMain: TfrmMain
     Top = 10
     Width = 650
     Height = 450
-    ActivePage = TabSheet1
+    ActivePage = TabSheet2
     HotTrack = True
     TabOrder = 0
     object TabSheet1: TTabSheet
@@ -440,10 +440,6 @@ object frmMain: TfrmMain
     object TabSheet2: TTabSheet
       Caption = 'Server'
       ImageIndex = 1
-      ExplicitLeft = 0
-      ExplicitTop = 0
-      ExplicitWidth = 0
-      ExplicitHeight = 0
       object PageControl2: TPageControl
         Left = 600
         Top = 180
@@ -460,14 +456,8 @@ object frmMain: TfrmMain
         Align = alClient
         TabOrder = 1
         TabPosition = tpBottom
-        ExplicitWidth = 640
-        ExplicitHeight = 413
         object TabSheet4: TTabSheet
           Caption = 'Server Details'
-          ExplicitLeft = 0
-          ExplicitTop = 0
-          ExplicitWidth = 0
-          ExplicitHeight = 0
           object GroupBox1: TGroupBox
             Left = 4
             Top = 16
@@ -517,7 +507,7 @@ object frmMain: TfrmMain
               Left = 170
               Top = 30
               Width = 281
-              Height = 20
+              Height = 23
               Hint = '???????????????'#8220'D:\MirServer\'#8221'?'
               TabOrder = 0
               Text = 'D:\MirServer\'
@@ -526,7 +516,7 @@ object frmMain: TfrmMain
               Left = 170
               Top = 60
               Width = 281
-              Height = 20
+              Height = 23
               Hint = '????BDE ?????,??? '#8220'HeroDB'#8221'?'
               TabOrder = 1
               Text = 'HeroDB'
@@ -535,7 +525,7 @@ object frmMain: TfrmMain
               Left = 170
               Top = 90
               Width = 201
-              Height = 20
+              Height = 23
               Hint = '????????'
               TabOrder = 2
               Text = '?????'
@@ -544,7 +534,7 @@ object frmMain: TfrmMain
               Left = 170
               Top = 120
               Width = 121
-              Height = 20
+              Height = 23
               Hint = '????????IP???'
               TabOrder = 3
               Text = '127.0.0.1'
@@ -571,7 +561,7 @@ object frmMain: TfrmMain
               Left = 170
               Top = 153
               Width = 121
-              Height = 20
+              Height = 23
               Hint = '????????IP???'
               TabOrder = 6
               Text = '127.0.0.1'
@@ -616,10 +606,6 @@ object frmMain: TfrmMain
         object TabSheet5: TTabSheet
           Caption = 'LoginGate Details'
           ImageIndex = 1
-          ExplicitLeft = 0
-          ExplicitTop = 0
-          ExplicitWidth = 0
-          ExplicitHeight = 0
           object ButtonNext2: TButton
             Left = 510
             Top = 329
@@ -661,7 +647,7 @@ object frmMain: TfrmMain
                 Left = 60
                 Top = 20
                 Width = 81
-                Height = 21
+                Height = 24
                 Hint = '?????????????,??X?'
                 MaxValue = 10000
                 MinValue = 0
@@ -673,7 +659,7 @@ object frmMain: TfrmMain
                 Left = 60
                 Top = 50
                 Width = 81
-                Height = 21
+                Height = 24
                 Hint = '?????????????,??Y?'
                 MaxValue = 10000
                 MinValue = 0
@@ -709,7 +695,7 @@ object frmMain: TfrmMain
                 Left = 70
                 Top = 20
                 Width = 51
-                Height = 20
+                Height = 23
                 TabOrder = 0
                 Text = '7000'
               end
@@ -745,10 +731,6 @@ object frmMain: TfrmMain
         object TabSheet6: TTabSheet
           Caption = 'SelGate Details'
           ImageIndex = 2
-          ExplicitLeft = 0
-          ExplicitTop = 0
-          ExplicitWidth = 0
-          ExplicitHeight = 0
           object GroupBox3: TGroupBox
             Left = 10
             Top = 10
@@ -781,7 +763,7 @@ object frmMain: TfrmMain
                 Left = 60
                 Top = 20
                 Width = 81
-                Height = 21
+                Height = 24
                 Hint = '?????????????,??X?'
                 MaxValue = 10000
                 MinValue = 0
@@ -793,7 +775,7 @@ object frmMain: TfrmMain
                 Left = 60
                 Top = 50
                 Width = 81
-                Height = 21
+                Height = 24
                 Hint = '?????????????,??Y?'
                 MaxValue = 10000
                 MinValue = 0
@@ -836,7 +818,7 @@ object frmMain: TfrmMain
                 Left = 70
                 Top = 20
                 Width = 51
-                Height = 20
+                Height = 23
                 TabOrder = 0
                 Text = '7100'
               end
@@ -844,7 +826,7 @@ object frmMain: TfrmMain
                 Left = 70
                 Top = 50
                 Width = 51
-                Height = 20
+                Height = 23
                 TabOrder = 1
                 Text = '7100'
               end
@@ -898,10 +880,6 @@ object frmMain: TfrmMain
         object TabSheet12: TTabSheet
           Caption = 'RunGate Details'
           ImageIndex = 8
-          ExplicitLeft = 0
-          ExplicitTop = 0
-          ExplicitWidth = 0
-          ExplicitHeight = 0
           object ButtonPrv4: TButton
             Left = 400
             Top = 329
@@ -952,7 +930,7 @@ object frmMain: TfrmMain
                 Left = 60
                 Top = 20
                 Width = 81
-                Height = 21
+                Height = 24
                 Hint = '?????????????,??X?'
                 MaxValue = 10000
                 MinValue = 0
@@ -964,7 +942,7 @@ object frmMain: TfrmMain
                 Left = 60
                 Top = 50
                 Width = 81
-                Height = 21
+                Height = 24
                 Hint = '?????????????,??Y?'
                 MaxValue = 10000
                 MinValue = 0
@@ -1134,7 +1112,7 @@ object frmMain: TfrmMain
                 Left = 70
                 Top = 20
                 Width = 51
-                Height = 20
+                Height = 23
                 TabOrder = 0
                 Text = '7200'
               end
@@ -1142,7 +1120,7 @@ object frmMain: TfrmMain
                 Left = 70
                 Top = 50
                 Width = 51
-                Height = 20
+                Height = 23
                 TabOrder = 1
                 Text = '7200'
               end
@@ -1150,7 +1128,7 @@ object frmMain: TfrmMain
                 Left = 70
                 Top = 80
                 Width = 51
-                Height = 20
+                Height = 23
                 TabOrder = 2
                 Text = '7200'
               end
@@ -1158,7 +1136,7 @@ object frmMain: TfrmMain
                 Left = 190
                 Top = 20
                 Width = 51
-                Height = 20
+                Height = 23
                 TabOrder = 3
                 Text = '7200'
               end
@@ -1166,7 +1144,7 @@ object frmMain: TfrmMain
                 Left = 190
                 Top = 50
                 Width = 51
-                Height = 20
+                Height = 23
                 TabOrder = 4
                 Text = '7200'
               end
@@ -1174,7 +1152,7 @@ object frmMain: TfrmMain
                 Left = 190
                 Top = 83
                 Width = 51
-                Height = 20
+                Height = 23
                 TabOrder = 5
                 Text = '7200'
               end
@@ -1182,7 +1160,7 @@ object frmMain: TfrmMain
                 Left = 310
                 Top = 20
                 Width = 51
-                Height = 20
+                Height = 23
                 TabOrder = 6
                 Text = '7200'
               end
@@ -1190,7 +1168,7 @@ object frmMain: TfrmMain
                 Left = 310
                 Top = 50
                 Width = 51
-                Height = 20
+                Height = 23
                 TabOrder = 7
                 Text = '7200'
               end
@@ -1209,10 +1187,6 @@ object frmMain: TfrmMain
         object TabSheet7: TTabSheet
           Caption = 'LoginSrv Details'
           ImageIndex = 3
-          ExplicitLeft = 0
-          ExplicitTop = 0
-          ExplicitWidth = 0
-          ExplicitHeight = 0
           object GroupBox9: TGroupBox
             Left = 10
             Top = 10
@@ -1245,7 +1219,7 @@ object frmMain: TfrmMain
                 Left = 60
                 Top = 20
                 Width = 81
-                Height = 21
+                Height = 24
                 Hint = '?????????????,??X?'
                 MaxValue = 10000
                 MinValue = 0
@@ -1257,7 +1231,7 @@ object frmMain: TfrmMain
                 Left = 60
                 Top = 50
                 Width = 81
-                Height = 21
+                Height = 24
                 Hint = '?????????????,??Y?'
                 MaxValue = 10000
                 MinValue = 0
@@ -1307,7 +1281,7 @@ object frmMain: TfrmMain
                 Left = 80
                 Top = 20
                 Width = 51
-                Height = 20
+                Height = 23
                 TabOrder = 0
                 Text = '7200'
               end
@@ -1315,7 +1289,7 @@ object frmMain: TfrmMain
                 Left = 80
                 Top = 50
                 Width = 51
-                Height = 20
+                Height = 23
                 TabOrder = 1
                 Text = '7200'
               end
@@ -1323,7 +1297,7 @@ object frmMain: TfrmMain
                 Left = 206
                 Top = 20
                 Width = 52
-                Height = 20
+                Height = 23
                 TabOrder = 2
                 Text = '7200'
               end
@@ -1368,10 +1342,6 @@ object frmMain: TfrmMain
         object TabSheet8: TTabSheet
           Caption = 'DBSrv Details'
           ImageIndex = 4
-          ExplicitLeft = 0
-          ExplicitTop = 0
-          ExplicitWidth = 0
-          ExplicitHeight = 0
           object GroupBox11: TGroupBox
             Left = 10
             Top = 10
@@ -1404,7 +1374,7 @@ object frmMain: TfrmMain
                 Left = 60
                 Top = 20
                 Width = 81
-                Height = 21
+                Height = 24
                 Hint = '?????????????,??X?'
                 MaxValue = 10000
                 MinValue = 0
@@ -1416,7 +1386,7 @@ object frmMain: TfrmMain
                 Left = 60
                 Top = 50
                 Width = 81
-                Height = 21
+                Height = 24
                 Hint = '?????????????,??Y?'
                 MaxValue = 10000
                 MinValue = 0
@@ -1476,7 +1446,7 @@ object frmMain: TfrmMain
                 Left = 100
                 Top = 19
                 Width = 51
-                Height = 20
+                Height = 23
                 TabOrder = 0
                 Text = '5100'
               end
@@ -1484,7 +1454,7 @@ object frmMain: TfrmMain
                 Left = 100
                 Top = 49
                 Width = 51
-                Height = 20
+                Height = 23
                 TabOrder = 1
                 Text = '6000'
               end
@@ -1512,10 +1482,6 @@ object frmMain: TfrmMain
         object TabSheet9: TTabSheet
           Caption = 'LogData Details'
           ImageIndex = 5
-          ExplicitLeft = 0
-          ExplicitTop = 0
-          ExplicitWidth = 0
-          ExplicitHeight = 0
           object GroupBox13: TGroupBox
             Left = 10
             Top = 10
@@ -1548,7 +1514,7 @@ object frmMain: TfrmMain
                 Left = 60
                 Top = 20
                 Width = 81
-                Height = 21
+                Height = 24
                 Hint = '?????????????,??X?'
                 MaxValue = 10000
                 MinValue = 0
@@ -1560,7 +1526,7 @@ object frmMain: TfrmMain
                 Left = 60
                 Top = 50
                 Width = 81
-                Height = 21
+                Height = 24
                 Hint = '?????????????,??Y?'
                 MaxValue = 10000
                 MinValue = 0
@@ -1613,7 +1579,7 @@ object frmMain: TfrmMain
                 Left = 80
                 Top = 20
                 Width = 51
-                Height = 20
+                Height = 23
                 TabOrder = 0
                 Text = '10000'
               end
@@ -1641,10 +1607,6 @@ object frmMain: TfrmMain
         object TabSheet10: TTabSheet
           Caption = 'M2Server Details'
           ImageIndex = 6
-          ExplicitLeft = 0
-          ExplicitTop = 0
-          ExplicitWidth = 0
-          ExplicitHeight = 0
           object GroupBox15: TGroupBox
             Left = 10
             Top = 10
@@ -1677,7 +1639,7 @@ object frmMain: TfrmMain
                 Left = 60
                 Top = 20
                 Width = 81
-                Height = 21
+                Height = 24
                 Hint = '?????????????,??X?'
                 MaxValue = 10000
                 MinValue = 0
@@ -1689,7 +1651,7 @@ object frmMain: TfrmMain
                 Left = 60
                 Top = 50
                 Width = 81
-                Height = 21
+                Height = 24
                 Hint = '?????????????,??Y?'
                 MaxValue = 10000
                 MinValue = 0
@@ -1732,7 +1694,7 @@ object frmMain: TfrmMain
                 Left = 103
                 Top = 20
                 Width = 51
-                Height = 20
+                Height = 23
                 TabOrder = 0
                 Text = '5000'
               end
@@ -1740,7 +1702,7 @@ object frmMain: TfrmMain
                 Left = 103
                 Top = 50
                 Width = 51
-                Height = 20
+                Height = 23
                 TabOrder = 1
                 Text = '4900'
               end
@@ -1785,10 +1747,6 @@ object frmMain: TfrmMain
         object TabSheet11: TTabSheet
           Caption = 'Save Details'
           ImageIndex = 7
-          ExplicitLeft = 0
-          ExplicitTop = 0
-          ExplicitWidth = 0
-          ExplicitHeight = 0
           object ButtonSave: TButton
             Left = 510
             Top = 329
@@ -1822,10 +1780,6 @@ object frmMain: TfrmMain
     object TabSheet3: TTabSheet
       Caption = 'Backup'
       ImageIndex = 2
-      ExplicitLeft = 0
-      ExplicitTop = 0
-      ExplicitWidth = 0
-      ExplicitHeight = 0
       object LabelBackMsg: TLabel
         Left = 480
         Top = 380
@@ -2067,10 +2021,6 @@ object frmMain: TfrmMain
     object TabSheetDebug: TTabSheet
       Caption = '??'
       ImageIndex = 6
-      ExplicitLeft = 0
-      ExplicitTop = 0
-      ExplicitWidth = 0
-      ExplicitHeight = 0
       object GroupBox29: TGroupBox
         Left = 10
         Top = 0
@@ -2110,14 +2060,14 @@ object frmMain: TfrmMain
             Left = 70
             Top = 20
             Width = 121
-            Height = 20
+            Height = 23
             TabOrder = 0
           end
           object EditM2CheckCode: TEdit
             Left = 70
             Top = 50
             Width = 121
-            Height = 20
+            Height = 23
             TabOrder = 1
           end
           object ButtonM2Suspend: TButton
@@ -2134,7 +2084,7 @@ object frmMain: TfrmMain
             Left = 70
             Top = 80
             Width = 251
-            Height = 20
+            Height = 23
             TabOrder = 3
           end
         end
@@ -2170,14 +2120,14 @@ object frmMain: TfrmMain
             Left = 70
             Top = 20
             Width = 121
-            Height = 20
+            Height = 23
             TabOrder = 0
           end
           object EditDBCheckCode: TEdit
             Left = 70
             Top = 50
             Width = 121
-            Height = 20
+            Height = 23
             TabOrder = 1
           end
           object Button3: TButton
@@ -2194,7 +2144,7 @@ object frmMain: TfrmMain
             Left = 70
             Top = 80
             Width = 251
-            Height = 20
+            Height = 23
             TabOrder = 3
           end
         end
@@ -2203,10 +2153,6 @@ object frmMain: TfrmMain
     object tsDataList: TTabSheet
       Caption = '????'
       ImageIndex = 4
-      ExplicitLeft = 0
-      ExplicitTop = 0
-      ExplicitWidth = 0
-      ExplicitHeight = 0
       object Label27: TLabel
         Left = 13
         Top = 349
@@ -2297,10 +2243,6 @@ object frmMain: TfrmMain
     object TabSheet13: TTabSheet
       Caption = 'Clean Up'
       ImageIndex = 5
-      ExplicitLeft = 0
-      ExplicitTop = 0
-      ExplicitWidth = 0
-      ExplicitHeight = 0
       object GroupBox25: TGroupBox
         Left = 10
         Top = 10

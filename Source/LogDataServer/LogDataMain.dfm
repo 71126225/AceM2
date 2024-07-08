@@ -4,8 +4,8 @@ object FormMain: TFormMain
   BorderIcons = [biSystemMenu, biMinimize]
   BorderStyle = bsSingle
   Caption = 'Log Data Server'
-  ClientHeight = 48
-  ClientWidth = 373
+  ClientHeight = 38
+  ClientWidth = 298
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -18,43 +18,43 @@ object FormMain: TFormMain
   OnCreate = FormCreate
   OnDestroy = FormDestroy
   PixelsPerInch = 96
-  TextHeight = 15
+  TextHeight = 12
   object Label1: TLabel
-    Left = 8
-    Top = 8
-    Width = 68
-    Height = 15
+    Left = 6
+    Top = 6
+    Width = 72
+    Height = 12
     Caption = 'Current Log:'
   end
   object Label2: TLabel
-    Left = 8
-    Top = 29
-    Width = 57
-    Height = 15
+    Left = 6
+    Top = 23
+    Width = 54
+    Height = 12
     Caption = 'File Name'
   end
   object Label3: TLabel
-    Left = 110
-    Top = 8
-    Width = 7
-    Height = 15
+    Left = 88
+    Top = 6
+    Width = 6
+    Height = 12
     Caption = '0'
   end
   object Memo1: TMemo
     Left = 0
-    Top = 60
-    Width = 371
-    Height = 181
+    Top = 48
+    Width = 297
+    Height = 145
     Lines.Strings = (
       'Memo1')
     ScrollBars = ssBoth
     TabOrder = 0
   end
   object CheckBox1: TCheckBox
-    Left = 273
-    Top = 6
-    Width = 90
-    Height = 22
+    Left = 218
+    Top = 5
+    Width = 72
+    Height = 17
     Caption = 'ViewError'
     TabOrder = 1
     OnClick = CheckBox1Click

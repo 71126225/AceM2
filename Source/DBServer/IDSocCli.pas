@@ -48,7 +48,7 @@ type
     procedure SetGlobaSessionNoPlay(nSessionID: Integer);
     procedure SetGlobaSessionPlay(nSessionID: Integer);
     function GetGlobaSessionStatus(nSessionID: Integer): Boolean;
-    procedure CloseSession(sAccount: string; nSessionID: Integer); //关闭全局会话
+    procedure CloseSession(sAccount: string; nSessionID: Integer); //Close the global session
     procedure OpenConnect();
     procedure CloseConnect();
     function GetSession(sAccount, sIPaddr: string): Boolean;
@@ -134,7 +134,7 @@ begin
     end;
   end;
   m_sSockMsg := sScoketText;
-  //MainOutMessage('服务器已启动...');
+  //MainOutMessage('Server started...');
 end;
 
 procedure TFrmIDSoc.SendSocket(sSENDMSG: string);
@@ -465,7 +465,7 @@ begin
   IDSocketConnected := True;
   ID_sRemoteAddress := Socket.RemoteAddress;
   ID_nRemotePort := Socket.LocalPort;
-  //MainOutMessage('账号服务器连接成功...');
+  //MainOutMessage('Account server connection successful...');
   IDSendStr := '';
   Timer2.Enabled := True;
 end;

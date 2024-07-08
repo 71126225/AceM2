@@ -61,14 +61,10 @@ object frmCastleManage: TfrmCastleManage
       Top = 16
       Width = 337
       Height = 233
-      ActivePage = TabSheet2
+      ActivePage = TabSheet4
       TabOrder = 0
       object TabSheet1: TTabSheet
         Caption = 'General'
-        ExplicitLeft = 0
-        ExplicitTop = 0
-        ExplicitWidth = 0
-        ExplicitHeight = 0
         object GroupBox3: TGroupBox
           Left = 5
           Top = 5
@@ -162,10 +158,6 @@ object frmCastleManage: TfrmCastleManage
       object TabSheet3: TTabSheet
         Caption = 'Defence'
         ImageIndex = 2
-        ExplicitLeft = 0
-        ExplicitTop = 0
-        ExplicitWidth = 0
-        ExplicitHeight = 0
         object GroupBox5: TGroupBox
           Left = 5
           Top = 0
@@ -336,10 +328,6 @@ object frmCastleManage: TfrmCastleManage
       object TabSheet4: TTabSheet
         Caption = 'War'
         ImageIndex = 3
-        ExplicitLeft = 0
-        ExplicitTop = 0
-        ExplicitWidth = 0
-        ExplicitHeight = 0
         object GroupBox6: TGroupBox
           Left = 8
           Top = 0

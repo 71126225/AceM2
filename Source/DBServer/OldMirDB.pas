@@ -5,8 +5,8 @@ uses
   SysUtils, Windows, Classes, Grobal2;
 
 const
-  sOLdDBHeaderDesc = '新热血传奇数据库文件 2011/04/22';
-  sOLdDBIdxHeaderDesc = '新热血传奇数据库索引文件 2011/04/22';
+  sOLdDBHeaderDesc = 'New Legend Database File 2011/04/22';
+  sOLdDBIdxHeaderDesc = 'New Legend Database Index File 2011/04/22';
 type
 
   {TOldMissionInfo = packed record
@@ -86,7 +86,7 @@ type
     nGameDiamond: Integer;
     nGameGird: Integer;
     nPKPoint: Integer;
-    nPullulation: Integer;     //自然成长点
+    nPullulation: Integer;     //Natural growth point
     //btMagicConcatenation: TMagicConcatenation;
 
     btAttatckMode: byte;
@@ -105,10 +105,10 @@ type
     nAllowSetup: LongWord;
     boAddStabilityPoint: Boolean;
 
-    {boAllowGroup: Boolean; //  允许组队
-    boAllowGuildReCall: Boolean;   //允许行会天地合一
-    boAllowGroupReCall: Boolean;  //允许天地合一
-    boCheckGroup: Boolean;} //   组除需要验证
+    {boAllowGroup: Boolean; //  Allow team formation
+    boAllowGuildReCall: Boolean;   //Allow Guild Recall
+    boAllowGroupReCall: Boolean;  //Allow Group Recall
+    boCheckGroup: Boolean;} //   Group verification required
 
     btMasterCount: Word; //
     btWuXin: Byte;
@@ -116,7 +116,7 @@ type
     nExpRate: Integer;
     nExpTime: LongWord;
     dwUpLoadPhotoTime: TDateTime;
-    UserRealityInfo: TUserRealityInfo; //用户真实信息
+    UserRealityInfo: TUserRealityInfo; //User real information
     UserKeySetup: TUserKeySetup;
     QuestFlag: TQuestFlag;
     MissionFlag: TMissionFlag;
@@ -124,8 +124,8 @@ type
     MissionArithmometer: TMissionArithmometer;
     MissionIndex: TMissionIndex;
 
-    ReturnItems: TOldHumanReturnItems; //回购物品
-    AppendBagItems: TOldHumanAppendBagItems; //额外背包
+    ReturnItems: TOldHumanReturnItems; //Repurchase Items
+    AppendBagItems: TOldHumanAppendBagItems; //Extra backpack
     HumItems: TOldHumanUseItems;
     BagItems: TOldBagItems;
 

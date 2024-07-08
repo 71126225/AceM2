@@ -6,7 +6,7 @@ uses
   Grobal2, MudUtil, Common;
 
 const
-  //g_sVersion = '程序版本: 1.00 Build 20080825';
+  //g_sVersion = 'Program Version: 1.00 Build 20080825';
   g_sUpDateTime = 'Update: 2012/05/01';
 
   SIZEOFTHUMAN = 45105;
@@ -39,7 +39,7 @@ type
     sSendMsg: string;
     UserList: TList; //0x0C
     dwTick10: LongWord; //0x10
-    nGateID: Integer; //网关ID
+    nGateID: Integer; //Gateway ID
   end;
   pTGateInfo = ^TGateInfo;
   TUserInfo = record
@@ -55,7 +55,7 @@ type
     boChrQueryed: Boolean; //0x31
     dwTick34: LongWord; //0x34
     dwChrTick: LongWord; //0x38
-    nSelGateID: ShortInt; //角色网关ID
+    nSelGateID: ShortInt; //Role Gateway ID
     nDataCount: Integer;
     boWaitMsg: Boolean;
     nWaitID: Integer;
@@ -176,28 +176,28 @@ var
   g_boArraySortTime: LongWord;
 
   {
-  nClearIndex        :Integer;   //当前清理位置（记录的ID）
-  nClearCount        :Integer;   //当前已经清量数量
-  nRecordCount       :Integer;   //当前总记录数
+  nClearIndex        :Integer;   //Current cleanup position (recorded ID)
+  nClearCount        :Integer;   //The current amount has been cleared
+  nRecordCount       :Integer;   //Current total number of records
   }
   {
   boClearLevel1      :Boolean = True;
   boClearLevel2      :Boolean = True;
   boClearLevel3      :Boolean = True;
   }
-{  dwInterval: LongWord = 3000; //清理时间间隔长度
+{  dwInterval: LongWord = 3000; //Cleanup interval length
 
-  nLevel1: Integer = 1; //清理等级 1
-  nLevel2: Integer = 7; //清理等级 2
-  nLevel3: Integer = 14; //清理等级 3
+  nLevel1: Integer = 1; //Cleaning level 1
+  nLevel2: Integer = 7; //Cleaning level 2
+  nLevel3: Integer = 14; /Cleaning level 3
 
-  nDay1: Integer = 14; //清理未登录天数 1
-  nDay2: Integer = 62; //清理未登录天数 2
-  nDay3: Integer = 124; //清理未登录天数 3
+  nDay1: Integer = 14; //Clean up the number of days without logging in 1
+  nDay2: Integer = 62; //Clean up the number of days without logging in 2
+  nDay3: Integer = 124; //Clean up the number of days without logging in 3
 
-  nMonth1: Integer = 0; //清理未登录月数 1
-  nMonth2: Integer = 0; //清理未登录月数 2
-  nMonth3: Integer = 0; //清理未登录月数 3  }
+  nMonth1: Integer = 0; //Clean up the number of months without logging in 1
+  nMonth2: Integer = 0; //Clean up the number of months without logging in 2
+  nMonth3: Integer = 0; //Clean up the number of months without logging in 3 }
 
   g_nClearRecordCount: Integer;
   g_nClearIndex: Integer; //0x324
@@ -233,7 +233,7 @@ var
   dwKeepIDAliveTick: LongWord;
   dwKeepServerAliveTick: LongWord;
 
-  //AttackIPaddrList: TGList; //攻击IP临时列表
+  //AttackIPaddrList: TGList; //Temporary list of attacking IP addresses
   //boAttack: Boolean = False;
 //  boDenyChrName: Boolean = True;
 
@@ -593,7 +593,7 @@ begin
           g_FiltrateUserName.Add(sStr);
       end;
     end else begin
-      TempList.Add(';创建人物过滤字符，一行一个过滤');
+      TempList.Add('Create character filter characters, one filter per line');
       TempList.SaveToFile(sFiltrateUserName);
     end;
   Finally

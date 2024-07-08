@@ -23,7 +23,7 @@ object frmViewList: TfrmViewList
     Top = 9
     Width = 899
     Height = 488
-    ActivePage = TabSheet4
+    ActivePage = TabSheet15
     TabOrder = 0
     OnChange = PageControl1Change
     object TabSheet15: TTabSheet
@@ -149,6 +149,10 @@ object frmViewList: TfrmViewList
           Hint = '??????,???????????????,??????????'
           Caption = 'Log'
           ImageIndex = 8
+          ExplicitLeft = 0
+          ExplicitTop = 0
+          ExplicitWidth = 0
+          ExplicitHeight = 0
           object GroupBox8: TGroupBox
             Left = 288
             Top = 4
@@ -234,6 +238,10 @@ object frmViewList: TfrmViewList
         object TabSheet2: TTabSheet
           Caption = 'Drop'
           ImageIndex = 2
+          ExplicitLeft = 0
+          ExplicitTop = 0
+          ExplicitWidth = 0
+          ExplicitHeight = 0
           object Label1: TLabel
             Left = 191
             Top = 21
@@ -456,6 +464,10 @@ object frmViewList: TfrmViewList
         object TabSheet3: TTabSheet
           Caption = 'User CMD'
           ImageIndex = 3
+          ExplicitLeft = 0
+          ExplicitTop = 0
+          ExplicitWidth = 0
+          ExplicitHeight = 0
           object Label12: TLabel
             Left = 447
             Top = 24

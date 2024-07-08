@@ -2389,7 +2389,7 @@ begin
     if not m_boGateStop then begin
       m_boGateStop := True;
       m_boGateStopTick := GetTickCount + 5000;
-      MainOutMessage('网关已全部关闭，延时5秒关闭游戏引擎...');
+      MainOutMessage('All gateways have been shut down, and the game engine will be shut down after a delay of 5 seconds....');
       Exit;
     end;
     if GetTickCount < m_boGateStopTick then exit;

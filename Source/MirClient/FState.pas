@@ -8893,14 +8893,14 @@ begin
     btJob := 2;
     SelectChrScene.SelChrNewJob(2);
   end;
-//  if Sender = DccKiller then begin
-//    btJob := 3;
-//    SelectChrScene.SelChrNewJob(3);
-//  end;
-//  if Sender = DccRanger then begin
-//    btJob := 4;
-//    SelectChrScene.SelChrNewJob(4);
-//  end;
+  if Sender = DccKiller then begin
+    btJob := 3;
+    SelectChrScene.SelChrNewJob(3);
+  end;
+  if Sender = DccRanger then begin
+    btJob := 4;
+   SelectChrScene.SelChrNewJob(4);
+  end;
   if Sender = DccMale then begin
     btSex := 0;
     SelectChrScene.SelChrNewm_btSex(0);

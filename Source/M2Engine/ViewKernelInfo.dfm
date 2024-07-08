@@ -23,15 +23,11 @@ object frmViewKernelInfo: TfrmViewKernelInfo
     Top = 8
     Width = 385
     Height = 373
-    ActivePage = TabSheet5
+    ActivePage = TabSheet1
     TabOrder = 0
     object TabSheet3: TTabSheet
       Caption = 'Global Variables'
       ImageIndex = 2
-      ExplicitLeft = 0
-      ExplicitTop = 0
-      ExplicitWidth = 0
-      ExplicitHeight = 0
       object ListViewInteger: TListView
         Left = 9
         Top = 9
@@ -102,10 +98,6 @@ object frmViewKernelInfo: TfrmViewKernelInfo
     end
     object TabSheet1: TTabSheet
       Caption = 'Game Data'
-      ExplicitLeft = 0
-      ExplicitTop = 0
-      ExplicitWidth = 0
-      ExplicitHeight = 0
       object GroupBox1: TGroupBox
         Left = 8
         Top = 4
@@ -352,10 +344,6 @@ object frmViewKernelInfo: TfrmViewKernelInfo
     object TabSheet5: TTabSheet
       Caption = 'Thread'
       ImageIndex = 4
-      ExplicitLeft = 0
-      ExplicitTop = 0
-      ExplicitWidth = 0
-      ExplicitHeight = 0
       object GroupBox7: TGroupBox
         Left = 10
         Top = 3

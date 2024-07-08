@@ -3353,7 +3353,7 @@ object frmGameConfig: TfrmGameConfig
         Top = 90
         Width = 143
         Height = 89
-        Caption = '1000'#32423#20197#21518#32463#39564#37197#21046
+        Caption = 'Exp After Lvl 1000'
         TabOrder = 3
         object Label15: TLabel
           Left = 6
@@ -5203,7 +5203,7 @@ object frmGameConfig: TfrmGameConfig
         Top = 168
         Width = 139
         Height = 44
-        Caption = #21917#33647#26102#38388#25511#21046
+        Caption = 'Potion Time'
         TabOrder = 11
         object Label156: TLabel
           Left = 11

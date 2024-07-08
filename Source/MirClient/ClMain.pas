@@ -378,7 +378,7 @@ type
     procedure SendMakeItem(TitleItem, LevelItem, MakeStone1, MakeStone2, MakeStone3: Integer);
     procedure SendSpeedHackUser;
     procedure SendGetSayItem(nid, ItemIndex: Integer);
-    //SpeedHaker 荤侩磊甫 辑滚俊 烹焊茄促.
+    //SpeedHaker Notify the server of the user.
     //procedure SendAdjustBonus(remain: Integer; babil: TNakedAbility);
     //procedure SendPassword(sPassword: string; nIdent: Integer);
     //procedure SendShopDlg(wPage: Word);
@@ -707,7 +707,7 @@ begin
 
   //showmessage(dateTimetostr(LongWordToDateTime(DateTimeToLongWord(Now))));
   //showmessage(inttostr(sizeof(TDXTexture)));
-  //flname := '‐舞娘';
+  //flname := '?舞娘';
   //GetValidStr3(flname, flname, ['\']);
   //LoadCursorFromFile(
   FDDrawHandle := 0;
@@ -4477,26 +4477,26 @@ begin
             end;
           end
           else begin
-            //骑马不允许操作
+            //Horse riding is not allowed
             if (g_MySelf.m_btHorse = 0) then begin
               tdir := GetNextDirection(g_MySelf.m_nCurrX, g_MySelf.m_nCurrY, g_nMouseCurrX, g_nMouseCurrY);
               if CanNextAction and ServerAcceptNextAction and CanNextHit then begin
                 nHitMsg := CM_HIT + Random(3);
 
-                //是否可以使用刺杀
+                //Can I use thorns?
                 if (* g_SetupInfo.boAutoLongHit or *) (g_boCanLongHit and (TargetInSwordLongAttackRange(tdir))) then begin
                   nHitMsg := CM_LONGHIT;
                 end;
                 if (g_boCanDoubleSlash) and
-                  (g_MySelf.m_Abil.MP >= 3) then begin //是否可以使用半月
+                  (g_MySelf.m_Abil.MP >= 3) then begin //Can I use Half Moon?
                   nHitMsg := CM_DOUBLESLASH;
                 end;
                 if (g_boCanWideHit (* or g_SetupInfo.boAutoWideHit *) ) and
-                  (g_MySelf.m_Abil.MP >= 3) and (TargetInSwordWideAttackRange(tdir)) then begin //是否可以使用半月
+                  (g_MySelf.m_Abil.MP >= 3) and (TargetInSwordWideAttackRange(tdir)) then begin //Can I use Half Moon?
                   nHitMsg := CM_WIDEHIT;
                 end;
                 if (g_boCanCrsHit (* or g_SetupInfo.boAutoWideHit *) ) and
-                  (g_MySelf.m_Abil.MP >= 6) and (TargetInSwordWideAttackRange(tdir)) then begin //是否可以使用半月
+                  (g_MySelf.m_Abil.MP >= 6) and (TargetInSwordWideAttackRange(tdir)) then begin //Can I use Half Moon?
                   nHitMsg := CM_CROSSHIT;
                 end;
                 g_MySelf.SendMsg(nHitMsg, g_MySelf.m_nCurrX, g_MySelf.m_nCurrY, tdir, 0, 0, '', 0);
@@ -4509,7 +4509,7 @@ begin
           if (g_nMouseCurrX = (g_MySelf.m_nCurrX)) and (g_nMouseCurrY = (g_MySelf.m_nCurrY)) then begin
             AutoPickUpItem(False);
           end
-          else if FrmMain.m_CurrentTick - g_dwLastAttackTick > 300 then begin //最后攻击操作停留指定时间才能移动
+          else if FrmMain.m_CurrentTick - g_dwLastAttackTick > 300 then begin //The last attack operation can only be moved after staying for a specified time
             {if ssCtrl in Shift then begin
               g_ChrAction := caRun;
             end
@@ -5162,7 +5162,7 @@ begin
            *)
     end;
 
-    //自动隐身
+    //Automatic Hide
     {if g_SetupInfo.boAutoCloak and g_MyMagicArry[SKILL_CLOAK].boStudy and
       ((g_MySelf.m_nState and $00800000) = 0) and
       (FrmMain.m_CurrentTick > g_MyMagicArry[SKILL_CLOAK].dwInterval)  then begin
@@ -6269,7 +6269,7 @@ begin
   SendSocket(EncodeMessage(Msg));
 end;
 
-//宰杀动物
+//slaughter?
 
 procedure TfrmMain.SendButchAnimal(X, Y, dir, actorid: Integer);
 var
@@ -8498,7 +8498,7 @@ begin
         end;
         {if g_MySelf.m_btWuxinLevel <> Msg.tag then begin
           g_MySelf.m_btWuxinLevel := Msg.tag;
-          DScreen.AddSysMsg('五行提升到了 <CO$FFFF>' + IntToStr(Msg.tag) + '<CE> 级', cllime);
+          DScreen.AddSysMsg('Five ElementsStir?<CO$FFFF>' + IntToStr(Msg.tag) + '<CE> class', cllime);
         end;     }
       end;
     SM_MAKEMAGIC: begin
@@ -9484,7 +9484,7 @@ begin
     SM_MAKEDRUG_FAIL: begin
         FrmDlg.LastestClickTime := FrmMain.m_CurrentTick;
         case msg.Recog of
-          1: FrmDlg.DMessageDlg('发生了错误.', [mbOk]);
+          1: FrmDlg.DMessageDlg('hairshun village?', [mbOk]);
           2: FrmDlg.DMessageDlg('没有更多的物品可以携带了.',
               [mbOk]);
           3: FrmDlg.DMessageDlg(g_sGoldName  + '不足.', [mbOk]);
@@ -11949,7 +11949,7 @@ begin
     FrmDlg.DBTHintClose.Caption := 'Return';
     FrmDlg.boHintFocus := True;
   end;
-  //FrmDlg.DMessageDlg('[失败] 没有找到被删除的角色。', [mbOK]);
+  //FrmDlg.DMessageDlg('[Fail] No results found Environment ?, [mbOK]);
 end;
 
 procedure TfrmMain.ClientGetSaveItemList(Msg: pTDefaultMessage; bodystr: string);

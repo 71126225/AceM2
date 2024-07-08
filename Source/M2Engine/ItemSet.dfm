@@ -23,7 +23,7 @@ object frmItemSet: TfrmItemSet
     Top = 8
     Width = 489
     Height = 313
-    ActivePage = TabSheet9
+    ActivePage = TabSheet8
     TabOrder = 0
     object TabSheet8: TTabSheet
       Caption = 'Normal Items'
@@ -32,7 +32,7 @@ object frmItemSet: TfrmItemSet
         Top = 4
         Width = 465
         Height = 245
-        ActivePage = TabSheet4
+        ActivePage = TabSheet22
         MultiLine = True
         TabOrder = 0
         object TabSheet22: TTabSheet
@@ -516,7 +516,7 @@ object frmItemSet: TfrmItemSet
         Top = 4
         Width = 465
         Height = 245
-        ActivePage = TabSheet10
+        ActivePage = TabSheet3
         MultiLine = True
         TabOrder = 0
         object TabSheet10: TTabSheet

@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="D:\AceM2 Source\Source\M2Engine\OnlineMsg.dfm" source-language="en-GB" target-language="zh-CN" datatype="delphiform" tool="ETM v10.0" ts="D:\AceM2 Source\Source\M2Engine\OnlineMsg.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">45469.9128935185</prop>
+        <prop prop-type="OrigDateTime">45468.8302083333</prop>
+        <prop prop-type="XlatDateTime">45468.8302083333</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">76</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:frmOnlineMsg.Left" resname="O:frmOnlineMsg.Left">
+        <source>367</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128995718</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TfrmOnlineMsg</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.Top" resname="O:frmOnlineMsg.Top">
+        <source>319</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128995718</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TfrmOnlineMsg</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.BorderIcons" resname="O:frmOnlineMsg.BorderIcons">
+        <source>[biSystemMenu]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128995718</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TfrmOnlineMsg</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.BorderStyle" resname="O:frmOnlineMsg.BorderStyle">
+        <source>bsSingle</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128995718</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TfrmOnlineMsg</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.Caption" resname="O:frmOnlineMsg.Caption">
+        <source>'Online Message'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128995833</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TfrmOnlineMsg</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.ClientHeight" resname="O:frmOnlineMsg.ClientHeight">
+        <source>415</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128995833</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TfrmOnlineMsg</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.ClientWidth" resname="O:frmOnlineMsg.ClientWidth">
+        <source>550</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128995833</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TfrmOnlineMsg</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.Color" resname="O:frmOnlineMsg.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128995833</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TfrmOnlineMsg</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.Font.Charset" resname="O:frmOnlineMsg.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128995833</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TfrmOnlineMsg</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.Font.Color" resname="O:frmOnlineMsg.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128995833</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TfrmOnlineMsg</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.Font.Height" resname="O:frmOnlineMsg.Font.Height">
+        <source>-12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128995833</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TfrmOnlineMsg</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.Font.Name" resname="O:frmOnlineMsg.Font.Name">
+        <source>'??'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128995949</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TfrmOnlineMsg</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.Font.Style" resname="O:frmOnlineMsg.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128995949</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TfrmOnlineMsg</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.OldCreateOrder" resname="O:frmOnlineMsg.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128995949</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TfrmOnlineMsg</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.Position" resname="O:frmOnlineMsg.Position">
+        <source>poOwnerFormCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128995949</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TfrmOnlineMsg</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.OnCreate" resname="O:frmOnlineMsg.OnCreate">
+        <source>FormCreate</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128995949</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TfrmOnlineMsg</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.PixelsPerInch" resname="O:frmOnlineMsg.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128995949</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TfrmOnlineMsg</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.TextHeight" resname="O:frmOnlineMsg.TextHeight">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128995949</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TfrmOnlineMsg</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:Label1.Left" resname="O:frmOnlineMsg.O:Label1.Left">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996065</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:Label1.Top" resname="O:frmOnlineMsg.O:Label1.Top">
+        <source>211</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996065</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:Label1.Width" resname="O:frmOnlineMsg.O:Label1.Width">
+        <source>54</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996065</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:Label1.Height" resname="O:frmOnlineMsg.O:Label1.Height">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996065</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:Label1.Caption" resname="O:frmOnlineMsg.O:Label1.Caption">
+        <source>'Message:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996065</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ComboBoxMsg.Left" resname="O:frmOnlineMsg.O:ComboBoxMsg.Left">
+        <source>79</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996065</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ComboBoxMsg.Top" resname="O:frmOnlineMsg.O:ComboBoxMsg.Top">
+        <source>206</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996065</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ComboBoxMsg.Width" resname="O:frmOnlineMsg.O:ComboBoxMsg.Width">
+        <source>467</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996181</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ComboBoxMsg.Height" resname="O:frmOnlineMsg.O:ComboBoxMsg.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996181</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ComboBoxMsg.Style" resname="O:frmOnlineMsg.O:ComboBoxMsg.Style">
+        <source>csSimple</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996181</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ComboBoxMsg.ItemHeight" resname="O:frmOnlineMsg.O:ComboBoxMsg.ItemHeight">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996181</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ComboBoxMsg.TabOrder" resname="O:frmOnlineMsg.O:ComboBoxMsg.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996181</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ComboBoxMsg.OnChange" resname="O:frmOnlineMsg.O:ComboBoxMsg.OnChange">
+        <source>ComboBoxMsgChange</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996181</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ComboBoxMsg.OnKeyPress" resname="O:frmOnlineMsg.O:ComboBoxMsg.OnKeyPress">
+        <source>ComboBoxMsgKeyPress</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996296</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:MemoMsg.Left" resname="O:frmOnlineMsg.O:MemoMsg.Left">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996296</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TMemo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:MemoMsg.Top" resname="O:frmOnlineMsg.O:MemoMsg.Top">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996296</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TMemo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:MemoMsg.Width" resname="O:frmOnlineMsg.O:MemoMsg.Width">
+        <source>542</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996296</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TMemo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:MemoMsg.Height" resname="O:frmOnlineMsg.O:MemoMsg.Height">
+        <source>191</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996296</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TMemo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:MemoMsg.Lines.Strings[0]" resname="O:frmOnlineMsg.O:MemoMsg.Lines.Strings[0]">
+        <source>'MemoMsg'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996296</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TMemo</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:MemoMsg.TabOrder" resname="O:frmOnlineMsg.O:MemoMsg.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996296</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TMemo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:MemoMsg.OnChange" resname="O:frmOnlineMsg.O:MemoMsg.OnChange">
+        <source>MemoMsgChange</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TMemo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:StringGrid.Left" resname="O:frmOnlineMsg.O:StringGrid.Left">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:StringGrid.Top" resname="O:frmOnlineMsg.O:StringGrid.Top">
+        <source>274</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:StringGrid.Width" resname="O:frmOnlineMsg.O:StringGrid.Width">
+        <source>542</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:StringGrid.Height" resname="O:frmOnlineMsg.O:StringGrid.Height">
+        <source>132</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:StringGrid.ColCount" resname="O:frmOnlineMsg.O:StringGrid.ColCount">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:StringGrid.DefaultColWidth" resname="O:frmOnlineMsg.O:StringGrid.DefaultColWidth">
+        <source>430</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:StringGrid.DefaultRowHeight" resname="O:frmOnlineMsg.O:StringGrid.DefaultRowHeight">
+        <source>18</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:StringGrid.FixedCols" resname="O:frmOnlineMsg.O:StringGrid.FixedCols">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:StringGrid.RowCount" resname="O:frmOnlineMsg.O:StringGrid.RowCount">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:StringGrid.FixedRows" resname="O:frmOnlineMsg.O:StringGrid.FixedRows">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:StringGrid.ScrollBars" resname="O:frmOnlineMsg.O:StringGrid.ScrollBars">
+        <source>ssVertical</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:StringGrid.TabOrder" resname="O:frmOnlineMsg.O:StringGrid.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:StringGrid.OnClick" resname="O:frmOnlineMsg.O:StringGrid.OnClick">
+        <source>StringGridClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:StringGrid.OnDblClick" resname="O:frmOnlineMsg.O:StringGrid.OnDblClick">
+        <source>StringGridDblClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ButtonAdd.Left" resname="O:frmOnlineMsg.O:ButtonAdd.Left">
+        <source>459</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996643</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ButtonAdd.Top" resname="O:frmOnlineMsg.O:ButtonAdd.Top">
+        <source>239</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996643</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ButtonAdd.Width" resname="O:frmOnlineMsg.O:ButtonAdd.Width">
+        <source>84</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996643</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ButtonAdd.Height" resname="O:frmOnlineMsg.O:ButtonAdd.Height">
+        <source>29</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996643</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ButtonAdd.Caption" resname="O:frmOnlineMsg.O:ButtonAdd.Caption">
+        <source>'Add(&amp;A)'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996643</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ButtonAdd.Enabled" resname="O:frmOnlineMsg.O:ButtonAdd.Enabled">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996643</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ButtonAdd.TabOrder" resname="O:frmOnlineMsg.O:ButtonAdd.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996643</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ButtonAdd.OnClick" resname="O:frmOnlineMsg.O:ButtonAdd.OnClick">
+        <source>ButtonAddClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996759</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ButtonDelete.Left" resname="O:frmOnlineMsg.O:ButtonDelete.Left">
+        <source>369</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996759</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ButtonDelete.Top" resname="O:frmOnlineMsg.O:ButtonDelete.Top">
+        <source>239</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996759</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ButtonDelete.Width" resname="O:frmOnlineMsg.O:ButtonDelete.Width">
+        <source>84</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996759</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ButtonDelete.Height" resname="O:frmOnlineMsg.O:ButtonDelete.Height">
+        <source>29</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996759</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ButtonDelete.Caption" resname="O:frmOnlineMsg.O:ButtonDelete.Caption">
+        <source>'Delete(&amp;D)'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996759</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ButtonDelete.Enabled" resname="O:frmOnlineMsg.O:ButtonDelete.Enabled">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ButtonDelete.TabOrder" resname="O:frmOnlineMsg.O:ButtonDelete.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ButtonDelete.OnClick" resname="O:frmOnlineMsg.O:ButtonDelete.OnClick">
+        <source>ButtonDeleteClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ButtonSend.Left" resname="O:frmOnlineMsg.O:ButtonSend.Left">
+        <source>185</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ButtonSend.Top" resname="O:frmOnlineMsg.O:ButtonSend.Top">
+        <source>238</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ButtonSend.Width" resname="O:frmOnlineMsg.O:ButtonSend.Width">
+        <source>84</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ButtonSend.Height" resname="O:frmOnlineMsg.O:ButtonSend.Height">
+        <source>28</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ButtonSend.Caption" resname="O:frmOnlineMsg.O:ButtonSend.Caption">
+        <source>'Send(&amp;S)'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996991</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ButtonSend.TabOrder" resname="O:frmOnlineMsg.O:ButtonSend.TabOrder">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996991</prop><prop prop-type="Status">0</prop><prop prop-type="Order">74</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmOnlineMsg.O:ButtonSend.OnClick" resname="O:frmOnlineMsg.O:ButtonSend.OnClick">
+        <source>ButtonSendClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9128996991</prop><prop prop-type="Status">0</prop><prop prop-type="Order">75</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -38,15 +38,15 @@ uses HUtil32, DBShare;
 procedure TFrmEditAddr.FormCreate(Sender: TObject);
 begin
   ERowCount.Value := 8;
-  AddrGrid.Cells[0, 0] := '角色选择网关地址';
-  AddrGrid.Cells[1, 0] := '游戏网关';
-  AddrGrid.Cells[2, 0] := '端口';
-  AddrGrid.Cells[3, 0] := '游戏网关';
-  AddrGrid.Cells[4, 0] := '端口';
-  AddrGrid.Cells[5, 0] := '游戏网关';
-  AddrGrid.Cells[6, 0] := '端口';
-  AddrGrid.Cells[7, 0] := '游戏网关';
-  AddrGrid.Cells[8, 0] := '端口';
+  AddrGrid.Cells[0, 0] := 'Role Select Gateway Address';
+  AddrGrid.Cells[1, 0] := 'Game Gateway';
+  AddrGrid.Cells[2, 0] := 'port';
+  AddrGrid.Cells[3, 0] := 'Game Gateway';
+  AddrGrid.Cells[4, 0] := 'port';
+  AddrGrid.Cells[5, 0] := 'Game Gateway';
+  AddrGrid.Cells[6, 0] := 'port';
+  AddrGrid.Cells[7, 0] := 'Game Gateway';
+  AddrGrid.Cells[8, 0] := 'port';
 end;
 
 procedure TFrmEditAddr.BtnApplyRowClick(Sender: TObject);

@@ -77,7 +77,7 @@ object FrmAttackSabukWall: TFrmAttackSabukWall
     Top = 304
     Width = 73
     Height = 17
-    Caption = #25152#26377#34892#20250
+    Caption = 'All Guilds'
     TabOrder = 4
     OnClick = CheckBoxAllClick
   end

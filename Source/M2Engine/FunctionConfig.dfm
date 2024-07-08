@@ -1596,7 +1596,7 @@ object frmFunctionConfig: TfrmFunctionConfig
         Top = 2
         Width = 446
         Height = 269
-        ActivePage = TabSheet15
+        ActivePage = TabSheet54
         TabOrder = 1
         object TabSheet54: TTabSheet
           Caption = 'Basic Parameters'
@@ -1663,7 +1663,7 @@ object frmFunctionConfig: TfrmFunctionConfig
             Top = 3
             Width = 432
             Height = 237
-            ActivePage = TabSheet4
+            ActivePage = TabSheet24
             TabOrder = 0
             object TabSheet3: TTabSheet
               Caption = 'Fencing'
@@ -2132,7 +2132,7 @@ object frmFunctionConfig: TfrmFunctionConfig
             Top = 3
             Width = 432
             Height = 236
-            ActivePage = TabSheet17
+            ActivePage = TabSheet25
             TabOrder = 0
             object TabSheet8: TTabSheet
               Caption = 'Taming'
@@ -2810,7 +2810,7 @@ object frmFunctionConfig: TfrmFunctionConfig
             Top = 3
             Width = 432
             Height = 236
-            ActivePage = TabSheet26
+            ActivePage = ts9
             TabOrder = 0
             object TabSheet16: TTabSheet
               Caption = 'Poisoning'
@@ -2992,7 +2992,7 @@ object frmFunctionConfig: TfrmFunctionConfig
               end
             end
             object TabSheet31: TTabSheet
-              Caption = '????'
+              Caption = 'Deva'
               ImageIndex = 9
               object GroupBox67: TGroupBox
                 Left = 5
@@ -3400,7 +3400,7 @@ object frmFunctionConfig: TfrmFunctionConfig
             Top = 3
             Width = 432
             Height = 236
-            ActivePage = TabSheet30
+            ActivePage = TabSheet29
             TabOrder = 0
             object TabSheet29: TTabSheet
               Caption = '????'
@@ -5185,7 +5185,7 @@ object frmFunctionConfig: TfrmFunctionConfig
           Width = 149
           Height = 20
           Style = csDropDownList
-          ItemHeight = 0
+          ItemHeight = 12
           ItemIndex = 0
           TabOrder = 1
           Text = '????'

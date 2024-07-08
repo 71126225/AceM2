@@ -24,9 +24,9 @@ uses
 
 {$R *.res}
 const
-  PlugName = '信件服务管理插件 (2009/08/27)';
+  PlugName = 'Mail service management plug-in (2009/08/27)';
   LoadPlus = '加载信件服务管理插件成功(%d/%d)...';
-  InitPlus = '正在初始化信件服务管理插件...';
+  InitPlus = 'Initializing the mail service management plug-in...';
   InitPlusOK = '初始化信件服务管理插件成功...';
   UnLoadPlus = '卸载信件服务管理插件成功...';
 type

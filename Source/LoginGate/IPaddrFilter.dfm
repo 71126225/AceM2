@@ -3,9 +3,9 @@ object frmIPaddrFilter: TfrmIPaddrFilter
   Top = 168
   BorderIcons = [biSystemMenu, biMinimize]
   BorderStyle = bsSingle
-  Caption = #32593#32476#23433#20840#36807#28388
+  Caption = 'Web Security Filtering'
   ClientHeight = 331
-  ClientWidth = 550
+  ClientWidth = 634
   Color = clBtnFace
   Font.Charset = ANSI_CHARSET
   Font.Color = clWindowText
@@ -21,14 +21,14 @@ object frmIPaddrFilter: TfrmIPaddrFilter
     Top = 8
     Width = 116
     Height = 316
-    Caption = #24403#21069#36830#25509
+    Caption = 'Current Connection'
     TabOrder = 0
     object Label4: TLabel
       Left = 8
       Top = 16
-      Width = 54
+      Width = 96
       Height = 12
-      Caption = #36830#25509#21015#34920':'
+      Caption = 'Connection List:'
     end
     object ListBoxActiveList: TListBox
       Left = 8
@@ -50,28 +50,28 @@ object frmIPaddrFilter: TfrmIPaddrFilter
     Top = 8
     Width = 225
     Height = 316
-    Caption = #36807#28388#21015#34920
+    Caption = 'Filter List'
     TabOrder = 1
     object LabelTempList: TLabel
       Left = 8
       Top = 16
-      Width = 54
+      Width = 108
       Height = 12
-      Caption = #21160#24577#36807#28388':'
+      Caption = 'Dynamic Filtering:'
     end
     object Label1: TLabel
       Left = 113
       Top = 16
-      Width = 54
+      Width = 114
       Height = 12
-      Caption = #27704#20037#36807#28388':'
+      Caption = 'Permanent filtrati:'
     end
     object Label23: TLabel
       Left = 7
       Top = 187
-      Width = 54
+      Width = 96
       Height = 12
-      Caption = #36807#28388'IP'#27573':'
+      Caption = 'Filter IP range:'
     end
     object ListBoxBlockList: TListBox
       Left = 113
@@ -121,72 +121,72 @@ object frmIPaddrFilter: TfrmIPaddrFilter
   object GroupBox6: TGroupBox
     Left = 354
     Top = 8
-    Width = 187
+    Width = 247
     Height = 283
-    Caption = #25915#20987#20445#25252
+    Caption = 'Attack Protection'
     TabOrder = 2
     object GroupBox7: TGroupBox
       Left = 10
       Top = 19
-      Width = 168
+      Width = 215
       Height = 142
-      Caption = #36830#25509#20445#25252
+      Caption = 'Connection protection'
       TabOrder = 0
       object Label7: TLabel
         Left = 57
         Top = 91
         Width = 66
         Height = 12
-        Caption = #27627#31186'/'#36830#25509#25968
+        Caption = 'M/S/connect'
       end
       object Label2: TLabel
         Left = 57
         Top = 116
         Width = 66
         Height = 12
-        Caption = #27627#31186'/'#36830#25509#25968
+        Caption = 'M/s/Connect'
       end
       object Label9: TLabel
         Left = 7
         Top = 41
         Width = 54
         Height = 12
-        Caption = #36830#25509#36229#26102':'
+        Caption = 'Time out:'
       end
       object Label3: TLabel
         Left = 7
         Top = 19
         Width = 54
         Height = 12
-        Caption = #36830#25509#38480#21046':'
+        Caption = 'Connect :'
       end
       object Label10: TLabel
         Left = 119
         Top = 17
-        Width = 42
+        Width = 78
         Height = 12
-        Caption = #36830#25509'/IP'
+        Caption = 'Connection/IP'
       end
       object Label11: TLabel
         Left = 119
         Top = 41
-        Width = 12
+        Width = 36
         Height = 12
-        Caption = #31186
+        Caption = 'Second'
       end
       object Label5: TLabel
         Left = 7
         Top = 65
         Width = 66
         Height = 12
-        Caption = #31354#36830#25509#36229#26102':'
+        Caption = 'Empty time:'
       end
       object Label6: TLabel
         Left = 119
         Top = 65
-        Width = 12
+        Width = 36
         Height = 12
-        Caption = #31186
+        Caption = 'Second'
       end
       object Edit_CountLimit1: TSpinEdit
         Left = 126
@@ -289,17 +289,19 @@ object frmIPaddrFilter: TfrmIPaddrFilter
     object GroupBox3: TGroupBox
       Left = 10
       Top = 167
-      Width = 168
+      Width = 223
       Height = 73
-      Caption = #25915#20987#25805#20316
+      Caption = 'Attack Operation'
       TabOrder = 1
       object RadioAddBlockList: TRadioButton
         Left = 16
         Top = 48
-        Width = 129
+        Width = 204
         Height = 17
-        Hint = #23558#27492#36830#25509#30340'IP'#21152#20837#27704#20037#36807#28388#21015#34920#65292#24182#23558#27492'IP'#30340#25152#26377#36830#25509#24378#34892#20013#26029
-        Caption = #21152#20837#27704#20037#36807#28388#21015#34920
+        Hint = 
+          'Add the IP of this connection to the permanent filter list and f' +
+          'orcibly terminate all connections of this IP'
+        Caption = 'Add to permanent filter list'
         ParentShowHint = False
         ShowHint = True
         TabOrder = 0
@@ -308,10 +310,12 @@ object frmIPaddrFilter: TfrmIPaddrFilter
       object RadioAddTempList: TRadioButton
         Left = 16
         Top = 32
-        Width = 129
+        Width = 193
         Height = 17
-        Hint = #23558#27492#36830#25509#30340'IP'#21152#20837#21160#24577#36807#28388#21015#34920#65292#24182#23558#27492'IP'#30340#25152#26377#36830#25509#24378#34892#20013#26029
-        Caption = #21152#20837#21160#24577#36807#28388#21015#34920
+        Hint = 
+          'Add the IP of this connection to the dynamic filter list and for' +
+          'cibly terminate all connections of this IP'
+        Caption = 'Add to dynamic filter list'
         ParentShowHint = False
         ShowHint = True
         TabOrder = 1
@@ -322,8 +326,8 @@ object frmIPaddrFilter: TfrmIPaddrFilter
         Top = 16
         Width = 129
         Height = 17
-        Hint = #23558#36830#25509#31616#21333#30340#26029#24320#22788#29702
-        Caption = #26029#24320#36830#25509
+        Hint = 'Simply disconnect the connection'
+        Caption = 'Disconnect'
         ParentShowHint = False
         ShowHint = True
         TabOrder = 2
@@ -333,10 +337,10 @@ object frmIPaddrFilter: TfrmIPaddrFilter
     object CheckBoxCCProtect: TCheckBox
       Left = 10
       Top = 260
-      Width = 174
+      Width = 223
       Height = 17
       Hint = #26412#35774#32622#21487#38450#19968#23450#37327#30340'CC'#25915#20987#13#10#35831#19981#35201#24403#38450#28779#22681#20351#29992#65292#23545#20110#22823#27969#37327#30340#25915#20987#36824#26159#26080#33021#20026#21147#30340
-      Caption = #33258#21160#21028#26029'CC'#25915#20987#24182#24320#21551#38450#24481
+      Caption = 'Automatically identify CC attacks and enable defense'
       ParentShowHint = False
       ShowHint = True
       TabOrder = 2
@@ -345,9 +349,9 @@ object frmIPaddrFilter: TfrmIPaddrFilter
     object CheckBoxCheckClientMsg: TCheckBox
       Left = 10
       Top = 245
-      Width = 129
+      Width = 234
       Height = 17
-      Caption = #24320#21551#23553#21253#36807#28388#26816#27979
+      Caption = 'Enable packet filtering detection'
       TabOrder = 3
       OnClick = CheckBoxCheckClientMsgClick
     end
@@ -357,7 +361,7 @@ object frmIPaddrFilter: TfrmIPaddrFilter
     Top = 297
     Width = 66
     Height = 27
-    Caption = #30830#23450'(&O)'
+    Caption = 'OK(&O)'
     TabOrder = 3
     OnClick = ButtonOKClick
   end

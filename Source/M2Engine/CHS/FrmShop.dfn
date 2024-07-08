@@ -1,0 +1,2053 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="D:\AceM2 Source\Source\M2Engine\FrmShop.dfm" source-language="en-GB" target-language="zh-CN" datatype="delphiform" tool="ETM v10.0" ts="D:\AceM2 Source\Source\M2Engine\FrmShop.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">45469.9124074074</prop>
+        <prop prop-type="OrigDateTime">45468.8302083333</prop>
+        <prop prop-type="XlatDateTime">45468.8302083333</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">407</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:FormShop.Left" resname="O:FormShop.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124110995</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TFormShop</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.Top" resname="O:FormShop.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111111</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TFormShop</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.BorderIcons" resname="O:FormShop.BorderIcons">
+        <source>[biSystemMenu]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111111</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TFormShop</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.BorderStyle" resname="O:FormShop.BorderStyle">
+        <source>bsSingle</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111111</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TFormShop</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.Caption" resname="O:FormShop.Caption">
+        <source>'GameShop Management'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111111</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TFormShop</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.ClientHeight" resname="O:FormShop.ClientHeight">
+        <source>511</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111111</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TFormShop</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.ClientWidth" resname="O:FormShop.ClientWidth">
+        <source>941</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111111</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TFormShop</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.Color" resname="O:FormShop.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111227</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TFormShop</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.Font.Charset" resname="O:FormShop.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111227</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TFormShop</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.Font.Color" resname="O:FormShop.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111227</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TFormShop</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.Font.Height" resname="O:FormShop.Font.Height">
+        <source>-12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111227</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TFormShop</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.Font.Name" resname="O:FormShop.Font.Name">
+        <source>'??'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111227</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TFormShop</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.Font.Style" resname="O:FormShop.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111227</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TFormShop</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.OldCreateOrder" resname="O:FormShop.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111227</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TFormShop</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.Position" resname="O:FormShop.Position">
+        <source>poMainFormCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111343</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TFormShop</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.PixelsPerInch" resname="O:FormShop.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111343</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TFormShop</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.TextHeight" resname="O:FormShop.TextHeight">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111343</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TFormShop</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.Left" resname="O:FormShop.O:PageControl1.Left">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111343</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.Top" resname="O:FormShop.O:PageControl1.Top">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111343</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.Width" resname="O:FormShop.O:PageControl1.Width">
+        <source>918</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111343</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.Height" resname="O:FormShop.O:PageControl1.Height">
+        <source>491</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111458</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.ActivePage" resname="O:FormShop.O:PageControl1.ActivePage">
+        <source>TabSheet1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111458</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.TabOrder" resname="O:FormShop.O:PageControl1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111458</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.Caption">
+        <source>'Shop List Configuration'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111458</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.ExplicitLeft" resname="O:FormShop.O:PageControl1.O:TabSheet1.ExplicitLeft">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111458</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.ExplicitTop" resname="O:FormShop.O:PageControl1.O:TabSheet1.ExplicitTop">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111458</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.ExplicitWidth" resname="O:FormShop.O:PageControl1.O:TabSheet1.ExplicitWidth">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111574</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.ExplicitHeight" resname="O:FormShop.O:PageControl1.O:TabSheet1.ExplicitHeight">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111574</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label5.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label5.Left">
+        <source>401</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111574</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label5.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label5.Top">
+        <source>294</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111574</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label5.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label5.Width">
+        <source>18</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111574</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label5.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label5.Height">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111574</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label5.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label5.Caption">
+        <source>'Idx:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411169</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label6.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label6.Left">
+        <source>401</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411169</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label6.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label6.Top">
+        <source>354</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411169</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label6.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label6.Width">
+        <source>52</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411169</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label6.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label6.Height">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411169</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label6.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label6.Caption">
+        <source>'Discount:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411169</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label4.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label4.Left">
+        <source>200</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411169</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label4.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label4.Top">
+        <source>434</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111806</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label4.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label4.Width">
+        <source>31</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111806</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label4.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label4.Height">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111806</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label4.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label4.Caption">
+        <source>'????:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111806</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label4.Visible" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label4.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111806</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label2.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label2.Left">
+        <source>200</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111806</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label2.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label2.Top">
+        <source>295</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111806</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label2.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label2.Width">
+        <source>37</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111921</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label2.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label2.Height">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111921</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label2.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label2.Caption">
+        <source>'Name:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111921</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label1.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label1.Left">
+        <source>200</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111921</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label1.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label1.Top">
+        <source>324</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111921</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label1.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label1.Width">
+        <source>52</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111921</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label1.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label1.Height">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124111921</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label1.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label1.Caption">
+        <source>'Category:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112037</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label7.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label7.Left">
+        <source>200</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112037</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label7.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label7.Top">
+        <source>384</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112037</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label7.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label7.Width">
+        <source>68</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112037</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label7.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label7.Height">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112037</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label7.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label7.Caption">
+        <source>'Current/Max:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112037</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label3.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label3.Left">
+        <source>401</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112037</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label3.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label3.Top">
+        <source>324</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112153</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label3.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label3.Width">
+        <source>31</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112153</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label3.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label3.Height">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112153</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label3.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label3.Caption">
+        <source>'Time:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112153</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label8.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label8.Left">
+        <source>200</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112153</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label8.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label8.Top">
+        <source>353</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112153</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label8.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label8.Width">
+        <source>71</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112153</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label8.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label8.Height">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112269</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label8.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label8.Caption">
+        <source>'Gamepoints:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112269</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label10.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label10.Left">
+        <source>401</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112269</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label10.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label10.Top">
+        <source>384</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112269</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label10.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label10.Width">
+        <source>28</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112269</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label10.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label10.Height">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112269</prop><prop prop-type="Status">0</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label10.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label10.Caption">
+        <source>'Sold:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112269</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label9.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label9.Left">
+        <source>515</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112384</prop><prop prop-type="Status">0</prop><prop prop-type="Order">74</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label9.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label9.Top">
+        <source>294</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112384</prop><prop prop-type="Status">0</prop><prop prop-type="Order">75</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label9.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label9.Width">
+        <source>59</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112384</prop><prop prop-type="Status">0</prop><prop prop-type="Order">76</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label9.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label9.Height">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112384</prop><prop prop-type="Status">0</prop><prop prop-type="Order">77</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label9.Hint" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label9.Hint">
+        <source>'Set whether the items are allowed to use to buy gold coins, 0 is not allowed'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112384</prop><prop prop-type="Status">0</prop><prop prop-type="Order">78</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Label9.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Label9.Caption">
+        <source>'Gold price:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112384</prop><prop prop-type="Status">0</prop><prop prop-type="Order">79</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonAdd.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonAdd.Left">
+        <source>270</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.91241125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">80</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonAdd.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonAdd.Top">
+        <source>413</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.91241125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">81</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonAdd.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonAdd.Width">
+        <source>94</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.91241125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">82</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonAdd.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonAdd.Height">
+        <source>28</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.91241125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">83</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonAdd.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonAdd.Caption">
+        <source>'&amp;Add'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.91241125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">84</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonAdd.Enabled" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonAdd.Enabled">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.91241125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">85</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonAdd.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonAdd.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.91241125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">86</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonAdd.OnClick" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonAdd.OnClick">
+        <source>ButtonAddClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112616</prop><prop prop-type="Status">0</prop><prop prop-type="Order">87</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonDel.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonDel.Left">
+        <source>371</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112616</prop><prop prop-type="Status">0</prop><prop prop-type="Order">88</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonDel.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonDel.Top">
+        <source>413</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112616</prop><prop prop-type="Status">0</prop><prop prop-type="Order">89</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonDel.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonDel.Width">
+        <source>94</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112616</prop><prop prop-type="Status">0</prop><prop prop-type="Order">90</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonDel.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonDel.Height">
+        <source>28</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112616</prop><prop prop-type="Status">0</prop><prop prop-type="Order">91</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonDel.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonDel.Caption">
+        <source>'&amp;Delete'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112616</prop><prop prop-type="Status">0</prop><prop prop-type="Order">92</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonDel.Enabled" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonDel.Enabled">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112732</prop><prop prop-type="Status">0</prop><prop prop-type="Order">93</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonDel.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonDel.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112732</prop><prop prop-type="Status">0</prop><prop prop-type="Order">94</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonDel.OnClick" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonDel.OnClick">
+        <source>ButtonDelClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112732</prop><prop prop-type="Status">0</prop><prop prop-type="Order">95</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonEdit.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonEdit.Left">
+        <source>473</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112732</prop><prop prop-type="Status">0</prop><prop prop-type="Order">96</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonEdit.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonEdit.Top">
+        <source>413</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112732</prop><prop prop-type="Status">0</prop><prop prop-type="Order">97</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonEdit.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonEdit.Width">
+        <source>93</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112732</prop><prop prop-type="Status">0</prop><prop prop-type="Order">98</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonEdit.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonEdit.Height">
+        <source>28</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112732</prop><prop prop-type="Status">0</prop><prop prop-type="Order">99</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonEdit.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonEdit.Caption">
+        <source>'&amp;Edit'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112847</prop><prop prop-type="Status">0</prop><prop prop-type="Order">100</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonEdit.Enabled" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonEdit.Enabled">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112847</prop><prop prop-type="Status">0</prop><prop prop-type="Order">101</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonEdit.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonEdit.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112847</prop><prop prop-type="Status">0</prop><prop prop-type="Order">102</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonEdit.OnClick" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonEdit.OnClick">
+        <source>ButtonEditClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112847</prop><prop prop-type="Status">0</prop><prop prop-type="Order">103</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonSave.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonSave.Left">
+        <source>574</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112847</prop><prop prop-type="Status">0</prop><prop prop-type="Order">104</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonSave.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonSave.Top">
+        <source>413</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112847</prop><prop prop-type="Status">0</prop><prop prop-type="Order">105</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonSave.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonSave.Width">
+        <source>94</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112963</prop><prop prop-type="Status">0</prop><prop prop-type="Order">106</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonSave.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonSave.Height">
+        <source>28</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112963</prop><prop prop-type="Status">0</prop><prop prop-type="Order">107</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonSave.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonSave.Caption">
+        <source>'&amp;Save'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112963</prop><prop prop-type="Status">0</prop><prop prop-type="Order">108</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonSave.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonSave.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112963</prop><prop prop-type="Status">0</prop><prop prop-type="Order">109</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonSave.OnClick" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonSave.OnClick">
+        <source>ButtonSaveClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112963</prop><prop prop-type="Status">0</prop><prop prop-type="Order">110</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonRefur.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonRefur.Left">
+        <source>675</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112963</prop><prop prop-type="Status">0</prop><prop prop-type="Order">111</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonRefur.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonRefur.Top">
+        <source>413</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124112963</prop><prop prop-type="Status">0</prop><prop prop-type="Order">112</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonRefur.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonRefur.Width">
+        <source>94</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113079</prop><prop prop-type="Status">0</prop><prop prop-type="Order">113</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonRefur.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonRefur.Height">
+        <source>28</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113079</prop><prop prop-type="Status">0</prop><prop prop-type="Order">114</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonRefur.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonRefur.Caption">
+        <source>'&amp;Reload'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113079</prop><prop prop-type="Status">0</prop><prop prop-type="Order">115</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonRefur.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonRefur.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113079</prop><prop prop-type="Status">0</prop><prop prop-type="Order">116</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonRefur.OnClick" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonRefur.OnClick">
+        <source>ButtonRefurClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113079</prop><prop prop-type="Status">0</prop><prop prop-type="Order">117</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.Left">
+        <source>446</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113079</prop><prop prop-type="Status">0</prop><prop prop-type="Order">118</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.Top">
+        <source>290</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113194</prop><prop prop-type="Status">0</prop><prop prop-type="Order">119</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.Width">
+        <source>65</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113194</prop><prop prop-type="Status">0</prop><prop prop-type="Order">120</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.Height">
+        <source>27</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113194</prop><prop prop-type="Status">0</prop><prop prop-type="Order">121</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.Color" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.Color">
+        <source>clSilver</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113194</prop><prop prop-type="Status">0</prop><prop prop-type="Order">122</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.Font.Charset" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113194</prop><prop prop-type="Status">0</prop><prop prop-type="Order">123</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.Font.Color" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.Font.Color">
+        <source>clBlue</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411331</prop><prop prop-type="Status">0</prop><prop prop-type="Order">124</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.Font.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.Font.Height">
+        <source>-15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411331</prop><prop prop-type="Status">0</prop><prop prop-type="Order">125</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.Font.Name" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.Font.Name">
+        <source>'??'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411331</prop><prop prop-type="Status">0</prop><prop prop-type="Order">126</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.Font.Style" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411331</prop><prop prop-type="Status">0</prop><prop prop-type="Order">127</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.MaxValue" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.MaxValue">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113426</prop><prop prop-type="Status">0</prop><prop prop-type="Order">128</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.MinValue" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.MinValue">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113426</prop><prop prop-type="Status">0</prop><prop prop-type="Order">129</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.ParentFont" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113426</prop><prop prop-type="Status">0</prop><prop prop-type="Order">130</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.ReadOnly" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113426</prop><prop prop-type="Status">0</prop><prop prop-type="Order">131</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.TabOrder">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113426</prop><prop prop-type="Status">0</prop><prop prop-type="Order">132</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.Value" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditItems.Value">
+        <source>100</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113542</prop><prop prop-type="Status">0</prop><prop prop-type="Order">133</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.Left">
+        <source>270</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113542</prop><prop prop-type="Status">0</prop><prop prop-type="Order">134</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.Top">
+        <source>291</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113542</prop><prop prop-type="Status">0</prop><prop prop-type="Order">135</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.Width">
+        <source>124</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113542</prop><prop prop-type="Status">0</prop><prop prop-type="Order">136</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113542</prop><prop prop-type="Status">0</prop><prop prop-type="Order">137</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.Color" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.Color">
+        <source>clSilver</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113542</prop><prop prop-type="Status">0</prop><prop prop-type="Order">138</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.Font.Charset" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113542</prop><prop prop-type="Status">0</prop><prop prop-type="Order">139</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.Font.Color" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.Font.Color">
+        <source>clBlue</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113657</prop><prop prop-type="Status">0</prop><prop prop-type="Order">140</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.Font.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.Font.Height">
+        <source>-15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113657</prop><prop prop-type="Status">0</prop><prop prop-type="Order">141</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.Font.Name" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.Font.Name">
+        <source>'??'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113657</prop><prop prop-type="Status">0</prop><prop prop-type="Order">142</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.Font.Style" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113657</prop><prop prop-type="Status">0</prop><prop prop-type="Order">143</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.ParentFont" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113657</prop><prop prop-type="Status">0</prop><prop prop-type="Order">144</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.ReadOnly" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113657</prop><prop prop-type="Status">0</prop><prop prop-type="Order">145</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditName.TabOrder">
+        <source>6</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113773</prop><prop prop-type="Status">0</prop><prop prop-type="Order">146</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditText.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditText.Left">
+        <source>270</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113773</prop><prop prop-type="Status">0</prop><prop prop-type="Order">147</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditText.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditText.Top">
+        <source>429</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113773</prop><prop prop-type="Status">0</prop><prop prop-type="Order">148</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditText.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditText.Width">
+        <source>626</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113773</prop><prop prop-type="Status">0</prop><prop prop-type="Order">149</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditText.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditText.Height">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113773</prop><prop prop-type="Status">0</prop><prop prop-type="Order">150</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditText.MaxLength" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditText.MaxLength">
+        <source>127</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113773</prop><prop prop-type="Status">0</prop><prop prop-type="Order">151</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditText.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditText.TabOrder">
+        <source>7</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113773</prop><prop prop-type="Status">0</prop><prop prop-type="Order">152</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditText.Visible" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditText.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113889</prop><prop prop-type="Status">0</prop><prop prop-type="Order">153</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.Left">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113889</prop><prop prop-type="Status">0</prop><prop prop-type="Order">154</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.Top">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113889</prop><prop prop-type="Status">0</prop><prop prop-type="Order">155</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.Width">
+        <source>183</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113889</prop><prop prop-type="Status">0</prop><prop prop-type="Order">156</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.Height">
+        <source>417</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113889</prop><prop prop-type="Status">0</prop><prop prop-type="Order">157</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.Caption">
+        <source>'ItemList(Find: Ctrl+F)'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124113889</prop><prop prop-type="Status">0</prop><prop prop-type="Order">158</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.TabOrder">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114005</prop><prop prop-type="Status">0</prop><prop prop-type="Order">159</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.O:ListBoxitemList.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.O:ListBoxitemList.Left">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114005</prop><prop prop-type="Status">0</prop><prop prop-type="Order">160</prop><prop prop-type="Type">TListBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.O:ListBoxitemList.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.O:ListBoxitemList.Top">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114005</prop><prop prop-type="Status">0</prop><prop prop-type="Order">161</prop><prop prop-type="Type">TListBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.O:ListBoxitemList.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.O:ListBoxitemList.Width">
+        <source>161</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114005</prop><prop prop-type="Status">0</prop><prop prop-type="Order">162</prop><prop prop-type="Type">TListBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.O:ListBoxitemList.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.O:ListBoxitemList.Height">
+        <source>381</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114005</prop><prop prop-type="Status">0</prop><prop prop-type="Order">163</prop><prop prop-type="Type">TListBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.O:ListBoxitemList.ItemHeight" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.O:ListBoxitemList.ItemHeight">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114005</prop><prop prop-type="Status">0</prop><prop prop-type="Order">164</prop><prop prop-type="Type">TListBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.O:ListBoxitemList.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.O:ListBoxitemList.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114005</prop><prop prop-type="Status">0</prop><prop prop-type="Order">165</prop><prop prop-type="Type">TListBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.O:ListBoxitemList.OnClick" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.O:ListBoxitemList.OnClick">
+        <source>ListBoxitemListClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">166</prop><prop prop-type="Type">TListBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.O:ListBoxitemList.OnKeyDown" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:GroupBox4.O:ListBoxitemList.OnKeyDown">
+        <source>ListBoxitemListKeyDown</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">167</prop><prop prop-type="Type">TListBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox1.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox1.Left">
+        <source>688</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">168</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox1.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox1.Top">
+        <source>294</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">169</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox1.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox1.Width">
+        <source>91</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">170</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox1.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox1.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">171</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox1.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox1.Caption">
+        <source>'Non-Tradable'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114236</prop><prop prop-type="Status">0</prop><prop prop-type="Order">172</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox1.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox1.TabOrder">
+        <source>9</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114236</prop><prop prop-type="Status">0</prop><prop prop-type="Order">173</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox2.Tag" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox2.Tag">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114236</prop><prop prop-type="Status">0</prop><prop prop-type="Order">174</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox2.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox2.Left">
+        <source>786</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114236</prop><prop prop-type="Status">0</prop><prop prop-type="Order">175</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox2.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox2.Top">
+        <source>295</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114236</prop><prop prop-type="Status">0</prop><prop prop-type="Order">176</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox2.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox2.Width">
+        <source>105</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114236</prop><prop prop-type="Status">0</prop><prop prop-type="Order">177</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox2.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox2.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114352</prop><prop prop-type="Status">0</prop><prop prop-type="Order">178</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox2.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox2.Caption">
+        <source>'Non-Storage'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114352</prop><prop prop-type="Status">0</prop><prop prop-type="Order">179</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox2.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox2.TabOrder">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114352</prop><prop prop-type="Status">0</prop><prop prop-type="Order">180</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox3.Tag" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox3.Tag">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114352</prop><prop prop-type="Status">0</prop><prop prop-type="Order">181</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox3.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox3.Left">
+        <source>688</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114352</prop><prop prop-type="Status">0</prop><prop prop-type="Order">182</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox3.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox3.Top">
+        <source>314</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114352</prop><prop prop-type="Status">0</prop><prop prop-type="Order">183</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox3.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox3.Width">
+        <source>110</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114352</prop><prop prop-type="Status">0</prop><prop prop-type="Order">184</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox3.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox3.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">185</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox3.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox3.Caption">
+        <source>'Not Repaired'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">186</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox3.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox3.TabOrder">
+        <source>11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">187</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox4.Tag" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox4.Tag">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">188</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox4.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox4.Left">
+        <source>786</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">189</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox4.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox4.Top">
+        <source>314</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">190</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox4.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox4.Width">
+        <source>118</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">191</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox4.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox4.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">192</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox4.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox4.Caption">
+        <source>'Not Discarded'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">193</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox4.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox4.TabOrder">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">194</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox5.Tag" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox5.Tag">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">195</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox5.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox5.Left">
+        <source>688</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">196</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox5.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox5.Top">
+        <source>334</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">197</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox5.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox5.Width">
+        <source>81</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">198</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox5.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox5.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">199</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox5.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox5.Caption">
+        <source>'Not Drop'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">200</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox5.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox5.TabOrder">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">201</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox6.Tag" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox6.Tag">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">202</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox6.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox6.Left">
+        <source>786</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">203</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox6.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox6.Top">
+        <source>334</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114815</prop><prop prop-type="Status">0</prop><prop prop-type="Order">204</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox6.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox6.Width">
+        <source>95</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114815</prop><prop prop-type="Status">0</prop><prop prop-type="Order">205</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox6.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox6.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114815</prop><prop prop-type="Status">0</prop><prop prop-type="Order">206</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox6.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox6.Caption">
+        <source>'Non-Upgrade'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114815</prop><prop prop-type="Status">0</prop><prop prop-type="Order">207</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox6.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox6.TabOrder">
+        <source>14</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114815</prop><prop prop-type="Status">0</prop><prop prop-type="Order">208</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonOutHint.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonOutHint.Left">
+        <source>618</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114815</prop><prop prop-type="Status">0</prop><prop prop-type="Order">209</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonOutHint.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonOutHint.Top">
+        <source>425</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114931</prop><prop prop-type="Status">0</prop><prop prop-type="Order">210</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonOutHint.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonOutHint.Width">
+        <source>120</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114931</prop><prop prop-type="Status">0</prop><prop prop-type="Order">211</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonOutHint.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonOutHint.Height">
+        <source>29</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114931</prop><prop prop-type="Status">0</prop><prop prop-type="Order">212</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonOutHint.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonOutHint.Caption">
+        <source>'????(&amp;W)'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114931</prop><prop prop-type="Status">0</prop><prop prop-type="Order">213</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonOutHint.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonOutHint.TabOrder">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114931</prop><prop prop-type="Status">0</prop><prop prop-type="Order">214</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonOutHint.Visible" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonOutHint.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124114931</prop><prop prop-type="Status">0</prop><prop prop-type="Order">215</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonOutHint.OnClick" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ButtonOutHint.OnClick">
+        <source>ButtonOutHintClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115046</prop><prop prop-type="Status">0</prop><prop prop-type="Order">216</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Left">
+        <source>446</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115046</prop><prop prop-type="Status">0</prop><prop prop-type="Order">217</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Top">
+        <source>350</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115046</prop><prop prop-type="Status">0</prop><prop prop-type="Order">218</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Width">
+        <source>65</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115046</prop><prop prop-type="Status">0</prop><prop prop-type="Order">219</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Height">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115046</prop><prop prop-type="Status">0</prop><prop prop-type="Order">220</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Hint" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Hint">
+        <source>'Discount'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115046</prop><prop prop-type="Status">0</prop><prop prop-type="Order">221</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Style" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Style">
+        <source>csDropDownList</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115046</prop><prop prop-type="Status">0</prop><prop prop-type="Order">222</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.ItemHeight" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.ItemHeight">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115162</prop><prop prop-type="Status">0</prop><prop prop-type="Order">223</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.ItemIndex" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.ItemIndex">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115162</prop><prop prop-type="Status">0</prop><prop prop-type="Order">224</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.TabOrder">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115162</prop><prop prop-type="Status">0</prop><prop prop-type="Order">225</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Text" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Text">
+        <source>'10.0'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115162</prop><prop prop-type="Status">0</prop><prop prop-type="Order">226</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[0]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[0]">
+        <source>'10.0'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115162</prop><prop prop-type="Status">0</prop><prop prop-type="Order">227</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[1]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[1]">
+        <source>'9.5'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115162</prop><prop prop-type="Status">0</prop><prop prop-type="Order">228</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[2]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[2]">
+        <source>'9'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115278</prop><prop prop-type="Status">0</prop><prop prop-type="Order">229</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[3]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[3]">
+        <source>'8.5'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115278</prop><prop prop-type="Status">0</prop><prop prop-type="Order">230</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[4]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[4]">
+        <source>'8'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115278</prop><prop prop-type="Status">0</prop><prop prop-type="Order">231</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[5]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[5]">
+        <source>'7.5'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115278</prop><prop prop-type="Status">0</prop><prop prop-type="Order">232</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[6]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[6]">
+        <source>'7'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115278</prop><prop prop-type="Status">0</prop><prop prop-type="Order">233</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[7]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[7]">
+        <source>'6.5'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115278</prop><prop prop-type="Status">0</prop><prop prop-type="Order">234</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[8]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[8]">
+        <source>'6'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115278</prop><prop prop-type="Status">0</prop><prop prop-type="Order">235</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[9]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[9]">
+        <source>'5.5'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115393</prop><prop prop-type="Status">0</prop><prop prop-type="Order">236</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[10]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[10]">
+        <source>'5'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115393</prop><prop prop-type="Status">0</prop><prop prop-type="Order">237</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[11]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[11]">
+        <source>'4.5'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115393</prop><prop prop-type="Status">0</prop><prop prop-type="Order">238</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[12]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[12]">
+        <source>'4'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115393</prop><prop prop-type="Status">0</prop><prop prop-type="Order">239</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[13]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[13]">
+        <source>'3.5'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115393</prop><prop prop-type="Status">0</prop><prop prop-type="Order">240</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[14]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[14]">
+        <source>'3'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115393</prop><prop prop-type="Status">0</prop><prop prop-type="Order">241</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[15]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[15]">
+        <source>'2.5'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115509</prop><prop prop-type="Status">0</prop><prop prop-type="Order">242</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[16]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[16]">
+        <source>'2'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115509</prop><prop prop-type="Status">0</prop><prop prop-type="Order">243</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[17]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[17]">
+        <source>'1.5'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115509</prop><prop prop-type="Status">0</prop><prop prop-type="Order">244</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[18]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[18]">
+        <source>'1'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115509</prop><prop prop-type="Status">0</prop><prop prop-type="Order">245</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[19]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxAgio.Items.Strings[19]">
+        <source>'0.5'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115509</prop><prop prop-type="Status">0</prop><prop prop-type="Order">246</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox7.Tag" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox7.Tag">
+        <source>6</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115509</prop><prop prop-type="Status">0</prop><prop prop-type="Order">247</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox7.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox7.Left">
+        <source>688</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115509</prop><prop prop-type="Status">0</prop><prop prop-type="Order">248</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox7.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox7.Top">
+        <source>351</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115625</prop><prop prop-type="Status">0</prop><prop prop-type="Order">249</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox7.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox7.Width">
+        <source>91</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115625</prop><prop prop-type="Status">0</prop><prop prop-type="Order">250</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox7.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox7.Height">
+        <source>22</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115625</prop><prop prop-type="Status">0</prop><prop prop-type="Order">251</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox7.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox7.Caption">
+        <source>'Not Sold'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115625</prop><prop prop-type="Status">0</prop><prop prop-type="Order">252</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox7.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox7.TabOrder">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115625</prop><prop prop-type="Status">0</prop><prop prop-type="Order">253</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox8.Tag" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox8.Tag">
+        <source>7</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115625</prop><prop prop-type="Status">0</prop><prop prop-type="Order">254</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox8.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox8.Left">
+        <source>786</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115741</prop><prop prop-type="Status">0</prop><prop prop-type="Order">255</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox8.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox8.Top">
+        <source>351</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115741</prop><prop prop-type="Status">0</prop><prop prop-type="Order">256</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox8.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox8.Width">
+        <source>125</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115741</prop><prop prop-type="Status">0</prop><prop prop-type="Order">257</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox8.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox8.Height">
+        <source>22</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115741</prop><prop prop-type="Status">0</prop><prop prop-type="Order">258</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox8.Hint" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox8.Hint">
+        <source>'Discarded disappear'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115741</prop><prop prop-type="Status">0</prop><prop prop-type="Order">259</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox8.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox8.Caption">
+        <source>'Drop Disappear'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115741</prop><prop prop-type="Status">0</prop><prop prop-type="Order">260</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox8.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:CheckBox8.TabOrder">
+        <source>18</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115856</prop><prop prop-type="Status">0</prop><prop prop-type="Order">261</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxClass.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxClass.Left">
+        <source>271</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115856</prop><prop prop-type="Status">0</prop><prop prop-type="Order">262</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxClass.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxClass.Top">
+        <source>320</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115856</prop><prop prop-type="Status">0</prop><prop prop-type="Order">263</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxClass.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxClass.Width">
+        <source>124</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115856</prop><prop prop-type="Status">0</prop><prop prop-type="Order">264</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxClass.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxClass.Height">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115856</prop><prop prop-type="Status">0</prop><prop prop-type="Order">265</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxClass.Style" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxClass.Style">
+        <source>csDropDownList</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115856</prop><prop prop-type="Status">0</prop><prop prop-type="Order">266</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxClass.ItemHeight" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxClass.ItemHeight">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115856</prop><prop prop-type="Status">0</prop><prop prop-type="Order">267</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxClass.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxClass.TabOrder">
+        <source>19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115972</prop><prop prop-type="Status">0</prop><prop prop-type="Order">268</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxClass.Items.Strings[0]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxClass.Items.Strings[0]">
+        <source>'Hot'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115972</prop><prop prop-type="Status">0</prop><prop prop-type="Order">269</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxClass.Items.Strings[1]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxClass.Items.Strings[1]">
+        <source>'Warrior'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115972</prop><prop prop-type="Status">0</prop><prop prop-type="Order">270</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxClass.Items.Strings[2]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxClass.Items.Strings[2]">
+        <source>'Wizard'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115972</prop><prop prop-type="Status">0</prop><prop prop-type="Order">271</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxClass.Items.Strings[3]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxClass.Items.Strings[3]">
+        <source>'Taoist'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115972</prop><prop prop-type="Status">0</prop><prop prop-type="Order">272</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditCount.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditCount.Left">
+        <source>270</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124115972</prop><prop prop-type="Status">0</prop><prop prop-type="Order">273</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditCount.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditCount.Top">
+        <source>380</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116088</prop><prop prop-type="Status">0</prop><prop prop-type="Order">274</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditCount.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditCount.Width">
+        <source>61</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116088</prop><prop prop-type="Status">0</prop><prop prop-type="Order">275</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditCount.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditCount.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116088</prop><prop prop-type="Status">0</prop><prop prop-type="Order">276</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditCount.MaxValue" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditCount.MaxValue">
+        <source>30000</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116088</prop><prop prop-type="Status">0</prop><prop prop-type="Order">277</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditCount.MinValue" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditCount.MinValue">
+        <source>-1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116204</prop><prop prop-type="Status">0</prop><prop prop-type="Order">278</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditCount.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditCount.TabOrder">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116204</prop><prop prop-type="Status">0</prop><prop prop-type="Order">279</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditCount.Value" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditCount.Value">
+        <source>-1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116204</prop><prop prop-type="Status">0</prop><prop prop-type="Order">280</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditTime.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditTime.Left">
+        <source>446</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116204</prop><prop prop-type="Status">0</prop><prop prop-type="Order">281</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditTime.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditTime.Top">
+        <source>320</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116204</prop><prop prop-type="Status">0</prop><prop prop-type="Order">282</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditTime.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditTime.Width">
+        <source>65</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116319</prop><prop prop-type="Status">0</prop><prop prop-type="Order">283</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditTime.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditTime.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116319</prop><prop prop-type="Status">0</prop><prop prop-type="Order">284</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditTime.Hint" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditTime.Hint">
+        <source>'Limit Time'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116319</prop><prop prop-type="Status">0</prop><prop prop-type="Order">285</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditTime.MaxValue" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditTime.MaxValue">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116319</prop><prop prop-type="Status">0</prop><prop prop-type="Order">286</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditTime.MinValue" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditTime.MinValue">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116319</prop><prop prop-type="Status">0</prop><prop prop-type="Order">287</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditTime.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditTime.TabOrder">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116435</prop><prop prop-type="Status">0</prop><prop prop-type="Order">288</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditTime.Value" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditTime.Value">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116435</prop><prop prop-type="Status">0</prop><prop prop-type="Order">289</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditPrice.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditPrice.Left">
+        <source>271</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116435</prop><prop prop-type="Status">0</prop><prop prop-type="Order">290</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditPrice.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditPrice.Top">
+        <source>349</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116435</prop><prop prop-type="Status">0</prop><prop prop-type="Order">291</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditPrice.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditPrice.Width">
+        <source>124</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116435</prop><prop prop-type="Status">0</prop><prop prop-type="Order">292</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditPrice.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditPrice.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116551</prop><prop prop-type="Status">0</prop><prop prop-type="Order">293</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditPrice.MaxValue" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditPrice.MaxValue">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116551</prop><prop prop-type="Status">0</prop><prop prop-type="Order">294</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditPrice.MinValue" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditPrice.MinValue">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116551</prop><prop prop-type="Status">0</prop><prop prop-type="Order">295</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditPrice.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditPrice.TabOrder">
+        <source>22</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116551</prop><prop prop-type="Status">0</prop><prop prop-type="Order">296</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditPrice.Value" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditPrice.Value">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116551</prop><prop prop-type="Status">0</prop><prop prop-type="Order">297</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditPrice.OnChange" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditPrice.OnChange">
+        <source>SpinEditPriceChange</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">298</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Left">
+        <source>200</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">299</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Top">
+        <source>30</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">300</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Width">
+        <source>696</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">301</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Height">
+        <source>256</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">302</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[0].Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[0].Caption">
+        <source>'Category'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">303</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">&lt;item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[0].Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[0].Width">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">304</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[1].Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[1].Caption">
+        <source>'Item Name'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">305</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[1].Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[1].Width">
+        <source>125</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">306</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[2].Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[2].Caption">
+        <source>'Sold'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">307</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[3].Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[3].Caption">
+        <source>'ID'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">308</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[3].Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[3].Width">
+        <source>45</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116898</prop><prop prop-type="Status">0</prop><prop prop-type="Order">309</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[4].Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[4].Caption">
+        <source>'Price'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116898</prop><prop prop-type="Status">0</prop><prop prop-type="Order">310</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[4].Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[4].Width">
+        <source>63</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116898</prop><prop prop-type="Status">0</prop><prop prop-type="Order">311</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[5].Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[5].Caption">
+        <source>'Limit'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116898</prop><prop prop-type="Status">0</prop><prop prop-type="Order">312</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[5].Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[5].Width">
+        <source>45</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116898</prop><prop prop-type="Status">0</prop><prop prop-type="Order">313</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[6].Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[6].Caption">
+        <source>'Discount'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124116898</prop><prop prop-type="Status">0</prop><prop prop-type="Order">314</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[6].Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[6].Width">
+        <source>45</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117014</prop><prop prop-type="Status">0</prop><prop prop-type="Order">315</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[7].Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[7].Caption">
+        <source>'Quantity'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117014</prop><prop prop-type="Status">0</prop><prop prop-type="Order">316</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[7].Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[7].Width">
+        <source>45</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117014</prop><prop prop-type="Status">0</prop><prop prop-type="Order">317</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[8].Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[8].Caption">
+        <source>'Trade'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117014</prop><prop prop-type="Status">0</prop><prop prop-type="Order">318</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[8].Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[8].Width">
+        <source>30</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117014</prop><prop prop-type="Status">0</prop><prop prop-type="Order">319</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[9].Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[9].Caption">
+        <source>'Store'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117014</prop><prop prop-type="Status">0</prop><prop prop-type="Order">320</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[9].Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[9].Width">
+        <source>30</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">321</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[10].Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[10].Caption">
+        <source>'Repair'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">322</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[10].Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[10].Width">
+        <source>30</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">323</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[11].Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[11].Caption">
+        <source>'Discard'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">324</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[11].Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[11].Width">
+        <source>30</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">325</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[12].Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[12].Caption">
+        <source>'Drop'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">326</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[12].Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[12].Width">
+        <source>30</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">327</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[13].Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[13].Caption">
+        <source>'Build'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">328</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[13].Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[13].Width">
+        <source>30</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">329</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[14].Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[14].Caption">
+        <source>'Sell'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">330</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[14].Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[14].Width">
+        <source>30</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">331</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[15].Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[15].Caption">
+        <source>'Disappear'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">332</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[15].Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[15].Width">
+        <source>30</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">333</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[16].Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[16].Caption">
+        <source>'Gold Price'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">334</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[16].Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.Columns[16].Width">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">335</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end&gt;</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.GridLines" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.GridLines">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">336</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.ReadOnly" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">337</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.RowSelect" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.RowSelect">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117477</prop><prop prop-type="Status">0</prop><prop prop-type="Order">338</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.TabOrder">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117477</prop><prop prop-type="Status">0</prop><prop prop-type="Order">339</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.ViewStyle" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.ViewStyle">
+        <source>vsReport</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117477</prop><prop prop-type="Status">0</prop><prop prop-type="Order">340</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.OnChange" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.OnChange">
+        <source>ListViewShopListChange</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117477</prop><prop prop-type="Status">0</prop><prop prop-type="Order">341</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.OnColumnClick" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.OnColumnClick">
+        <source>ListViewShopListColumnClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117477</prop><prop prop-type="Status">0</prop><prop prop-type="Order">342</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.OnCompare" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ListViewShopList.OnCompare">
+        <source>ListViewShopListCompare</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117477</prop><prop prop-type="Status">0</prop><prop prop-type="Order">343</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSellCount.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSellCount.Left">
+        <source>446</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117593</prop><prop prop-type="Status">0</prop><prop prop-type="Order">344</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSellCount.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSellCount.Top">
+        <source>380</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117593</prop><prop prop-type="Status">0</prop><prop prop-type="Order">345</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSellCount.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSellCount.Width">
+        <source>65</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117593</prop><prop prop-type="Status">0</prop><prop prop-type="Order">346</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSellCount.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSellCount.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117593</prop><prop prop-type="Status">0</prop><prop prop-type="Order">347</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSellCount.MaxValue" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSellCount.MaxValue">
+        <source>65535</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117593</prop><prop prop-type="Status">0</prop><prop prop-type="Order">348</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSellCount.MinValue" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSellCount.MinValue">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117708</prop><prop prop-type="Status">0</prop><prop prop-type="Order">349</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSellCount.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSellCount.TabOrder">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117708</prop><prop prop-type="Status">0</prop><prop prop-type="Order">350</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSellCount.Value" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSellCount.Value">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117708</prop><prop prop-type="Status">0</prop><prop prop-type="Order">351</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyType.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyType.Left">
+        <source>519</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117708</prop><prop prop-type="Status">0</prop><prop prop-type="Order">352</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyType.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyType.Top">
+        <source>380</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117708</prop><prop prop-type="Status">0</prop><prop prop-type="Order">353</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyType.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyType.Width">
+        <source>190</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">354</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyType.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyType.Height">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">355</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyType.Style" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyType.Style">
+        <source>csDropDownList</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">356</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyType.ItemHeight" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyType.ItemHeight">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">357</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyType.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyType.TabOrder">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">358</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyType.Items.Strings[0]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyType.Items.Strings[0]">
+        <source>'never'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">359</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyType.Items.Strings[1]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyType.Items.Strings[1]">
+        <source>'on sold out (30min)'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124117824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">360</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyType.Items.Strings[2]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyType.Items.Strings[2]">
+        <source>'on weekday:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">361</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyType.Items.Strings[3]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyType.Items.Strings[3]">
+        <source>'on weekday: (sold out)'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">362</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSupplyCount.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSupplyCount.Left">
+        <source>334</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">363</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSupplyCount.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSupplyCount.Top">
+        <source>380</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">364</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSupplyCount.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSupplyCount.Width">
+        <source>60</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">365</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSupplyCount.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSupplyCount.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">366</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSupplyCount.Hint" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSupplyCount.Hint">
+        <source>'Automatically added to our number of settings'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">367</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSupplyCount.MaxValue" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSupplyCount.MaxValue">
+        <source>30000</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">368</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSupplyCount.MinValue" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSupplyCount.MinValue">
+        <source>-1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">369</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSupplyCount.ParentShowHint" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSupplyCount.ParentShowHint">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">370</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSupplyCount.ShowHint" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSupplyCount.ShowHint">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">371</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSupplyCount.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSupplyCount.TabOrder">
+        <source>26</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">372</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSupplyCount.Value" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:SpinEditSupplyCount.Value">
+        <source>-1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">373</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.Left">
+        <source>716</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">374</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.Top">
+        <source>380</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">375</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.Width">
+        <source>82</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">376</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.Height">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">377</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.Style" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.Style">
+        <source>csDropDownList</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">378</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.ItemHeight" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.ItemHeight">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">379</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.TabOrder">
+        <source>27</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">380</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.Items.Strings[0]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.Items.Strings[0]">
+        <source>'monday'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">381</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.Items.Strings[1]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.Items.Strings[1]">
+        <source>'thuesday'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">382</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.Items.Strings[2]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.Items.Strings[2]">
+        <source>'wednesday'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">383</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.Items.Strings[3]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.Items.Strings[3]">
+        <source>'thursday'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">384</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.Items.Strings[4]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.Items.Strings[4]">
+        <source>'friday'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">385</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.Items.Strings[5]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.Items.Strings[5]">
+        <source>'saturday'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">386</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.Items.Strings[6]" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:ComboBoxSupplyTime.Items.Strings[6]">
+        <source>'sunday'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">387</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Button1.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Button1.Left">
+        <source>776</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">388</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Button1.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Button1.Top">
+        <source>413</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">389</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Button1.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Button1.Width">
+        <source>115</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">390</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Button1.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Button1.Height">
+        <source>28</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">391</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Button1.Caption" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Button1.Caption">
+        <source>'Reset Sales'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">392</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Button1.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Button1.TabOrder">
+        <source>28</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">393</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:Button1.OnClick" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:Button1.OnClick">
+        <source>Button1Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">394</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditGold.Left" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditGold.Left">
+        <source>585</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">395</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditGold.Top" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditGold.Top">
+        <source>290</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">396</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditGold.Width" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditGold.Width">
+        <source>83</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">397</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditGold.Height" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditGold.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">398</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditGold.Hint" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditGold.Hint">
+        <source>'????????????????,?0????'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">399</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditGold.MaxValue" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditGold.MaxValue">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">400</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditGold.MinValue" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditGold.MinValue">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">401</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditGold.ParentShowHint" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditGold.ParentShowHint">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">402</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditGold.ShowHint" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditGold.ShowHint">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">403</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditGold.TabOrder" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditGold.TabOrder">
+        <source>29</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912411875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">404</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditGold.Value" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditGold.Value">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">405</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormShop.O:PageControl1.O:TabSheet1.O:EditGold.OnChange" resname="O:FormShop.O:PageControl1.O:TabSheet1.O:EditGold.OnChange">
+        <source>SpinEditPriceChange</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124118866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">406</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

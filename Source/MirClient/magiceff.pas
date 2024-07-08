@@ -423,7 +423,7 @@ implementation
 uses
   ClMain, Actor, SoundUtil, MShare, WMFile, HGEBase, PlayScn;
 
-//取得魔法效果所在图库
+//Get the gallery where the magic effect is located
 
 procedure GetEffectBase(mag, mtype: integer; var wimg: TWMImages; var idx:
   integer);

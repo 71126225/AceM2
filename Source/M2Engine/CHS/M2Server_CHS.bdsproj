@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <PersonalityInfo>
+    <Option>
+      <Option Name="Personality">W32ResourceDLL.Personality</Option>
+      <Option Name="ProjectType">ResourceDLL</Option>
+      <Option Name="Version">1.0</Option>
+      <Option Name="GUID">{4CEC2B1D-50EF-4328-B35D-1802E96BBACE}</Option>
+    </Option>
+  </PersonalityInfo>
+  <W32ResourceDLL.Personality>
+    <Source>
+      <Source Name="MainSource">D:\AceM2 Source\Source\M2Engine\CHS\M2Server.dpr</Source>
+    </Source>
+    <Options>
+      <Options Name="BaseLang">2057</Options>
+      <Options Name="TargetName">..\M2Server.CHS</Options>
+      <Options Name="Company"></Options>
+      <Options Name="Configuration"></Options>
+      <Options Name="Copyright"></Options>
+      <Options Name="Description"></Options>
+      <Options Name="Trademark"></Options>
+      <Options Name="Product"></Options>
+      <Options Name="ProductVersion"></Options>
+      <Options Name="Title"></Options>
+      <Options Name="FileVersion"></Options>
+      <Options Name="Evidence"></Options>
+      <Options Name="KeyFile"></Options>
+      <Options Name="KeyName"></Options>
+    </Options>
+    <FileList>
+      <File FileName="ActionSpeedConfig.dfm" ContainerId="W32Form" ModuleName="ActionSpeedConfig.dfm"/>
+      <File FileName="AttackSabukWallConfig.dfm" ContainerId="W32Form" ModuleName="AttackSabukWallConfig.dfm"/>
+      <File FileName="CastleManage.dfm" ContainerId="W32Form" ModuleName="CastleManage.dfm"/>
+      <File FileName="ConfigMerchant.dfm" ContainerId="W32Form" ModuleName="ConfigMerchant.dfm"/>
+      <File FileName="ConfigMonGen.dfm" ContainerId="W32Form" ModuleName="ConfigMonGen.dfm"/>
+      <File FileName="EditCompoundInfo.dfm" ContainerId="W32Form" ModuleName="EditCompoundInfo.dfm"/>
+      <File FileName="EngineRegister.dfm" ContainerId="W32Form" ModuleName="EngineRegister.dfm"/>
+      <File FileName="FrmShop.dfm" ContainerId="W32Form" ModuleName="FrmShop.dfm"/>
+      <File FileName="FSrvValue.dfm" ContainerId="W32Form" ModuleName="FSrvValue.dfm"/>
+      <File FileName="FunctionConfig.dfm" ContainerId="W32Form" ModuleName="FunctionConfig.dfm"/>
+      <File FileName="GameCommand.dfm" ContainerId="W32Form" ModuleName="GameCommand.dfm"/>
+      <File FileName="GameConfig.dfm" ContainerId="W32Form" ModuleName="GameConfig.dfm"/>
+      <File FileName="GeneralConfig.dfm" ContainerId="W32Form" ModuleName="GeneralConfig.dfm"/>
+      <File FileName="HumanInfo.dfm" ContainerId="W32Form" ModuleName="HumanInfo.dfm"/>
+      <File FileName="IdSrvClient.dfm" ContainerId="W32Form" ModuleName="IdSrvClient.dfm"/>
+      <File FileName="ItemSet.dfm" ContainerId="W32Form" ModuleName="ItemSet.dfm"/>
+      <File FileName="LocalDB.dfm" ContainerId="W32Form" ModuleName="LocalDB.dfm"/>
+      <File FileName="MonsterConfig.dfm" ContainerId="W32Form" ModuleName="MonsterConfig.dfm"/>
+      <File FileName="OnlineEmail.dfm" ContainerId="W32Form" ModuleName="OnlineEmail.dfm"/>
+      <File FileName="OnlineMsg.dfm" ContainerId="W32Form" ModuleName="OnlineMsg.dfm"/>
+      <File FileName="svMain.dfm" ContainerId="W32Form" ModuleName="svMain.dfm"/>
+      <File FileName="ViewCompoundInfo.dfm" ContainerId="W32Form" ModuleName="ViewCompoundInfo.dfm"/>
+      <File FileName="ViewKernelInfo.dfm" ContainerId="W32Form" ModuleName="ViewKernelInfo.dfm"/>
+      <File FileName="ViewLevel.dfm" ContainerId="W32Form" ModuleName="ViewLevel.dfm"/>
+      <File FileName="ViewList.dfm" ContainerId="W32Form" ModuleName="ViewList.dfm"/>
+      <File FileName="ViewOnlineHuman.dfm" ContainerId="W32Form" ModuleName="ViewOnlineHuman.dfm"/>
+      <File FileName="ViewSession.dfm" ContainerId="W32Form" ModuleName="ViewSession.dfm"/>
+      <File FileName="M2Server_DRC.rc" ContainerId="W32RC" ModuleName="M2Server_DRC.rc"/>
+    </FileList>
+  </W32ResourceDLL.Personality>
+</BorlandProject>

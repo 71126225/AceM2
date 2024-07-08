@@ -6242,7 +6242,7 @@ begin
             m_dwFrameTime := HA.ActSpell.ftime;
 
             case m_CurMagic.EffectNumber of
-              26: begin //ÐÄÁéÆôÊ¾
+              26: begin //Revelation
                   //m_nMagLight := 2;
                   m_nSpellFrame := 20;
                   m_dwFrameTime := m_dwFrameTime div 2;
@@ -6252,12 +6252,12 @@ begin
                   m_nSpellFrame := 15;
                   m_dwFrameTime := Round(m_dwFrameTime * 0.7);
                 end;
-              29: begin //Ä§·¨¶Ü
+              29: begin //Magic Shield
                   //m_nMagLight := 2;
                   m_nSpellFrame := 17;
                   m_dwFrameTime := Round(m_dwFrameTime * 0.6);
                 end;
-              43: begin //Ê¨×Óºð
+              43: begin //Lion's Roar
                   //m_nMagLight := 2;
                   m_nSpellFrame := 20;
                   m_dwFrameTime := m_dwFrameTime div 2;
@@ -6266,7 +6266,7 @@ begin
                 m_nSpellFrame := 10;
                 m_dwFrameTime := m_dwFrameTime div 2;
               end;
-              72: begin //ËÀÍöÖ®ÑÛ
+              72: begin //Dead Eye
                   //m_nMagLight := 2;
                   m_nSpellFrame := 17;
                   m_dwFrameTime := Round(m_dwFrameTime * 0.6);

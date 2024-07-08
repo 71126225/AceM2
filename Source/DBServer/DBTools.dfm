@@ -3,7 +3,7 @@ object frmDBTool: TfrmDBTool
   Top = 223
   BorderIcons = [biSystemMenu, biMinimize]
   BorderStyle = bsSingle
-  Caption = #25968#25454#31649#29702#24037#20855
+  Caption = 'Data management tools'
   ClientHeight = 272
   ClientWidth = 573
   Color = clBtnFace
@@ -24,17 +24,13 @@ object frmDBTool: TfrmDBTool
     ActivePage = TabSheet1
     TabOrder = 0
     object TabSheet1: TTabSheet
-      Caption = #25968#25454#24211#20449#24687
-      ExplicitLeft = 0
-      ExplicitTop = 0
-      ExplicitWidth = 0
-      ExplicitHeight = 0
+      Caption = 'Database Information'
       object GroupBox1: TGroupBox
         Left = 3
         Top = 3
         Width = 267
         Height = 221
-        Caption = #20154#29289#20449#24687#25968#25454#24211'(Mir.DB)'
+        Caption = 'Character information database(Mir.DB)'
         TabOrder = 0
         object GridMirDBInfo: TStringGrid
           Left = 8
@@ -55,7 +51,7 @@ object frmDBTool: TfrmDBTool
         Top = 3
         Width = 267
         Height = 221
-        Caption = #20154#29289#25968#25454#24211'(Hum.DB)'
+        Caption = 'Character Database(Hum.DB)'
         TabOrder = 1
         object GridHumDBInfo: TStringGrid
           Left = 8

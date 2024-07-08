@@ -20,9 +20,9 @@ object EditCompoundInfoForm: TEditCompoundInfoForm
   object Label1: TLabel
     Left = 6
     Top = 45
-    Width = 102
+    Width = 108
     Height = 12
-    Caption = #38468#21152#23646#24615#38543#26426#33539#22260':'
+    Caption = 'Attr Random Range:'
   end
   object Label2: TLabel
     Left = 183

@@ -144,7 +144,7 @@ object frmIPaddrFilter: TfrmIPaddrFilter
         Top = 68
         Width = 54
         Height = 12
-        Caption = #25968#37327#38480#21046':'
+        Caption = 'restrict:'
       end
       object Label5: TLabel
         Left = 8
@@ -537,7 +537,7 @@ object frmIPaddrFilter: TfrmIPaddrFilter
     Top = 230
     Width = 148
     Height = 73
-    Caption = #25915#20987#25805#20316
+    Caption = 'Attack Operation'
     TabOrder = 5
     object RadioAddBlockList: TRadioButton
       Left = 16

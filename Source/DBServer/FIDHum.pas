@@ -75,7 +75,7 @@ begin
   ChrGrid.Cells[4, 0] := 'Modification Date';
   ChrGrid.Cells[5, 0] := 'Counter';
   ChrGrid.Cells[6, 0] := 'Select ID';
-  ChrGrid.Cells[7, 0] := 'GM½ûÓÃ';
+  ChrGrid.Cells[7, 0] := 'GM banned';
 end;
 
 procedure TFrmIDHum.EdUserIdKeyPress(Sender: TObject; var Key: Char);
@@ -344,7 +344,7 @@ end;
 
 procedure TFrmIDHum.RefChrGrid(HumDBRecord: THumInfo); //0x004A00C4
 const
-  IsHeroName: array[Boolean] of string = ('', 'Ó¢ÐÛ');
+  IsHeroName: array[Boolean] of string = ('', 'hero');
 var
   nRowCount: Integer;
 begin

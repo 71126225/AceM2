@@ -3,7 +3,7 @@ object FormVersion: TFormVersion
   Top = 0
   BorderIcons = [biSystemMenu]
   BorderStyle = bsSingle
-  Caption = #29256#26412#21495#35774#32622
+  Caption = 'Version number setting'
   ClientHeight = 74
   ClientWidth = 406
   Color = clBtnFace

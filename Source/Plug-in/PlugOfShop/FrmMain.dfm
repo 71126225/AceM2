@@ -3,7 +3,7 @@ object FormMain: TFormMain
   Top = 0
   BorderIcons = [biSystemMenu]
   BorderStyle = bsSingle
-  Caption = #21830#38138#31649#29702#35774#32622
+  Caption = 'Store management settings'
   ClientHeight = 411
   ClientWidth = 750
   Color = clBtnFace
@@ -50,7 +50,7 @@ object FormMain: TFormMain
     ActivePage = TabSheet1
     TabOrder = 0
     object TabSheet1: TTabSheet
-      Caption = #21830#38138#21015#34920#37197#32622
+      Caption = 'Store list configuration'
       object Label8: TLabel
         Left = 442
         Top = 259
@@ -61,9 +61,9 @@ object FormMain: TFormMain
       object Label9: TLabel
         Left = 442
         Top = 235
-        Width = 36
+        Width = 42
         Height = 12
-        Caption = #29289#21697'ID'
+        Caption = 'Item ID'
       end
       object Label5: TLabel
         Left = 321
@@ -77,7 +77,7 @@ object FormMain: TFormMain
         Top = 259
         Width = 30
         Height = 12
-        Caption = #26399#38480':'
+        Caption = 'Term:'
       end
       object Label7: TLabel
         Left = 321
@@ -89,30 +89,30 @@ object FormMain: TFormMain
       object Label4: TLabel
         Left = 160
         Top = 307
-        Width = 54
+        Width = 60
         Height = 12
-        Caption = #29289#21697#25551#36848':'
+        Caption = 'Descripti:'
       end
       object Label3: TLabel
         Left = 160
         Top = 283
-        Width = 54
+        Width = 36
         Height = 12
-        Caption = #29289#21697#20215#26684':'
+        Caption = 'Price:'
       end
       object Label2: TLabel
         Left = 160
         Top = 259
-        Width = 54
+        Width = 60
         Height = 12
-        Caption = #29289#21697#21517#31216':'
+        Caption = 'Item Name:'
       end
       object Label1: TLabel
         Left = 160
         Top = 235
         Width = 54
         Height = 12
-        Caption = #29289#21697#31867#21035':'
+        Caption = 'Category:'
       end
       object ListViewShopList: TListView
         Left = 160
@@ -121,11 +121,11 @@ object FormMain: TFormMain
         Height = 205
         Columns = <
           item
-            Caption = #29289#21697#31867#21035
+            Caption = 'Item Category'
             Width = 60
           end
           item
-            Caption = #29289#21697#21517#31216
+            Caption = 'Item Name'
             Width = 100
           end
           item
@@ -133,10 +133,10 @@ object FormMain: TFormMain
             Width = 40
           end
           item
-            Caption = #20215#26684
+            Caption = 'Price'
           end
           item
-            Caption = #26399#38480
+            Caption = 'Duration'
             Width = 40
           end
           item
@@ -144,7 +144,7 @@ object FormMain: TFormMain
             Width = 40
           end
           item
-            Caption = #20132
+            Caption = 'Pay'
             Width = 23
           end
           item
@@ -183,7 +183,7 @@ object FormMain: TFormMain
         Top = 330
         Width = 75
         Height = 23
-        Caption = #22686#21152'(&A)'
+        Caption = 'Add(&A)'
         Enabled = False
         TabOrder = 1
         OnClick = ButtonAddClick
@@ -193,7 +193,7 @@ object FormMain: TFormMain
         Top = 330
         Width = 75
         Height = 23
-        Caption = #21024#38500'(&D)'
+        Caption = 'Delete(&D)'
         Enabled = False
         TabOrder = 2
         OnClick = ButtonDelClick
@@ -203,7 +203,7 @@ object FormMain: TFormMain
         Top = 330
         Width = 75
         Height = 23
-        Caption = #20462#25913'(&E)'
+        Caption = 'Edit(&E)'
         Enabled = False
         TabOrder = 3
         OnClick = ButtonEditClick
@@ -213,7 +213,7 @@ object FormMain: TFormMain
         Top = 330
         Width = 75
         Height = 23
-        Caption = #20445#23384'(&S)'
+        Caption = 'Save(&S)'
         TabOrder = 4
         OnClick = ButtonSaveClick
       end
@@ -222,7 +222,7 @@ object FormMain: TFormMain
         Top = 330
         Width = 75
         Height = 23
-        Caption = #37325#21152#36733'(&R)'
+        Caption = 'Reload(&R)'
         TabOrder = 5
         OnClick = ButtonRefurClick
       end
@@ -309,7 +309,7 @@ object FormMain: TFormMain
         Top = 19
         Width = 146
         Height = 334
-        Caption = #29289#21697#21015#34920'(Ctrl+F'#26597#25214')'
+        Caption = 'Item list (Ctrl+F search)'
         TabOrder = 13
         object ListBoxitemList: TListBox
           Left = 8
@@ -327,7 +327,7 @@ object FormMain: TFormMain
         Top = 234
         Width = 65
         Height = 17
-        Caption = #19981#21487#20132#26131
+        Caption = 'No Trade'
         TabOrder = 14
       end
       object CheckBox2: TCheckBox
@@ -335,7 +335,7 @@ object FormMain: TFormMain
         Top = 235
         Width = 65
         Height = 17
-        Caption = #19981#21487#23384#20179
+        Caption = 'No Store'
         TabOrder = 15
       end
       object CheckBox3: TCheckBox
@@ -343,7 +343,7 @@ object FormMain: TFormMain
         Top = 257
         Width = 65
         Height = 17
-        Caption = #19981#21487#20462#29702
+        Caption = 'No Repair'
         TabOrder = 16
       end
       object CheckBox4: TCheckBox
@@ -351,7 +351,7 @@ object FormMain: TFormMain
         Top = 258
         Width = 65
         Height = 17
-        Caption = #19981#21487#20002#24323
+        Caption = 'No Throw'
         TabOrder = 17
       end
       object CheckBox5: TCheckBox
@@ -359,7 +359,7 @@ object FormMain: TFormMain
         Top = 280
         Width = 65
         Height = 17
-        Caption = #27704#19981#25481#33853
+        Caption = 'No Drop'
         TabOrder = 18
       end
       object CheckBox6: TCheckBox
@@ -367,7 +367,7 @@ object FormMain: TFormMain
         Top = 280
         Width = 65
         Height = 17
-        Caption = #19981#21487#25171#36896
+        Caption = 'No Build'
         TabOrder = 19
       end
       object Button1: TButton

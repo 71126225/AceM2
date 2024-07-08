@@ -3,7 +3,7 @@ object frmTestSelGate: TfrmTestSelGate
   Top = 183
   BorderIcons = [biSystemMenu]
   BorderStyle = bsSingle
-  Caption = #27979#35797#36873#25321#32593#20851
+  Caption = 'Test Select Gateway'
   ClientHeight = 133
   ClientWidth = 281
   Color = clBtnFace
@@ -23,18 +23,18 @@ object frmTestSelGate: TfrmTestSelGate
     Height = 99
     TabOrder = 0
     object Label1: TLabel
-      Left = 8
-      Top = 20
-      Width = 54
+      Left = 0
+      Top = 22
+      Width = 66
       Height = 12
-      Caption = #30331#24405#32593#20851':'
+      Caption = 'Login Gate:'
     end
     object Label2: TLabel
       Left = 8
       Top = 44
-      Width = 54
+      Width = 60
       Height = 12
-      Caption = #28216#25103#32593#20851':'
+      Caption = 'Game Gate:'
     end
     object EditSelGate: TEdit
       Left = 64
@@ -56,7 +56,7 @@ object frmTestSelGate: TfrmTestSelGate
       Top = 66
       Width = 73
       Height = 26
-      Caption = #27979#35797'(&T)'
+      Caption = 'Test(&T)'
       TabOrder = 2
       OnClick = ButtonTestClick
     end
@@ -65,7 +65,7 @@ object frmTestSelGate: TfrmTestSelGate
       Top = 66
       Width = 73
       Height = 26
-      Caption = #37197#32622'(&C)'
+      Caption = 'Configure(&C)'
       Default = True
       TabOrder = 3
       OnClick = Button1Click
@@ -80,9 +80,9 @@ object frmTestSelGate: TfrmTestSelGate
     object Label3: TLabel
       Left = 8
       Top = 10
-      Width = 78
+      Width = 120
       Height = 12
-      Caption = #27979#35797#36873#25321#32593#20851':'
+      Caption = 'Test Select Gateway:'
     end
   end
 end

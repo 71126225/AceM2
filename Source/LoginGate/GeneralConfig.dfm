@@ -100,9 +100,9 @@ object frmGeneralConfig: TfrmGeneralConfig
     object LabelShowLogLevel: TLabel
       Left = 10
       Top = 55
-      Width = 45
+      Width = 56
       Height = 15
-      Caption = '??????:'
+      Caption = 'Log Level:'
     end
     object EditTitle: TEdit
       Left = 50

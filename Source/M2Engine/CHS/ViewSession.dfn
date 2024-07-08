@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="D:\AceM2 Source\Source\M2Engine\ViewSession.dfm" source-language="en-GB" target-language="zh-CN" datatype="delphiform" tool="ETM v10.0" ts="D:\AceM2 Source\Source\M2Engine\ViewSession.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">45469.9129166667</prop>
+        <prop prop-type="OrigDateTime">45468.8302314815</prop>
+        <prop prop-type="XlatDateTime">45468.8302314815</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">49</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:frmViewSession.Left" resname="O:frmViewSession.Left">
+        <source>606</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TfrmViewSession</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.Top" resname="O:frmViewSession.Top">
+        <source>529</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TfrmViewSession</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.BorderIcons" resname="O:frmViewSession.BorderIcons">
+        <source>[biSystemMenu, biMinimize]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TfrmViewSession</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.Caption" resname="O:frmViewSession.Caption">
+        <source>'Session'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TfrmViewSession</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.ClientHeight" resname="O:frmViewSession.ClientHeight">
+        <source>175</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TfrmViewSession</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.ClientWidth" resname="O:frmViewSession.ClientWidth">
+        <source>451</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TfrmViewSession</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.Color" resname="O:frmViewSession.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TfrmViewSession</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.Font.Charset" resname="O:frmViewSession.Font.Charset">
+        <source>GB2312_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TfrmViewSession</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.Font.Color" resname="O:frmViewSession.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TfrmViewSession</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.Font.Height" resname="O:frmViewSession.Font.Height">
+        <source>-12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TfrmViewSession</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.Font.Name" resname="O:frmViewSession.Font.Name">
+        <source>'??'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TfrmViewSession</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.Font.Style" resname="O:frmViewSession.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TfrmViewSession</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.OldCreateOrder" resname="O:frmViewSession.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TfrmViewSession</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.Position" resname="O:frmViewSession.Position">
+        <source>poOwnerFormCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TfrmViewSession</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.OnCreate" resname="O:frmViewSession.OnCreate">
+        <source>FormCreate</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TfrmViewSession</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.PixelsPerInch" resname="O:frmViewSession.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TfrmViewSession</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.TextHeight" resname="O:frmViewSession.TextHeight">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TfrmViewSession</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:ButtonRefGrid.Left" resname="O:frmViewSession.O:ButtonRefGrid.Left">
+        <source>367</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:ButtonRefGrid.Top" resname="O:frmViewSession.O:ButtonRefGrid.Top">
+        <source>143</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:ButtonRefGrid.Width" resname="O:frmViewSession.O:ButtonRefGrid.Width">
+        <source>73</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209954</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:ButtonRefGrid.Height" resname="O:frmViewSession.O:ButtonRefGrid.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209954</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:ButtonRefGrid.Caption" resname="O:frmViewSession.O:ButtonRefGrid.Caption">
+        <source>'Reload (&amp;R)'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209954</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:ButtonRefGrid.TabOrder" resname="O:frmViewSession.O:ButtonRefGrid.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209954</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:ButtonRefGrid.OnClick" resname="O:frmViewSession.O:ButtonRefGrid.OnClick">
+        <source>ButtonRefGridClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209954</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.Left" resname="O:frmViewSession.O:PanelStatus.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209954</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.Top" resname="O:frmViewSession.O:PanelStatus.Top">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129209954</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.Width" resname="O:frmViewSession.O:PanelStatus.Width">
+        <source>433</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129210069</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.Height" resname="O:frmViewSession.O:PanelStatus.Height">
+        <source>129</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129210069</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.TabOrder" resname="O:frmViewSession.O:PanelStatus.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129210069</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.O:GridSession.Left" resname="O:frmViewSession.O:PanelStatus.O:GridSession.Left">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129210069</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.O:GridSession.Top" resname="O:frmViewSession.O:PanelStatus.O:GridSession.Top">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129210069</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.O:GridSession.Width" resname="O:frmViewSession.O:PanelStatus.O:GridSession.Width">
+        <source>431</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129210069</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.O:GridSession.Height" resname="O:frmViewSession.O:PanelStatus.O:GridSession.Height">
+        <source>127</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129210185</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.O:GridSession.Align" resname="O:frmViewSession.O:PanelStatus.O:GridSession.Align">
+        <source>alClient</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129210185</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.O:GridSession.BevelInner" resname="O:frmViewSession.O:PanelStatus.O:GridSession.BevelInner">
+        <source>bvNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129210185</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.O:GridSession.BevelKind" resname="O:frmViewSession.O:PanelStatus.O:GridSession.BevelKind">
+        <source>bkFlat</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129210185</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.O:GridSession.BevelOuter" resname="O:frmViewSession.O:PanelStatus.O:GridSession.BevelOuter">
+        <source>bvNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129210185</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.O:GridSession.ColCount" resname="O:frmViewSession.O:PanelStatus.O:GridSession.ColCount">
+        <source>6</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129210185</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.O:GridSession.DefaultRowHeight" resname="O:frmViewSession.O:PanelStatus.O:GridSession.DefaultRowHeight">
+        <source>18</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129210185</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.O:GridSession.FixedCols" resname="O:frmViewSession.O:PanelStatus.O:GridSession.FixedCols">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129210301</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.O:GridSession.RowCount" resname="O:frmViewSession.O:PanelStatus.O:GridSession.RowCount">
+        <source>6</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129210301</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.O:GridSession.Options" resname="O:frmViewSession.O:PanelStatus.O:GridSession.Options">
+        <source>[goFixedVertLine, goFixedHorzLine, goVertLine, goHorzLine, goRangeSelect, goEditing]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129210301</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.O:GridSession.TabOrder" resname="O:frmViewSession.O:PanelStatus.O:GridSession.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129210301</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.O:GridSession.ColWidths[0]" resname="O:frmViewSession.O:PanelStatus.O:GridSession.ColWidths[0]">
+        <source>34</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129210301</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.O:GridSession.ColWidths[1]" resname="O:frmViewSession.O:PanelStatus.O:GridSession.ColWidths[1]">
+        <source>121</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129210301</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.O:GridSession.ColWidths[2]" resname="O:frmViewSession.O:PanelStatus.O:GridSession.ColWidths[2]">
+        <source>86</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129210417</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.O:GridSession.ColWidths[3]" resname="O:frmViewSession.O:PanelStatus.O:GridSession.ColWidths[3]">
+        <source>44</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129210417</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.O:GridSession.ColWidths[4]" resname="O:frmViewSession.O:PanelStatus.O:GridSession.ColWidths[4]">
+        <source>57</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129210417</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewSession.O:PanelStatus.O:GridSession.ColWidths[5]" resname="O:frmViewSession.O:PanelStatus.O:GridSession.ColWidths[5]">
+        <source>61</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129210417</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -21,7 +21,7 @@ object FrmBasicSet: TFrmBasicSet
     Top = 8
     Width = 401
     Height = 193
-    ActivePage = TabSheet2
+    ActivePage = TabSheet1
     TabOrder = 0
     object TabSheet1: TTabSheet
       Caption = 'Accounts'
@@ -29,7 +29,7 @@ object FrmBasicSet: TFrmBasicSet
       object GroupBox1: TGroupBox
         Left = 8
         Top = 8
-        Width = 169
+        Width = 193
         Height = 97
         Caption = 'Accounts'
         TabOrder = 0
@@ -54,9 +54,9 @@ object FrmBasicSet: TFrmBasicSet
         object CheckBoxDisabledLostPassword: TCheckBox
           Left = 15
           Top = 67
-          Width = 97
+          Width = 175
           Height = 17
-          Caption = #31105#27490#25214#22238#23494#30721
+          Caption = 'Disable password retrieval'
           TabOrder = 2
           OnClick = CheckBoxDisabledLostPasswordClick
         end

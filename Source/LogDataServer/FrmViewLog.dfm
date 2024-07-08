@@ -1,7 +1,7 @@
 object FormView: TFormView
   Left = 208
   Top = 112
-  Caption = #26085#24535#20998#26512#31383#21475
+  Caption = 'Log Analysis Window'
   ClientHeight = 566
   ClientWidth = 1001
   Color = clBtnFace
@@ -24,18 +24,18 @@ object FormView: TFormView
     BevelOuter = bvNone
     TabOrder = 0
     object Label1: TLabel
-      Left = 25
-      Top = 14
-      Width = 48
+      Left = 13
+      Top = 13
+      Width = 60
       Height = 12
-      Caption = #24320#22987#26085#26399
+      Caption = 'Start Date'
     end
     object Label2: TLabel
       Left = 201
       Top = 14
       Width = 48
       Height = 12
-      Caption = #32467#26463#26085#26399
+      Caption = 'End Date'
     end
     object DateTimeBegin: TDateTimePicker
       Left = 79
@@ -60,7 +60,7 @@ object FormView: TFormView
       Top = 56
       Width = 81
       Height = 25
-      Caption = #21047#26032'(&S)'
+      Caption = 'Search(&S)'
       TabOrder = 2
       OnClick = BitBtnOKClick
       Glyph.Data = {
@@ -87,7 +87,7 @@ object FormView: TFormView
       Top = 38
       Width = 65
       Height = 17
-      Caption = #20154#29289#21517#31216
+      Caption = 'name'
       TabOrder = 3
     end
     object Edit2: TEdit
@@ -109,7 +109,7 @@ object FormView: TFormView
       Top = 64
       Width = 65
       Height = 17
-      Caption = #29289#21697#21517#31216
+      Caption = 'item name'
       TabOrder = 6
     end
     object Edit4: TEdit
@@ -121,18 +121,18 @@ object FormView: TFormView
     end
     object CheckBox3: TCheckBox
       Left = 184
-      Top = 38
+      Top = 39
       Width = 65
       Height = 17
-      Caption = #20132#26131#23545#20687
+      Caption = 'Trade'
       TabOrder = 8
     end
     object CheckBox4: TCheckBox
       Left = 184
-      Top = 64
+      Top = 62
       Width = 65
       Height = 17
-      Caption = #29289#21697'ID'
+      Caption = 'Item ID'
       TabOrder = 9
     end
     object Edit5: TEdit
@@ -147,14 +147,14 @@ object FormView: TFormView
       Top = 5
       Width = 418
       Height = 77
-      Caption = #21160#20316#36873#25321
+      Caption = 'Action Selection'
       TabOrder = 11
       object CheckBox5: TCheckBox
         Left = 8
         Top = 16
         Width = 73
         Height = 17
-        Caption = #20154#29289#27515#20129
+        Caption = 'Death'
         TabOrder = 0
       end
       object CheckBox6: TCheckBox
@@ -162,7 +162,7 @@ object FormView: TFormView
         Top = 35
         Width = 73
         Height = 17
-        Caption = #37329#24065#25913#21464
+        Caption = 'Gold Trade'
         TabOrder = 1
       end
       object CheckBox7: TCheckBox
@@ -170,7 +170,7 @@ object FormView: TFormView
         Top = 54
         Width = 73
         Height = 17
-        Caption = #32465#37329#25913#21464
+        Caption = 'Bond Change'
         TabOrder = 2
       end
       object CheckBox8: TCheckBox
@@ -178,7 +178,7 @@ object FormView: TFormView
         Top = 16
         Width = 73
         Height = 17
-        Caption = #28857#21367#25913#21464
+        Caption = 'Points change'
         TabOrder = 3
       end
       object CheckBox9: TCheckBox
@@ -186,7 +186,7 @@ object FormView: TFormView
         Top = 35
         Width = 73
         Height = 17
-        Caption = #20803#23453#25913#21464
+        Caption = 'Ingot Change'
         TabOrder = 4
       end
       object CheckBox10: TCheckBox
@@ -194,7 +194,7 @@ object FormView: TFormView
         Top = 54
         Width = 73
         Height = 17
-        Caption = #31215#20998#25913#21464
+        Caption = 'Points change'
         TabOrder = 5
       end
       object CheckBox11: TCheckBox
@@ -202,7 +202,7 @@ object FormView: TFormView
         Top = 16
         Width = 73
         Height = 17
-        Caption = #25968#37327#25913#21464
+        Caption = 'Quantity changes'
         TabOrder = 6
       end
       object CheckBox12: TCheckBox
@@ -210,7 +210,7 @@ object FormView: TFormView
         Top = 35
         Width = 73
         Height = 17
-        Caption = #22686#21152#29289#21697
+        Caption = 'Adding items'
         TabOrder = 7
       end
       object CheckBox13: TCheckBox
@@ -218,15 +218,15 @@ object FormView: TFormView
         Top = 54
         Width = 73
         Height = 17
-        Caption = #20943#23569#29289#21697
+        Caption = 'Reduce items'
         TabOrder = 8
       end
       object CheckBox14: TCheckBox
         Left = 245
-        Top = 16
+        Top = 12
         Width = 73
         Height = 17
-        Caption = #20179#24211#23384#21462
+        Caption = 'Warehouse access'
         TabOrder = 9
       end
       object CheckBox15: TCheckBox
@@ -234,15 +234,15 @@ object FormView: TFormView
         Top = 35
         Width = 73
         Height = 17
-        Caption = #24378#21270#25913#21464
+        Caption = 'Strengthening changes'
         TabOrder = 10
       end
       object CheckBox16: TCheckBox
         Left = 245
         Top = 54
-        Width = 73
+        Width = 108
         Height = 17
-        Caption = #35843#25972#29289#21697
+        Caption = 'Adjusting items'
         TabOrder = 11
       end
       object CheckBox17: TCheckBox
@@ -250,7 +250,7 @@ object FormView: TFormView
         Top = 16
         Width = 73
         Height = 17
-        Caption = #22768#26395#25913#21464
+        Caption = 'Reputation Changes'
         TabOrder = 12
       end
       object CheckBox21: TCheckBox
@@ -258,7 +258,7 @@ object FormView: TFormView
         Top = 33
         Width = 73
         Height = 17
-        Caption = #20154#29289#21464#37327
+        Caption = 'Character variables'
         TabOrder = 13
       end
     end
@@ -274,7 +274,7 @@ object FormView: TFormView
       Top = 38
       Width = 57
       Height = 17
-      Caption = #22791#27880#20108
+      Caption = 'Note 2'
       TabOrder = 13
     end
     object CheckBox19: TCheckBox
@@ -282,7 +282,7 @@ object FormView: TFormView
       Top = 64
       Width = 57
       Height = 17
-      Caption = #22791#27880#19977
+      Caption = 'Note 3'
       TabOrder = 14
     end
     object Edit6: TEdit
@@ -297,7 +297,7 @@ object FormView: TFormView
       Top = 13
       Width = 57
       Height = 17
-      Caption = #22791#27880#19968
+      Caption = 'Note 1'
       TabOrder = 16
     end
     object Edit7: TEdit
@@ -312,7 +312,7 @@ object FormView: TFormView
       Top = 10
       Width = 81
       Height = 25
-      Caption = #28165#38500'(&C)'
+      Caption = 'Clear(&C)'
       TabOrder = 18
       OnClick = BitBtnOKClick
       Glyph.Data = {
@@ -400,16 +400,16 @@ object FormView: TFormView
     Left = 80
     Top = 96
     object Menu_ItemName: TMenuItem
-      Caption = #29289#21697#21517#31216
+      Caption = 'Item Name'
     end
     object Menu_ItemID: TMenuItem
-      Caption = #29289#21697'ID'
+      Caption = 'Item ID'
     end
     object N2: TMenuItem
       Caption = '-'
     end
     object Menu_Write: TMenuItem
-      Caption = #23548#20986#29289#21697#25968#25454'(&W)'
+      Caption = 'Exporting Item Data(&W)'
       OnClick = Menu_WriteClick
     end
   end

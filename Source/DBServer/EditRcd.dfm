@@ -3,7 +3,7 @@ object frmEditRcd: TfrmEditRcd
   Top = 294
   BorderIcons = [biSystemMenu]
   BorderStyle = bsSingle
-  Caption = #32534#36753#20154#29289#25968#25454
+  Caption = 'Edit character data'
   ClientHeight = 370
   ClientWidth = 650
   Color = clBtnFace
@@ -21,33 +21,33 @@ object frmEditRcd: TfrmEditRcd
     Top = 9
     Width = 631
     Height = 323
-    ActivePage = TabSheet3
+    ActivePage = TabSheet1
     TabOrder = 0
     object TabSheet1: TTabSheet
-      Caption = #22522#26412
+      Caption = 'Basic'
       ExplicitLeft = 0
       ExplicitTop = 0
       ExplicitWidth = 0
       ExplicitHeight = 0
       object GroupBox1: TGroupBox
         Left = 11
-        Top = 3
+        Top = 8
         Width = 609
         Height = 284
         TabOrder = 0
         object Label1: TLabel
           Left = 8
           Top = 44
-          Width = 54
+          Width = 30
           Height = 12
-          Caption = #20154#29289#21517#31216':'
+          Caption = 'name:'
         end
         object Label2: TLabel
           Left = 8
           Top = 68
-          Width = 54
+          Width = 42
           Height = 12
-          Caption = #30331#24405#24080#21495':'
+          Caption = 'Log in:'
         end
         object Label3: TLabel
           Left = 424
@@ -59,51 +59,51 @@ object frmEditRcd: TfrmEditRcd
         object Label11: TLabel
           Left = 8
           Top = 20
-          Width = 54
+          Width = 60
           Height = 12
-          Caption = #32034#24341#21495#30721':'
+          Caption = 'ID Number:'
         end
         object Label12: TLabel
-          Left = 8
-          Top = 92
+          Left = 4
+          Top = 90
           Width = 54
           Height = 12
-          Caption = #24403#21069#22320#22270':'
+          Caption = 'Last Map:'
         end
         object Label13: TLabel
           Left = 8
           Top = 116
-          Width = 54
+          Width = 48
           Height = 12
-          Caption = #24403#21069#24231#26631':'
+          Caption = 'Co-Ords:'
         end
         object Label14: TLabel
           Left = 8
           Top = 140
-          Width = 54
+          Width = 42
           Height = 12
-          Caption = #22238#22478#22320#22270':'
+          Caption = 'TT map:'
         end
         object Label15: TLabel
           Left = 8
           Top = 164
-          Width = 54
+          Width = 60
           Height = 12
-          Caption = #22238#22478#24231#26631':'
+          Caption = 'TT Co-rds:'
         end
         object Label6: TLabel
           Left = 232
           Top = 20
-          Width = 30
+          Width = 36
           Height = 12
-          Caption = #31561#32423':'
+          Caption = 'Level:'
         end
         object Label7: TLabel
           Left = 232
           Top = 92
           Width = 30
           Height = 12
-          Caption = #37329#24065':'
+          Caption = 'Gold:'
         end
         object Label8: TLabel
           Left = 232
@@ -129,9 +129,9 @@ object frmEditRcd: TfrmEditRcd
         object Label17: TLabel
           Left = 232
           Top = 262
-          Width = 30
+          Width = 54
           Height = 12
-          Caption = 'PK'#20540':'
+          Caption = 'PK Point:'
         end
         object Label18: TLabel
           Left = 232
@@ -157,16 +157,16 @@ object frmEditRcd: TfrmEditRcd
         object Label33: TLabel
           Left = 8
           Top = 189
-          Width = 54
+          Width = 60
           Height = 12
-          Caption = #27515#20129#22320#22270':'
+          Caption = 'Death Map:'
         end
         object Label34: TLabel
           Left = 8
           Top = 213
           Width = 54
           Height = 12
-          Caption = #27515#20129#24231#26631':'
+          Caption = 'Death co:'
         end
         object Label35: TLabel
           Left = 232
@@ -185,13 +185,13 @@ object frmEditRcd: TfrmEditRcd
         object Label37: TLabel
           Left = 232
           Top = 44
-          Width = 42
+          Width = 24
           Height = 12
-          Caption = #32463#39564#20540':'
+          Caption = 'EXP:'
         end
         object Label38: TLabel
-          Left = 232
-          Top = 68
+          Left = 228
+          Top = 67
           Width = 54
           Height = 12
           Caption = #21319#32423#39564#20540':'
@@ -199,16 +199,16 @@ object frmEditRcd: TfrmEditRcd
         object Label5: TLabel
           Left = 8
           Top = 238
-          Width = 54
+          Width = 48
           Height = 12
-          Caption = #21019#24314#26102#38388':'
+          Caption = 'Created:'
         end
         object Label32: TLabel
           Left = 8
           Top = 262
-          Width = 54
+          Width = 36
           Height = 12
-          Caption = #30331#24405#26102#38388':'
+          Caption = 'Login:'
         end
         object Label10: TLabel
           Left = 424
@@ -477,7 +477,7 @@ object frmEditRcd: TfrmEditRcd
           Top = 42
           Width = 57
           Height = 17
-          Caption = #26356#21517
+          Caption = 'name change'
           TabOrder = 24
           OnClick = EditPasswordChange
         end
@@ -558,7 +558,7 @@ object frmEditRcd: TfrmEditRcd
       end
     end
     object TabSheet2: TTabSheet
-      Caption = #25968#25454
+      Caption = 'Data'
       ImageIndex = 1
       ExplicitLeft = 0
       ExplicitTop = 0
@@ -575,7 +575,7 @@ object frmEditRcd: TfrmEditRcd
           Top = 13
           Width = 311
           Height = 191
-          Caption = #33258#23450#20041#21464#37327
+          Caption = 'Custom'
           TabOrder = 0
           object Label46: TLabel
             Left = 6
@@ -943,56 +943,56 @@ object frmEditRcd: TfrmEditRcd
           Top = 13
           Width = 153
           Height = 193
-          Caption = #20154#29289#23646#24615#28857
+          Caption = 'Character points'
           TabOrder = 1
           object Label66: TLabel
             Left = 8
             Top = 19
-            Width = 30
+            Width = 18
             Height = 12
-            Caption = #38450#24481':'
+            Caption = 'AC:'
           end
           object Label67: TLabel
             Left = 8
             Top = 43
-            Width = 30
+            Width = 24
             Height = 12
-            Caption = #39764#38450':'
+            Caption = 'MAC:'
           end
           object Label68: TLabel
             Left = 8
             Top = 67
-            Width = 30
+            Width = 18
             Height = 12
-            Caption = #25915#20987':'
+            Caption = 'DC:'
           end
           object Label69: TLabel
             Left = 8
             Top = 91
-            Width = 30
+            Width = 18
             Height = 12
-            Caption = #39764#27861':'
+            Caption = 'MC:'
           end
           object Label70: TLabel
             Left = 8
             Top = 115
-            Width = 30
+            Width = 18
             Height = 12
-            Caption = #36947#26415':'
+            Caption = 'SC:'
           end
           object Label71: TLabel
             Left = 8
             Top = 139
-            Width = 30
+            Width = 18
             Height = 12
-            Caption = #29983#21629':'
+            Caption = 'HP:'
           end
           object Label72: TLabel
             Left = 8
             Top = 163
             Width = 42
             Height = 12
-            Caption = #21097#20313#28857':'
+            Caption = 'Remain:'
           end
           object EditNakedAC: TEdit
             Left = 56
@@ -1061,7 +1061,7 @@ object frmEditRcd: TfrmEditRcd
       end
     end
     object TabSheet6: TTabSheet
-      Caption = #20132#38469
+      Caption = 'Communication'
       ImageIndex = 5
       ExplicitLeft = 0
       ExplicitTop = 0
@@ -1072,14 +1072,14 @@ object frmEditRcd: TfrmEditRcd
         Top = 11
         Width = 190
         Height = 46
-        Caption = #22827#22971#20851#31995
+        Caption = 'Marriage'
         TabOrder = 0
         object Label4: TLabel
           Left = 12
           Top = 21
-          Width = 54
+          Width = 30
           Height = 12
-          Caption = #37197#20598#21517#31216':'
+          Caption = 'Name:'
         end
         object EditDearName: TEdit
           Left = 72
@@ -1096,56 +1096,56 @@ object frmEditRcd: TfrmEditRcd
         Top = 63
         Width = 190
         Height = 225
-        Caption = #24072#24466#20851#31995
+        Caption = 'Mentor'
         TabOrder = 1
         object Label39: TLabel
-          Left = 12
-          Top = 42
-          Width = 54
+          Left = 3
+          Top = 47
+          Width = 72
           Height = 12
-          Caption = #24072#29238#21517#31216':'
+          Caption = 'Master Name:'
         end
         object Label40: TLabel
           Left = 12
           Top = 68
-          Width = 42
+          Width = 48
           Height = 12
-          Caption = #24466#24351#20108':'
+          Caption = 'Student:'
         end
         object Label41: TLabel
           Left = 12
-          Top = 94
-          Width = 36
+          Top = 102
+          Width = 54
           Height = 12
-          Caption = #24466#24351#20108
+          Caption = 'Student 2'
         end
         object Label42: TLabel
           Left = 12
           Top = 120
-          Width = 42
+          Width = 60
           Height = 12
-          Caption = #24466#24351#22235':'
+          Caption = 'Student 3:'
         end
         object Label43: TLabel
           Left = 12
           Top = 146
-          Width = 42
+          Width = 60
           Height = 12
-          Caption = #24466#24351#20116':'
+          Caption = 'Student 4:'
         end
         object Label44: TLabel
           Left = 12
           Top = 172
-          Width = 42
-          Height = 12
-          Caption = #24466#24351#20845':'
+          Width = 54
+          Height = 24
+          Caption = 'Student 5'#13':'
         end
         object Label45: TLabel
           Left = 12
           Top = 198
-          Width = 42
+          Width = 60
           Height = 12
-          Caption = #24466#24351#19971':'
+          Caption = 'Student 6:'
         end
         object EditMasterName1: TEdit
           Left = 72
@@ -1161,7 +1161,7 @@ object frmEditRcd: TfrmEditRcd
           Top = 16
           Width = 81
           Height = 17
-          Caption = #26159#21542#20026#24072#29238
+          Caption = 'Is Master'
           TabOrder = 1
           OnClick = EditPasswordChange
         end
@@ -1225,7 +1225,7 @@ object frmEditRcd: TfrmEditRcd
         Top = 11
         Width = 154
         Height = 277
-        Caption = #22909#21451#20851#31995
+        Caption = 'Friend List'
         TabOrder = 2
         object ListBoxFirend: TListBox
           Left = 7
@@ -1238,7 +1238,7 @@ object frmEditRcd: TfrmEditRcd
       end
     end
     object TabSheet3: TTabSheet
-      Caption = #25216#33021
+      Caption = 'Skills'
       ImageIndex = 2
       ExplicitLeft = 0
       ExplicitTop = 0
@@ -1249,7 +1249,7 @@ object frmEditRcd: TfrmEditRcd
         Top = 6
         Width = 433
         Height = 284
-        Caption = #26222#36890#25216#33021
+        Caption = 'Skills'
         TabOrder = 0
         object ListViewMagic: TListView
           Left = 8
@@ -1258,19 +1258,19 @@ object frmEditRcd: TfrmEditRcd
           Height = 257
           Columns = <
             item
-              Caption = #25216#33021'ID'
+              Caption = 'Skill ID'
               Width = 60
             end
             item
-              Caption = #25216#33021#21517#31216
+              Caption = 'Skill Name'
               Width = 120
             end
             item
-              Caption = #31561#32423
+              Caption = 'Lvl'
               Width = 60
             end
             item
-              Caption = #20462#28860#28857
+              Caption = 'Points'
               Width = 90
             end>
           GridLines = True
@@ -1284,14 +1284,14 @@ object frmEditRcd: TfrmEditRcd
         Top = 6
         Width = 170
         Height = 284
-        Caption = #29983#27963#25216#33021
+        Caption = 'Life Skill'
         TabOrder = 1
         object Label22: TLabel
           Left = 10
           Top = 255
-          Width = 66
+          Width = 78
           Height = 12
-          Caption = #21097#20313#25216#33021#28857':'
+          Caption = 'Skill Points:'
         end
         object ListViewMakeMagic: TListView
           Left = 8
@@ -1300,11 +1300,11 @@ object frmEditRcd: TfrmEditRcd
           Height = 226
           Columns = <
             item
-              Caption = #25216#33021#21517#31216
+              Caption = 'Skill Name'
               Width = 100
             end
             item
-              Caption = #31561#32423
+              Caption = 'Lvl'
               Width = 40
             end>
           GridLines = True
@@ -1338,7 +1338,7 @@ object frmEditRcd: TfrmEditRcd
       end
     end
     object TabSheet4: TTabSheet
-      Caption = #35013#22791
+      Caption = 'Equipped'
       ImageIndex = 3
       ExplicitLeft = 0
       ExplicitTop = 0
@@ -1357,24 +1357,24 @@ object frmEditRcd: TfrmEditRcd
           Height = 257
           Columns = <
             item
-              Caption = #20301#32622
+              Caption = 'Location'
               Width = 60
             end
             item
-              Caption = #26631#35782#24207#21495
+              Caption = 'ID Number'
               Width = 75
             end
             item
-              Caption = #29289#21697#21517#31216
+              Caption = 'Name'
               Width = 90
             end
             item
               Alignment = taCenter
-              Caption = #25345#20037
+              Caption = 'Dura'
               Width = 85
             end
             item
-              Caption = #21442#25968
+              Caption = 'Parameter'
               Width = 260
             end>
           GridLines = True
@@ -1408,7 +1408,7 @@ object frmEditRcd: TfrmEditRcd
       end
     end
     object TabSheet7: TTabSheet
-      Caption = #32972#21253
+      Caption = 'Bag'
       ImageIndex = 6
       ExplicitLeft = 0
       ExplicitTop = 0
@@ -1455,7 +1455,7 @@ object frmEditRcd: TfrmEditRcd
       end
     end
     object TabSheet5: TTabSheet
-      Caption = #20179#24211
+      Caption = 'Storage'
       ImageIndex = 4
       ExplicitLeft = 0
       ExplicitTop = 0
@@ -1507,7 +1507,7 @@ object frmEditRcd: TfrmEditRcd
     Top = 338
     Width = 81
     Height = 25
-    Caption = #20445#23384#20462#25913'(&S)'
+    Caption = 'Save(&S)'
     TabOrder = 1
     OnClick = ButtonExportDataClick
   end
@@ -1516,7 +1516,7 @@ object frmEditRcd: TfrmEditRcd
     Top = 338
     Width = 81
     Height = 25
-    Caption = #23548#20986#25968#25454'(&E)'
+    Caption = 'Export(&E)'
     TabOrder = 2
     OnClick = ButtonExportDataClick
   end
@@ -1525,7 +1525,7 @@ object frmEditRcd: TfrmEditRcd
     Top = 338
     Width = 81
     Height = 25
-    Caption = #23548#20837#25968#25454'(&I)'
+    Caption = 'Import(&I)'
     TabOrder = 3
     OnClick = ButtonExportDataClick
   end

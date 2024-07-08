@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="D:\AceM2 Source\Source\M2Engine\IdSrvClient.dfm" source-language="en-GB" target-language="zh-CN" datatype="delphiform" tool="ETM v10.0" ts="D:\AceM2 Source\Source\M2Engine\IdSrvClient.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">45469.9127546296</prop>
+        <prop prop-type="OrigDateTime">45468.8302083333</prop>
+        <prop prop-type="XlatDateTime">45468.8302083333</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">30</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:FrmIDSoc.Left" resname="O:FrmIDSoc.Left">
+        <source>837</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9127595255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TFrmIDSoc</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.Top" resname="O:FrmIDSoc.Top">
+        <source>334</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9127595255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TFrmIDSoc</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.Caption" resname="O:FrmIDSoc.Caption">
+        <source>'FrmIDSoc'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9127595255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TFrmIDSoc</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.ClientHeight" resname="O:FrmIDSoc.ClientHeight">
+        <source>90</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912759537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TFrmIDSoc</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.ClientWidth" resname="O:FrmIDSoc.ClientWidth">
+        <source>179</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912759537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TFrmIDSoc</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.Color" resname="O:FrmIDSoc.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912759537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TFrmIDSoc</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.Font.Charset" resname="O:FrmIDSoc.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912759537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TFrmIDSoc</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.Font.Color" resname="O:FrmIDSoc.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912759537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TFrmIDSoc</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.Font.Height" resname="O:FrmIDSoc.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912759537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TFrmIDSoc</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.Font.Name" resname="O:FrmIDSoc.Font.Name">
+        <source>'MS Sans Serif'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912759537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TFrmIDSoc</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.Font.Style" resname="O:FrmIDSoc.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9127595486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TFrmIDSoc</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.OldCreateOrder" resname="O:FrmIDSoc.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9127595486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TFrmIDSoc</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.OnCreate" resname="O:FrmIDSoc.OnCreate">
+        <source>FormCreate</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9127595486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TFrmIDSoc</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.OnDestroy" resname="O:FrmIDSoc.OnDestroy">
+        <source>FormDestroy</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9127595486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TFrmIDSoc</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.PixelsPerInch" resname="O:FrmIDSoc.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9127595486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TFrmIDSoc</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.TextHeight" resname="O:FrmIDSoc.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9127595486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TFrmIDSoc</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.O:IDSocket.Active" resname="O:FrmIDSoc.O:IDSocket.Active">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9127595486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TClientSocket</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.O:IDSocket.ClientType" resname="O:FrmIDSoc.O:IDSocket.ClientType">
+        <source>ctNonBlocking</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9127595602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TClientSocket</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.O:IDSocket.Port" resname="O:FrmIDSoc.O:IDSocket.Port">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9127595602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TClientSocket</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.O:IDSocket.OnConnect" resname="O:FrmIDSoc.O:IDSocket.OnConnect">
+        <source>IDSocketConnect</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9127595602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TClientSocket</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.O:IDSocket.OnDisconnect" resname="O:FrmIDSoc.O:IDSocket.OnDisconnect">
+        <source>IDSocketDisconnect</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9127595602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TClientSocket</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.O:IDSocket.OnRead" resname="O:FrmIDSoc.O:IDSocket.OnRead">
+        <source>IDSocketRead</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9127595602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TClientSocket</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.O:IDSocket.OnError" resname="O:FrmIDSoc.O:IDSocket.OnError">
+        <source>IDSocketError</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9127595602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TClientSocket</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.O:IDSocket.Left" resname="O:FrmIDSoc.O:IDSocket.Left">
+        <source>56</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9127595602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TClientSocket</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.O:IDSocket.Top" resname="O:FrmIDSoc.O:IDSocket.Top">
+        <source>36</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9127595602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TClientSocket</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.O:Timer1.Enabled" resname="O:FrmIDSoc.O:Timer1.Enabled">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9127595602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TTimer</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.O:Timer1.Interval" resname="O:FrmIDSoc.O:Timer1.Interval">
+        <source>30000</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9127595718</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TTimer</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.O:Timer1.OnTimer" resname="O:FrmIDSoc.O:Timer1.OnTimer">
+        <source>Timer1Timer</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9127595718</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TTimer</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.O:Timer1.Left" resname="O:FrmIDSoc.O:Timer1.Left">
+        <source>104</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9127595718</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TTimer</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmIDSoc.O:Timer1.Top" resname="O:FrmIDSoc.O:Timer1.Top">
+        <source>36</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9127595718</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TTimer</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

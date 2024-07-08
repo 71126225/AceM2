@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="D:\AceM2 Source\Source\M2Engine\AttackSabukWallConfig.dfm" source-language="en-GB" target-language="zh-CN" datatype="delphiform" tool="ETM v10.0" ts="D:\AceM2 Source\Source\M2Engine\AttackSabukWallConfig.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">45469.9123842593</prop>
+        <prop prop-type="OrigDateTime">45468.8302083333</prop>
+        <prop prop-type="XlatDateTime">45468.8302083333</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">66</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:FrmAttackSabukWall.Left" resname="O:FrmAttackSabukWall.Left">
+        <source>513</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TFrmAttackSabukWall</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.Top" resname="O:FrmAttackSabukWall.Top">
+        <source>235</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TFrmAttackSabukWall</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.BorderStyle" resname="O:FrmAttackSabukWall.BorderStyle">
+        <source>bsDialog</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TFrmAttackSabukWall</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.Caption" resname="O:FrmAttackSabukWall.Caption">
+        <source>'FrmAttackSabukWall'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TFrmAttackSabukWall</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.ClientHeight" resname="O:FrmAttackSabukWall.ClientHeight">
+        <source>360</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TFrmAttackSabukWall</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.ClientWidth" resname="O:FrmAttackSabukWall.ClientWidth">
+        <source>295</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TFrmAttackSabukWall</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.Color" resname="O:FrmAttackSabukWall.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TFrmAttackSabukWall</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.Font.Charset" resname="O:FrmAttackSabukWall.Font.Charset">
+        <source>GB2312_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TFrmAttackSabukWall</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.Font.Color" resname="O:FrmAttackSabukWall.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TFrmAttackSabukWall</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.Font.Height" resname="O:FrmAttackSabukWall.Font.Height">
+        <source>-12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TFrmAttackSabukWall</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.Font.Name" resname="O:FrmAttackSabukWall.Font.Name">
+        <source>'宋体'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TFrmAttackSabukWall</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.Font.Style" resname="O:FrmAttackSabukWall.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TFrmAttackSabukWall</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.OldCreateOrder" resname="O:FrmAttackSabukWall.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071644</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TFrmAttackSabukWall</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.PixelsPerInch" resname="O:FrmAttackSabukWall.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071644</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TFrmAttackSabukWall</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.TextHeight" resname="O:FrmAttackSabukWall.TextHeight">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071644</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TFrmAttackSabukWall</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:Label1.Left" resname="O:FrmAttackSabukWall.O:Label1.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071644</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:Label1.Top" resname="O:FrmAttackSabukWall.O:Label1.Top">
+        <source>308</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071644</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:Label1.Width" resname="O:FrmAttackSabukWall.O:Label1.Width">
+        <source>60</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071644</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:Label1.Height" resname="O:FrmAttackSabukWall.O:Label1.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071759</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:Label1.Caption" resname="O:FrmAttackSabukWall.O:Label1.Caption">
+        <source>'Gld Name：'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071759</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:Label2.Left" resname="O:FrmAttackSabukWall.O:Label2.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071759</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:Label2.Top" resname="O:FrmAttackSabukWall.O:Label2.Top">
+        <source>332</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071759</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:Label2.Width" resname="O:FrmAttackSabukWall.O:Label2.Width">
+        <source>60</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071759</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:Label2.Height" resname="O:FrmAttackSabukWall.O:Label2.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071759</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:Label2.Caption" resname="O:FrmAttackSabukWall.O:Label2.Caption">
+        <source>'War Date：'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071759</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:GroupBox1.Left" resname="O:FrmAttackSabukWall.O:GroupBox1.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:GroupBox1.Top" resname="O:FrmAttackSabukWall.O:GroupBox1.Top">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:GroupBox1.Width" resname="O:FrmAttackSabukWall.O:GroupBox1.Width">
+        <source>281</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:GroupBox1.Height" resname="O:FrmAttackSabukWall.O:GroupBox1.Height">
+        <source>289</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:GroupBox1.Caption" resname="O:FrmAttackSabukWall.O:GroupBox1.Caption">
+        <source>'Guild List'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:GroupBox1.TabOrder" resname="O:FrmAttackSabukWall.O:GroupBox1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:GroupBox1.O:ListBoxGuild.Left" resname="O:FrmAttackSabukWall.O:GroupBox1.O:ListBoxGuild.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TListBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:GroupBox1.O:ListBoxGuild.Top" resname="O:FrmAttackSabukWall.O:GroupBox1.O:ListBoxGuild.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071991</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TListBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:GroupBox1.O:ListBoxGuild.Width" resname="O:FrmAttackSabukWall.O:GroupBox1.O:ListBoxGuild.Width">
+        <source>265</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071991</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TListBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:GroupBox1.O:ListBoxGuild.Height" resname="O:FrmAttackSabukWall.O:GroupBox1.O:ListBoxGuild.Height">
+        <source>265</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071991</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TListBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:GroupBox1.O:ListBoxGuild.ItemHeight" resname="O:FrmAttackSabukWall.O:GroupBox1.O:ListBoxGuild.ItemHeight">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071991</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TListBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:GroupBox1.O:ListBoxGuild.TabOrder" resname="O:FrmAttackSabukWall.O:GroupBox1.O:ListBoxGuild.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071991</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TListBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:GroupBox1.O:ListBoxGuild.OnClick" resname="O:FrmAttackSabukWall.O:GroupBox1.O:ListBoxGuild.OnClick">
+        <source>ListBoxGuildClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124071991</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TListBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:EditGuildName.Left" resname="O:FrmAttackSabukWall.O:EditGuildName.Left">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072106</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:EditGuildName.Top" resname="O:FrmAttackSabukWall.O:EditGuildName.Top">
+        <source>304</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072106</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:EditGuildName.Width" resname="O:FrmAttackSabukWall.O:EditGuildName.Width">
+        <source>137</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072106</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:EditGuildName.Height" resname="O:FrmAttackSabukWall.O:EditGuildName.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072106</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:EditGuildName.TabOrder" resname="O:FrmAttackSabukWall.O:EditGuildName.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072106</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:EditGuildName.Text" resname="O:FrmAttackSabukWall.O:EditGuildName.Text">
+        <source>'EditGuildName'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072106</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:RzDateTimeEditAttackDate.Left" resname="O:FrmAttackSabukWall.O:RzDateTimeEditAttackDate.Left">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072222</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TRzDateTimeEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:RzDateTimeEditAttackDate.Top" resname="O:FrmAttackSabukWall.O:RzDateTimeEditAttackDate.Top">
+        <source>328</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072222</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TRzDateTimeEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:RzDateTimeEditAttackDate.Width" resname="O:FrmAttackSabukWall.O:RzDateTimeEditAttackDate.Width">
+        <source>137</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072222</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TRzDateTimeEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:RzDateTimeEditAttackDate.Height" resname="O:FrmAttackSabukWall.O:RzDateTimeEditAttackDate.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072222</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TRzDateTimeEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:RzDateTimeEditAttackDate.CaptionTodayBtn" resname="O:FrmAttackSabukWall.O:RzDateTimeEditAttackDate.CaptionTodayBtn">
+        <source>'今天日期'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072222</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TRzDateTimeEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:RzDateTimeEditAttackDate.CaptionClearBtn" resname="O:FrmAttackSabukWall.O:RzDateTimeEditAttackDate.CaptionClearBtn">
+        <source>'清除日期'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TRzDateTimeEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:RzDateTimeEditAttackDate.EditType" resname="O:FrmAttackSabukWall.O:RzDateTimeEditAttackDate.EditType">
+        <source>etDate</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TRzDateTimeEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:RzDateTimeEditAttackDate.TabOrder" resname="O:FrmAttackSabukWall.O:RzDateTimeEditAttackDate.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TRzDateTimeEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:ButtonOK.Left" resname="O:FrmAttackSabukWall.O:ButtonOK.Left">
+        <source>208</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:ButtonOK.Top" resname="O:FrmAttackSabukWall.O:ButtonOK.Top">
+        <source>328</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:ButtonOK.Width" resname="O:FrmAttackSabukWall.O:ButtonOK.Width">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072454</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:ButtonOK.Height" resname="O:FrmAttackSabukWall.O:ButtonOK.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072454</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:ButtonOK.Caption" resname="O:FrmAttackSabukWall.O:ButtonOK.Caption">
+        <source>'&amp;OK'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072454</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:ButtonOK.TabOrder" resname="O:FrmAttackSabukWall.O:ButtonOK.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072454</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:ButtonOK.OnClick" resname="O:FrmAttackSabukWall.O:ButtonOK.OnClick">
+        <source>ButtonOKClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072454</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:CheckBoxAll.Left" resname="O:FrmAttackSabukWall.O:CheckBoxAll.Left">
+        <source>216</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072454</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:CheckBoxAll.Top" resname="O:FrmAttackSabukWall.O:CheckBoxAll.Top">
+        <source>304</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072569</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:CheckBoxAll.Width" resname="O:FrmAttackSabukWall.O:CheckBoxAll.Width">
+        <source>73</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072569</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:CheckBoxAll.Height" resname="O:FrmAttackSabukWall.O:CheckBoxAll.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072569</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:CheckBoxAll.Caption" resname="O:FrmAttackSabukWall.O:CheckBoxAll.Caption">
+        <source>'所有行会'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072569</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:CheckBoxAll.TabOrder" resname="O:FrmAttackSabukWall.O:CheckBoxAll.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072569</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FrmAttackSabukWall.O:CheckBoxAll.OnClick" resname="O:FrmAttackSabukWall.O:CheckBoxAll.OnClick">
+        <source>CheckBoxAllClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124072569</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

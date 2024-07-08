@@ -493,7 +493,7 @@ begin
   nCheckCode := -1;
   DBHumDataInfo.UserName := sHumName;
   if (sAccount = '') and (nSessionID = -1) then begin
-    nCheckCode := 1; //系统自动脱机时读取
+    nCheckCode := 1; //Read when the system automatically goes offline
   end else
   if (sAccount <> '') and (sHumName <> '') then begin
     if (FrmIDSoc.CheckSessionLoadRcd(sAccount, sIPaddr, nSessionID, boFoundSession)) then begin
@@ -501,12 +501,12 @@ begin
     end
     else begin
       if boFoundSession then begin
-        MainOutMessage('[非法重复请求] ' + '帐号: ' + sAccount + ' IP: ' + sIPaddr + ' 标识: ' + IntToStr(nSessionID));
+        MainOutMessage('[Illegal duplicate requests] ' + 'Account: ' + sAccount + ' IP: ' + sIPaddr + ' ID: ' + IntToStr(nSessionID));
       end
       else begin
-        MainOutMessage('[非法请求] ' + '帐号: ' + sAccount + ' IP: ' + sIPaddr + ' 标识: ' + IntToStr(nSessionID));
+        MainOutMessage('[Illegal request] ' + 'Account: ' + sAccount + ' IP: ' + sIPaddr + ' ID: ' + IntToStr(nSessionID));
       end;
-      //nCheckCode:= 1; //测试用，正常去掉
+      //nCheckCode:= 1; //For testing, remove normally
     end;
   end;
   if nCheckCode = 1 then begin
@@ -528,7 +528,7 @@ begin
   end;
   if (nCheckCode = 1) and (DBHumDataInfo.HumDataInfo.Data.sAccount <> '') and (sAccount <> '') and
     (DBHumDataInfo.HumDataInfo.Data.sAccount <> sAccount) then begin
-    MainOutMessage('[非法登录] ' + '帐号: ' + sAccount + ' IP: ' + sIPaddr + ' 标识: ' + IntToStr(nSessionID));
+    MainOutMessage('[Illegal login] ' + 'Account: ' + sAccount + ' IP: ' + sIPaddr + ' ID: ' + IntToStr(nSessionID));
     nCheckCode := -1;
   end;
   if nCheckCode = 1 then begin
@@ -661,23 +661,23 @@ procedure TFrmDBSrv.T2Click(Sender: TObject);
 begin
   g_boTestServer := not g_boTestServer;
   T2.Checked := g_boTestServer;
-  if not g_boTestServer then Caption := '数据库服务器 - 人物不重名'
-  else Caption := '数据库服务器';
+  if not g_boTestServer then Caption := 'Database Server - Characters with unique names'
+  else Caption := 'Database Server';
 end;
 
 procedure TFrmDBSrv.Timer1Timer(Sender: TObject);
 var
   i: Integer;
 begin
-  LbTransCount.Caption := '访问次数=' + IntToStr(n348);
+  LbTransCount.Caption := 'Number of visits =' + IntToStr(n348);
   n348 := 0;
   if ServerList.Count > 0 then
     CheckBox1.Checked := True
   else
     CheckBox1.Checked := False;
   ;
-  CheckBox1.Caption := '通迅(' + IntToStr(ServerList.Count) + ')';
-  //Label2.Caption := '连接数: ' + IntToStr(ServerList.Count);
+  CheckBox1.Caption := 'Communications(' + IntToStr(ServerList.Count) + ')';
+  //Label2.Caption := 'Number of connections: ' + IntToStr(ServerList.Count);
   LbUserCount.Caption := IntToStr(FrmUserSoc.GetUserCount);
   if boOpenDBBusy then begin
     if n4ADB18 > 0 then begin
@@ -711,10 +711,10 @@ begin
     + '/' + IntToStr(g_nClearItemIndexCount) + ')/' +
     IntToStr(g_nClearRecordCount);  }
   LbAutoClean.Caption := IntToStr(HumDataDB.Count) + '/' + IntToStr(HumChrDB.Count);
-  Label8.Caption := '查询角色=' + IntToStr(g_nQueryChrCount);
-  Label9.Caption := '创建角色=' + IntToStr(nHackerNewChrCount);
-  Label10.Caption := '删除角色=' + IntToStr(nHackerDelChrCount);
-  Label11.Caption := '选择角色=' + IntToStr(nHackerSelChrCount);
+  Label8.Caption := 'Query Role =' + IntToStr(g_nQueryChrCount);
+  Label9.Caption := 'Create Role =' + IntToStr(nHackerNewChrCount);
+  Label10.Caption := 'Remove Role =' + IntToStr(nHackerDelChrCount);
+  Label11.Caption := 'Select Role =' + IntToStr(nHackerSelChrCount);
   EnterCriticalSection(g_OutMessageCS);
   try
     ShowModule();
@@ -900,11 +900,11 @@ procedure TFrmDBSrv.ShowModule();
 begin
   if UserSocketClientConnected then begin
     if GetModule(g_nGatePort) then
-      UpDateModule(g_nGatePort, '角色网关', User_sRemoteAddress + ':' +
+      UpDateModule(g_nGatePort, 'Role Gateway', User_sRemoteAddress + ':' +
         IntToStr(User_nRemotePort) + ' → ' + User_sRemoteAddress + ':' +
         IntToStr(g_nGatePort), GetSelectTickStr())
     else
-      AddModule(g_nGatePort, '角色网关', User_sRemoteAddress + ':' +
+      AddModule(g_nGatePort, 'Role Gateway', User_sRemoteAddress + ':' +
         IntToStr(User_nRemotePort) + ' → ' + User_sRemoteAddress + ':' +
         IntToStr(g_nGatePort), GetSelectTickStr());
   end
@@ -928,11 +928,11 @@ begin
   end;
   if ServerSocketClientConnected then begin
     if GetModule(nServerPort) then
-      UpDateModule(nServerPort, '游戏中心', Server_sRemoteAddress + ':' +
+      UpDateModule(nServerPort, 'Game centre', Server_sRemoteAddress + ':' +
         IntToStr(Server_nRemotePort) + ' → ' + Server_sRemoteAddress + ':' +
         IntToStr(nServerPort), GetM2ServerTickStr())
     else
-      AddModule(nServerPort, '游戏中心', Server_sRemoteAddress + ':' +
+      AddModule(nServerPort, 'Game centre', Server_sRemoteAddress + ':' +
         IntToStr(Server_nRemotePort) + ' → ' + Server_sRemoteAddress + ':' +
         IntToStr(nServerPort), GetM2ServerTickStr());
   end
@@ -942,8 +942,8 @@ begin
   end;
   {if DataManageSocketClientConnected then begin
     if GetModule(nDataManagePort) then
-      UpDateModule(nDataManagePort, '数据管理', DataManage_sRemoteAddress + ':' + IntToStr(DataManage_nRemotePort) + ' → ' + DataManage_sRemoteAddress + ':' + IntToStr(nServerPort), '')
-    else AddModule(nDataManagePort, '数据管理', DataManage_sRemoteAddress + ':' + IntToStr(DataManage_nRemotePort) + ' → ' + DataManage_sRemoteAddress + ':' + IntToStr(nServerPort), '');
+      UpDateModule(nDataManagePort, 'Data Management', DataManage_sRemoteAddress + ':' + IntToStr(DataManage_nRemotePort) + ' → ' + DataManage_sRemoteAddress + ':' + IntToStr(nServerPort), '')
+    else AddModule(nDataManagePort, 'Data Management', DataManage_sRemoteAddress + ':' + IntToStr(DataManage_nRemotePort) + ' → ' + DataManage_sRemoteAddress + ':' + IntToStr(nServerPort), '');
   end else begin
     if GetModule(nDataManagePort) then DelModule(nDataManagePort);
   end;}
@@ -963,7 +963,7 @@ begin
   end;
   m_boRemoteClose := False;
   SendGameCenterMsg(SG_FORMHANDLE, IntToStr(Self.Handle));
-  //MainOutMessage('正在启动数据库服务器...');
+  //MainOutMessage('Starting the database server...');
   boOpenDBBusy := True;
   Label4.Caption := '';
   LbAutoClean.Caption := '-/-';
@@ -989,7 +989,7 @@ begin
   ServerList := TList.Create;
   Query.Create(nil);
   //HumSessionList := TList.Create;
-  //AttackIPaddrList := TGList.Create; //攻击IP临时列表
+  //AttackIPaddrList := TGList.Create; //Temporary list of attacking IP addresses
   //Label5.Caption:='FDB: ' + sDataDBFilePath + 'Mir.DB  ' + 'Backup: ' + sBackupPath;
   //n334 := 0;
   n4ADBF4 := 0;
@@ -1026,12 +1026,12 @@ begin
   MainOutMessage(format('Character list database loaded(%d)...',
       [HumChrDB.Count]));
   {if HumChrDB.m_Header.sDesc <> HumDB.sDBHeaderDesc then begin
-    ShowMessage('Hum.DB 文件版本不符合程序要求 ' + #13#10 + '文件版本：' + HumChrDB.m_Header.sDesc + #13#10 + '要求版本：' + HumDB.sDBHeaderDesc);
+    ShowMessage('Hum.DB The file version does not match the program requirements' + #13#10 + 'file version：' + HumChrDB.m_Header.sDesc + #13#10 + 'Required version：' + HumDB.sDBHeaderDesc);
     Exit;
   end;  }
   HumDataDB := TFileDB.Create();
   {if HumDataDB.m_Header.sDesc <> HumDB.sDBHeaderDesc then begin
-    ShowMessage('Hum.DB 文件版本不符合程序要求 ' + #13#10 + '文件版本：' + HumDataDB.m_Header.sDesc + #13#10 + '要求版本：' + HumDB.sDBHeaderDesc);
+    ShowMessage('Hum.DB The file version does not match the program requirements ' + #13#10 + 'file version：' + HumDataDB.m_Header.sDesc + #13#10 + 'Required version：' + HumDB.sDBHeaderDesc);
     Exit;
   end; }
   if HumDataDB.Count >= Trunc(PLAYOBJECTINDEXCOUNT / 10 * 8) then begin
@@ -1046,7 +1046,7 @@ begin
   LoadMagicDB();
   LoadItemsDB();
   LoadFiltrateName();
-  //MainOutMessage('排行榜计算完成(' + IntToStr(LoadGameSort()) + ')...');
+  //MainOutMessage('Ranking calculation completed(' + IntToStr(LoadGameSort()) + ')...');
   g_boArraySortTime := LongWord(GetTickCount + g_btSortMinute * 60000 + g_btSortHour * 3600000);
   Timer1.Enabled := True;
   Timer2.Enabled := True;
@@ -1123,7 +1123,7 @@ var
 resourcestring
   sSQLString = 'SELECT * FROM TBL_ITEMS';
 begin
-  //MainOutMessage('正在加载物品数据...');
+  //MainOutMessage('Loading item data...');
   try
     Result := -1;
     Query.SQL.Clear;
@@ -1208,7 +1208,7 @@ resourcestring
   sSQLString = 'SELECT * FROM TBL_MAGIC';
 begin
   //  Result := -1;
-    //MainOutMessage('正在加载技能数据库...');
+    //MainOutMessage('Loading skills database...');
   Query.SQL.Clear;
   Query.ConnectionString := 'Driver={SQL Server Native Client 10.0};Server=' + sSQLInstance + ';Database=' + sSQLM2Server + ';Trusted_Connection=yes;';
   Query.SQL.Add(sSQLString);

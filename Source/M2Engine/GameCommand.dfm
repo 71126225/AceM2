@@ -22,15 +22,11 @@ object frmGameCmd: TfrmGameCmd
     Top = 8
     Width = 574
     Height = 390
-    ActivePage = TabSheet1
+    ActivePage = TabSheet3
     HotTrack = True
     TabOrder = 0
     object TabSheet1: TTabSheet
       Caption = 'Player'
-      ExplicitLeft = 0
-      ExplicitTop = 0
-      ExplicitWidth = 0
-      ExplicitHeight = 0
       object StringGridGameCmd: TStringGrid
         Left = 7
         Top = 8
@@ -151,10 +147,6 @@ object frmGameCmd: TfrmGameCmd
     object TabSheet2: TTabSheet
       Caption = 'GM-S'
       ImageIndex = 1
-      ExplicitLeft = 0
-      ExplicitTop = 0
-      ExplicitWidth = 0
-      ExplicitHeight = 0
       object StringGridGameMasterCmd: TStringGrid
         Left = 7
         Top = 8
@@ -275,10 +267,6 @@ object frmGameCmd: TfrmGameCmd
     object TabSheet3: TTabSheet
       Caption = 'Admin'
       ImageIndex = 2
-      ExplicitLeft = 0
-      ExplicitTop = 0
-      ExplicitWidth = 0
-      ExplicitHeight = 0
       object StringGridGameDebugCmd: TStringGrid
         Left = 7
         Top = 8

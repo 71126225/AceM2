@@ -148,8 +148,8 @@ var
   boDelete: Boolean;
   ChrNameList: TList;
 begin
-  if MessageDlg('请在服务器停止时使用，是否确认继续？', mtConfirmation, [mbYes, mbNo], 0) = mrYes then begin
-    if MessageDlg('是否已经备份了数据库文件？', mtConfirmation, [mbYes, mbNo], 0) = mrYes then begin
+  if MessageDlg('Please use it when the server is stopped. Are you sure to continue?', mtConfirmation, [mbYes, mbNo], 0) = mrYes then begin
+    if MessageDlg('Have you backed up the database files?', mtConfirmation, [mbYes, mbNo], 0) = mrYes then begin
       OldAutoClearDB := boAutoClearDB;
       boAutoClearDB := False;
       ProgressBar1.Position := 0;
@@ -204,7 +204,7 @@ begin
         //HumDataDB.Close;
         boAutoClearDB := OldAutoClearDB;
       end;
-      Application.MessageBox('清理已完成！', '提示信息', MB_OK + MB_ICONINFORMATION);
+      Application.MessageBox('Cleanup is complete!', 'Tips', MB_OK + MB_ICONINFORMATION);
     end;
   end;
 end;
@@ -243,9 +243,9 @@ procedure TFrmFDBExplore.BtnAutoCleanClick(Sender: TObject);
 begin
   boAutoClearDB := not boAutoClearDB;
   if boAutoClearDB then
-    BtnAutoClean.Caption := '停止清理'
+    BtnAutoClean.Caption := 'Stop Cleaning'
   else
-    BtnAutoClean.Caption := '自动清理';
+    BtnAutoClean.Caption := 'Automatic Cleanup';
   CkLv1.Enabled := not boAutoClearDB;
   CkLv7.Enabled := not boAutoClearDB;
   CkLv14.Enabled := not boAutoClearDB;
@@ -465,7 +465,7 @@ begin
   sDestChrName := FrmCopyRcd.s2F4;
   sUserId := FrmCopyRcd.s2F8;
   if FrmDBSrv.CopyHumData(sSrcChrName, sDestChrName, sUserId) then
-    ShowMessage(sSrcChrName + ' -> ' + sDestChrName + ' 复制成功！！！');
+    ShowMessage(sSrcChrName + ' -> ' + sDestChrName + ' Copy successful!!!');
 end;
 
 procedure TFrmFDBExplore.BtnCopyNewClick(Sender: TObject);
@@ -480,7 +480,7 @@ begin
   sUserId := FrmCopyRcd.s2F8;
   if FrmUserSoc.NewChrData(sDestChrName, 0, 0, 0) and
     FrmDBSrv.CopyHumData(sSrcChrName, sDestChrName, sUserId) then
-    ShowMessage(sSrcChrName + ' -> ' + sDestChrName + ' 复制成功！！！');
+    ShowMessage(sSrcChrName + ' -> ' + sDestChrName + ' Copy successful!!!');
 end;
 
 procedure TFrmFDBExplore.FormDestroy(Sender: TObject);

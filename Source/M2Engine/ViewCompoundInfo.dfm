@@ -446,7 +446,11 @@ object FrmViewCompoundInfo: TFrmViewCompoundInfo
     Height = 19
     Panels = <
       item
-        Text = #20351#29992'Ctrl'#12289'Shift'#21487#20197#22810#36873#65292#28857#20987#21491#38190#21487#20197#23545#20540#36827#34892#20462#25913#65292#20462#25913#32467#26524#21363#26102#29983#25928#65292#35831#27880#24847#20445#23384#20462#25913#32467#26524#65292#20998#31867#20026'0'#30340#35774#32622#23558#19981#20250#34987#20445#23384
+        Text = 
+          'Use Ctrl+Shift to select multiple items. Right-click to modify t' +
+          'he value. The modification will take effect immediately. Please ' +
+          'pay attention to save the modification results. The settings cla' +
+          'ssified as 0 will not be saved.'
         Width = 50
       end>
   end

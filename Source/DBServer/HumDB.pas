@@ -66,13 +66,13 @@ type
 
   THumInfo = packed record //Size 72
     Header: TRecordHeader;
-    sChrName: string[ActorNameLen]; //0x14  //角色名称   44
-    sAccount: string[16]; //账号
-    boDeleted: Boolean; //是否删除
-    boGMDeleted: Boolean; //是否管理员禁止
-    boSelected: Boolean; //是否选择
+    sChrName: string[ActorNameLen]; //0x14  //Role Name   44
+    sAccount: string[16]; //account
+    boDeleted: Boolean; //deleted 
+    boGMDeleted: Boolean; //Deleted by GM
+    boSelected: Boolean; //Select
     dModDate: TDateTime;
-    btCount: Byte; //操作计次
+    btCount: Byte; //Operation count
   end;
   pTHumInfo = ^THumInfo;
 
@@ -92,7 +92,7 @@ type
     m_Header: TDBHeader; //0x1C
     m_QuickList: TQuickList; //0x98
     m_QuickIDList: TQuickIDList; //0x9C
-    m_DeletedList: TList; //0xA0 已被删除的记录号
+    m_DeletedList: TList; //0xA0 The number of the deleted record
 
   private
     procedure LoadQuickList;
@@ -131,7 +131,7 @@ type
     m_dUpdateTime: TDateTime; //0x20
     m_Header: TDBHeader; //0x28
     m_QuickList: TQuickList; //0xA4
-    m_DeletedList: TList; //0xA8 已被删除的记录号
+    m_DeletedList: TList; //0xA8 The number of the deleted record
     m_sDBFileName: string; //0xAC
     m_sIdxFileName: string; //0xB0
   private

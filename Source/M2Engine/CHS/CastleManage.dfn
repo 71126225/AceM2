@@ -1,0 +1,1518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="D:\AceM2 Source\Source\M2Engine\CastleManage.dfm" source-language="en-GB" target-language="zh-CN" datatype="delphiform" tool="ETM v10.0" ts="D:\AceM2 Source\Source\M2Engine\CastleManage.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">45469.9124074074</prop>
+        <prop prop-type="OrigDateTime">45468.8302083333</prop>
+        <prop prop-type="XlatDateTime">45468.8302083333</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">300</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:frmCastleManage.Left" resname="O:frmCastleManage.Left">
+        <source>453</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124073611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TfrmCastleManage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.Top" resname="O:frmCastleManage.Top">
+        <source>94</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124073611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TfrmCastleManage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.BorderIcons" resname="O:frmCastleManage.BorderIcons">
+        <source>[biSystemMenu]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124073727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TfrmCastleManage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.BorderStyle" resname="O:frmCastleManage.BorderStyle">
+        <source>bsSingle</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124073727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TfrmCastleManage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.Caption" resname="O:frmCastleManage.Caption">
+        <source>'Manage Castle'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124073727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TfrmCastleManage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.ClientHeight" resname="O:frmCastleManage.ClientHeight">
+        <source>279</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124073727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TfrmCastleManage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.ClientWidth" resname="O:frmCastleManage.ClientWidth">
+        <source>564</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124073727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TfrmCastleManage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.Color" resname="O:frmCastleManage.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124073727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TfrmCastleManage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.Font.Charset" resname="O:frmCastleManage.Font.Charset">
+        <source>GB2312_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124073727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TfrmCastleManage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.Font.Color" resname="O:frmCastleManage.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124073843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TfrmCastleManage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.Font.Height" resname="O:frmCastleManage.Font.Height">
+        <source>-12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124073843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TfrmCastleManage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.Font.Name" resname="O:frmCastleManage.Font.Name">
+        <source>'??'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124073843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TfrmCastleManage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.Font.Style" resname="O:frmCastleManage.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124073843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TfrmCastleManage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.OldCreateOrder" resname="O:frmCastleManage.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124073843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TfrmCastleManage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.Position" resname="O:frmCastleManage.Position">
+        <source>poMainFormCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124073843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TfrmCastleManage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.PixelsPerInch" resname="O:frmCastleManage.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124073843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TfrmCastleManage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.TextHeight" resname="O:frmCastleManage.TextHeight">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124073958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TfrmCastleManage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox1.Left" resname="O:frmCastleManage.O:GroupBox1.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124073958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox1.Top" resname="O:frmCastleManage.O:GroupBox1.Top">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124073958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox1.Width" resname="O:frmCastleManage.O:GroupBox1.Width">
+        <source>193</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124073958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox1.Height" resname="O:frmCastleManage.O:GroupBox1.Height">
+        <source>257</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124073958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox1.Caption" resname="O:frmCastleManage.O:GroupBox1.Caption">
+        <source>'Castle'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124073958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox1.TabOrder" resname="O:frmCastleManage.O:GroupBox1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124073958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.Left" resname="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.Top" resname="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.Width" resname="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.Width">
+        <source>177</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.Height" resname="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.Height">
+        <source>233</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.Columns[0].Caption" resname="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.Columns[0].Caption">
+        <source>'ID'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">&lt;item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.Columns[0].Width" resname="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.Columns[0].Width">
+        <source>36</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.Columns[1].Caption" resname="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.Columns[1].Caption">
+        <source>'ID'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912407419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.Columns[1].Width" resname="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.Columns[1].Width">
+        <source>36</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912407419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.Columns[2].Caption" resname="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.Columns[2].Caption">
+        <source>'Name'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912407419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.Columns[2].Width" resname="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.Columns[2].Width">
+        <source>100</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912407419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end&gt;</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.GridLines" resname="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.GridLines">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912407419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.ReadOnly" resname="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912407419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.RowSelect" resname="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.RowSelect">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.TabOrder" resname="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.ViewStyle" resname="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.ViewStyle">
+        <source>vsReport</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.OnClick" resname="O:frmCastleManage.O:GroupBox1.O:ListViewCastle.OnClick">
+        <source>ListViewCastleClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.Left" resname="O:frmCastleManage.O:GroupBox2.Left">
+        <source>208</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.Top" resname="O:frmCastleManage.O:GroupBox2.Top">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.Width" resname="O:frmCastleManage.O:GroupBox2.Width">
+        <source>353</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.Height" resname="O:frmCastleManage.O:GroupBox2.Height">
+        <source>257</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.Caption" resname="O:frmCastleManage.O:GroupBox2.Caption">
+        <source>'Stat'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.TabOrder" resname="O:frmCastleManage.O:GroupBox2.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.Width">
+        <source>337</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.Height">
+        <source>233</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.ActivePage" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.ActivePage">
+        <source>TabSheet2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.Caption">
+        <source>'General'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.ExplicitLeft" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.ExplicitLeft">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.ExplicitTop" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.ExplicitTop">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074653</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.ExplicitWidth" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.ExplicitWidth">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074653</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.ExplicitHeight" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.ExplicitHeight">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074653</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.Left">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074653</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.Top">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074653</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.Width">
+        <source>321</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074653</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.Height">
+        <source>92</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074769</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074769</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label2.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label2.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074769</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label2.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label2.Top">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074769</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label2.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label2.Width">
+        <source>36</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074769</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label2.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label2.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074769</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label2.Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label2.Caption">
+        <source>'Owner:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074769</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label1.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label1.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074884</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label1.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label1.Top">
+        <source>44</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074884</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label1.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label1.Width">
+        <source>30</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074884</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label1.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label1.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074884</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label1.Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label1.Caption">
+        <source>'Gold:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074884</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label3.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label3.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074884</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label3.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label3.Top">
+        <source>68</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124074884</prop><prop prop-type="Status">0</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label3.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label3.Width">
+        <source>36</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label3.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label3.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075</prop><prop prop-type="Status">0</prop><prop prop-type="Order">74</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label3.Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label3.Caption">
+        <source>'Today:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075</prop><prop prop-type="Status">0</prop><prop prop-type="Order">75</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label7.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label7.Left">
+        <source>152</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075</prop><prop prop-type="Status">0</prop><prop prop-type="Order">76</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label7.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label7.Top">
+        <source>44</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075</prop><prop prop-type="Status">0</prop><prop prop-type="Order">77</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label7.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label7.Width">
+        <source>30</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075</prop><prop prop-type="Status">0</prop><prop prop-type="Order">78</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label7.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label7.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075</prop><prop prop-type="Status">0</prop><prop prop-type="Order">79</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label7.Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label7.Caption">
+        <source>'Tech:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">80</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label8.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label8.Left">
+        <source>152</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">81</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label8.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label8.Top">
+        <source>68</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">82</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label8.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label8.Width">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">83</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label8.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label8.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">84</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label8.Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:Label8.Caption">
+        <source>'Pwr:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">85</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditOwenGuildName.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditOwenGuildName.Left">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">86</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditOwenGuildName.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditOwenGuildName.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">87</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditOwenGuildName.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditOwenGuildName.Width">
+        <source>169</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">88</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditOwenGuildName.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditOwenGuildName.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">89</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditOwenGuildName.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditOwenGuildName.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">90</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTotalGold.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTotalGold.Left">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">91</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTotalGold.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTotalGold.Top">
+        <source>40</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">92</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTotalGold.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTotalGold.Width">
+        <source>81</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">93</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTotalGold.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTotalGold.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">94</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTotalGold.MaxValue" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTotalGold.MaxValue">
+        <source>2000000000</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">95</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTotalGold.MinValue" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTotalGold.MinValue">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">96</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTotalGold.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTotalGold.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075463</prop><prop prop-type="Status">0</prop><prop prop-type="Order">97</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTotalGold.Value" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTotalGold.Value">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075463</prop><prop prop-type="Status">0</prop><prop prop-type="Order">98</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTodayIncome.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTodayIncome.Left">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075463</prop><prop prop-type="Status">0</prop><prop prop-type="Order">99</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTodayIncome.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTodayIncome.Top">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075463</prop><prop prop-type="Status">0</prop><prop prop-type="Order">100</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTodayIncome.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTodayIncome.Width">
+        <source>81</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075463</prop><prop prop-type="Status">0</prop><prop prop-type="Order">101</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTodayIncome.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTodayIncome.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">102</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTodayIncome.MaxValue" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTodayIncome.MaxValue">
+        <source>2000000000</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">103</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTodayIncome.MinValue" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTodayIncome.MinValue">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">104</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTodayIncome.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTodayIncome.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">105</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTodayIncome.Value" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTodayIncome.Value">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">106</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTechLevel.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTechLevel.Left">
+        <source>184</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">107</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTechLevel.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTechLevel.Top">
+        <source>40</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">108</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTechLevel.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTechLevel.Width">
+        <source>49</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">109</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTechLevel.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTechLevel.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">110</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTechLevel.MaxValue" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTechLevel.MaxValue">
+        <source>2000000000</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">111</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTechLevel.MinValue" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTechLevel.MinValue">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912407581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">112</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTechLevel.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTechLevel.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912407581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">113</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTechLevel.Value" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditTechLevel.Value">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912407581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">114</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditPower.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditPower.Left">
+        <source>184</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912407581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">115</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditPower.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditPower.Top">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075926</prop><prop prop-type="Status">0</prop><prop prop-type="Order">116</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditPower.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditPower.Width">
+        <source>49</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075926</prop><prop prop-type="Status">0</prop><prop prop-type="Order">117</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditPower.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditPower.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075926</prop><prop prop-type="Status">0</prop><prop prop-type="Order">118</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditPower.MaxValue" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditPower.MaxValue">
+        <source>2000000000</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075926</prop><prop prop-type="Status">0</prop><prop prop-type="Order">119</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditPower.MinValue" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditPower.MinValue">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124075926</prop><prop prop-type="Status">0</prop><prop prop-type="Order">120</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditPower.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditPower.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076042</prop><prop prop-type="Status">0</prop><prop prop-type="Order">121</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditPower.Value" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet1.O:GroupBox3.O:EditPower.Value">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076042</prop><prop prop-type="Status">0</prop><prop prop-type="Order">122</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.Caption">
+        <source>'Defence'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076042</prop><prop prop-type="Status">0</prop><prop prop-type="Order">123</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.ImageIndex" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.ImageIndex">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076042</prop><prop prop-type="Status">0</prop><prop prop-type="Order">124</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.ExplicitLeft" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.ExplicitLeft">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076042</prop><prop prop-type="Status">0</prop><prop prop-type="Order">125</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.ExplicitTop" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.ExplicitTop">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076042</prop><prop prop-type="Status">0</prop><prop prop-type="Order">126</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.ExplicitWidth" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.ExplicitWidth">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076157</prop><prop prop-type="Status">0</prop><prop prop-type="Order">127</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.ExplicitHeight" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.ExplicitHeight">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076157</prop><prop prop-type="Status">0</prop><prop prop-type="Order">128</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.Left">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076157</prop><prop prop-type="Status">0</prop><prop prop-type="Order">129</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076157</prop><prop prop-type="Status">0</prop><prop prop-type="Order">130</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.Width">
+        <source>318</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076157</prop><prop prop-type="Status">0</prop><prop prop-type="Order">131</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.Height">
+        <source>201</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076157</prop><prop prop-type="Status">0</prop><prop prop-type="Order">132</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076273</prop><prop prop-type="Status">0</prop><prop prop-type="Order">133</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076273</prop><prop prop-type="Status">0</prop><prop prop-type="Order">134</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076273</prop><prop prop-type="Status">0</prop><prop prop-type="Order">135</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Width">
+        <source>300</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076273</prop><prop prop-type="Status">0</prop><prop prop-type="Order">136</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Height">
+        <source>145</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076273</prop><prop prop-type="Status">0</prop><prop prop-type="Order">137</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Columns[0].Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Columns[0].Caption">
+        <source>'ID'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076273</prop><prop prop-type="Status">0</prop><prop prop-type="Order">138</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">&lt;item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Columns[0].Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Columns[0].Width">
+        <source>36</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076389</prop><prop prop-type="Status">0</prop><prop prop-type="Order">139</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Columns[1].Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Columns[1].Caption">
+        <source>'Name'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076389</prop><prop prop-type="Status">0</prop><prop prop-type="Order">140</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Columns[1].Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Columns[1].Width">
+        <source>80</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076389</prop><prop prop-type="Status">0</prop><prop prop-type="Order">141</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Columns[2].Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Columns[2].Caption">
+        <source>'Co-Ord'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076389</prop><prop prop-type="Status">0</prop><prop prop-type="Order">142</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Columns[2].Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Columns[2].Width">
+        <source>60</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076389</prop><prop prop-type="Status">0</prop><prop prop-type="Order">143</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Columns[3].Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Columns[3].Caption">
+        <source>'HP'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076389</prop><prop prop-type="Status">0</prop><prop prop-type="Order">144</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Columns[3].Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Columns[3].Width">
+        <source>80</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076505</prop><prop prop-type="Status">0</prop><prop prop-type="Order">145</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Columns[4].Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Columns[4].Caption">
+        <source>'Stat'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076505</prop><prop prop-type="Status">0</prop><prop prop-type="Order">146</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Columns[4].Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.Columns[4].Width">
+        <source>60</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076505</prop><prop prop-type="Status">0</prop><prop prop-type="Order">147</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end&gt;</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.GridLines" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.GridLines">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076505</prop><prop prop-type="Status">0</prop><prop prop-type="Order">148</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.ReadOnly" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076505</prop><prop prop-type="Status">0</prop><prop prop-type="Order">149</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.RowSelect" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.RowSelect">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076505</prop><prop prop-type="Status">0</prop><prop prop-type="Order">150</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912407662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">151</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.ViewStyle" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ListViewGuard.ViewStyle">
+        <source>vsReport</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912407662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">152</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ButtonRefresh.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ButtonRefresh.Left">
+        <source>240</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912407662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">153</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ButtonRefresh.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ButtonRefresh.Top">
+        <source>168</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912407662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">154</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ButtonRefresh.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ButtonRefresh.Width">
+        <source>65</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912407662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">155</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ButtonRefresh.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ButtonRefresh.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912407662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">156</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ButtonRefresh.Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ButtonRefresh.Caption">
+        <source>'&amp;Reload'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076736</prop><prop prop-type="Status">0</prop><prop prop-type="Order">157</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ButtonRefresh.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ButtonRefresh.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076736</prop><prop prop-type="Status">0</prop><prop prop-type="Order">158</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ButtonRefresh.OnClick" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet3.O:GroupBox5.O:ButtonRefresh.OnClick">
+        <source>ButtonRefreshClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076736</prop><prop prop-type="Status">0</prop><prop prop-type="Order">159</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.Caption">
+        <source>'Name'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076736</prop><prop prop-type="Status">0</prop><prop prop-type="Order">160</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.ImageIndex" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.ImageIndex">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076736</prop><prop prop-type="Status">0</prop><prop prop-type="Order">161</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.Left">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076736</prop><prop prop-type="Status">0</prop><prop prop-type="Order">162</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.Top">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076852</prop><prop prop-type="Status">0</prop><prop prop-type="Order">163</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.Width">
+        <source>321</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076852</prop><prop prop-type="Status">0</prop><prop prop-type="Order">164</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.Height">
+        <source>196</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076852</prop><prop prop-type="Status">0</prop><prop prop-type="Order">165</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076852</prop><prop prop-type="Status">0</prop><prop prop-type="Order">166</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label4.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label4.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076852</prop><prop prop-type="Status">0</prop><prop prop-type="Order">167</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label4.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label4.Top">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076852</prop><prop prop-type="Status">0</prop><prop prop-type="Order">168</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label4.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label4.Width">
+        <source>30</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076852</prop><prop prop-type="Status">0</prop><prop prop-type="Order">169</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label4.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label4.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076968</prop><prop prop-type="Status">0</prop><prop prop-type="Order">170</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label4.Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label4.Caption">
+        <source>'Name:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076968</prop><prop prop-type="Status">0</prop><prop prop-type="Order">171</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label5.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label5.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076968</prop><prop prop-type="Status">0</prop><prop prop-type="Order">172</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label5.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label5.Top">
+        <source>44</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076968</prop><prop prop-type="Status">0</prop><prop prop-type="Order">173</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label5.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label5.Width">
+        <source>36</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076968</prop><prop prop-type="Status">0</prop><prop prop-type="Order">174</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label5.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label5.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124076968</prop><prop prop-type="Status">0</prop><prop prop-type="Order">175</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label5.Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label5.Caption">
+        <source>'Owner:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077083</prop><prop prop-type="Status">0</prop><prop prop-type="Order">176</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label6.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label6.Left">
+        <source>176</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077083</prop><prop prop-type="Status">0</prop><prop prop-type="Order">177</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label6.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label6.Top">
+        <source>68</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077083</prop><prop prop-type="Status">0</prop><prop prop-type="Order">178</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label6.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label6.Width">
+        <source>54</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077083</prop><prop prop-type="Status">0</prop><prop prop-type="Order">179</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label6.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label6.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077083</prop><prop prop-type="Status">0</prop><prop prop-type="Order">180</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label6.Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label6.Caption">
+        <source>'Home Map:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077083</prop><prop prop-type="Status">0</prop><prop prop-type="Order">181</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label9.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label9.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077083</prop><prop prop-type="Status">0</prop><prop prop-type="Order">182</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label9.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label9.Top">
+        <source>92</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">183</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label9.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label9.Width">
+        <source>48</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">184</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label9.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label9.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">185</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label9.Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label9.Caption">
+        <source>'Co-Ords:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">186</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label10.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label10.Left">
+        <source>173</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">187</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label10.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label10.Top">
+        <source>92</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">188</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label10.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label10.Width">
+        <source>60</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">189</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label10.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label10.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">190</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label10.Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label10.Caption">
+        <source>'Tunel Map:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">191</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label11.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label11.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">192</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label11.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label11.Top">
+        <source>68</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">193</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label11.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label11.Width">
+        <source>42</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">194</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label11.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label11.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">195</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label11.Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:Label11.Caption">
+        <source>'Palace:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">196</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditCastleName.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditCastleName.Left">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">197</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditCastleName.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditCastleName.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">198</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditCastleName.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditCastleName.Width">
+        <source>249</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">199</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditCastleName.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditCastleName.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">200</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditCastleName.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditCastleName.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">201</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditCastleOfGuild.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditCastleOfGuild.Left">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">202</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditCastleOfGuild.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditCastleOfGuild.Top">
+        <source>40</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">203</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditCastleOfGuild.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditCastleOfGuild.Width">
+        <source>249</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">204</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditCastleOfGuild.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditCastleOfGuild.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">205</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditCastleOfGuild.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditCastleOfGuild.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">206</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditHomeMap.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditHomeMap.Left">
+        <source>232</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">207</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditHomeMap.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditHomeMap.Top">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">208</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditHomeMap.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditHomeMap.Width">
+        <source>81</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">209</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditHomeMap.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditHomeMap.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">210</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditHomeMap.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditHomeMap.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">211</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditTunnelMap.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditTunnelMap.Left">
+        <source>232</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">212</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditTunnelMap.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditTunnelMap.Top">
+        <source>88</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">213</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditTunnelMap.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditTunnelMap.Width">
+        <source>81</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">214</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditTunnelMap.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditTunnelMap.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">215</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditTunnelMap.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditTunnelMap.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">216</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditPalace.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditPalace.Left">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">217</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditPalace.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditPalace.Top">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">218</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditPalace.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditPalace.Width">
+        <source>105</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">219</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditPalace.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditPalace.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">220</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditPalace.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:EditPalace.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">221</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeX.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeX.Left">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">222</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeX.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeX.Top">
+        <source>88</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">223</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeX.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeX.Width">
+        <source>57</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">224</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeX.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeX.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">225</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeX.MaxValue" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeX.MaxValue">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">226</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeX.MinValue" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeX.MinValue">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124077894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">227</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeX.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeX.TabOrder">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">228</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeX.Value" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeX.Value">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">229</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeY.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeY.Left">
+        <source>120</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">230</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeY.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeY.Top">
+        <source>88</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">231</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeY.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeY.Width">
+        <source>49</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">232</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeY.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeY.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">233</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeY.MaxValue" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeY.MaxValue">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">234</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeY.MinValue" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeY.MinValue">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">235</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeY.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeY.TabOrder">
+        <source>6</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">236</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeY.Value" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:SpinEditNomeY.Value">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">237</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:ButtonSave.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:ButtonSave.Left">
+        <source>240</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">238</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:ButtonSave.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:ButtonSave.Top">
+        <source>160</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">239</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:ButtonSave.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:ButtonSave.Width">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">240</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:ButtonSave.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:ButtonSave.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">241</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:ButtonSave.Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:ButtonSave.Caption">
+        <source>'&amp;Save'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">242</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:ButtonSave.Enabled" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:ButtonSave.Enabled">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">243</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:ButtonSave.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:ButtonSave.TabOrder">
+        <source>7</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078356</prop><prop prop-type="Status">0</prop><prop prop-type="Order">244</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:ButtonSave.OnClick" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet2.O:GroupBox4.O:ButtonSave.OnClick">
+        <source>ButtonSaveClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078356</prop><prop prop-type="Status">0</prop><prop prop-type="Order">245</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.Caption">
+        <source>'War'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078356</prop><prop prop-type="Status">0</prop><prop prop-type="Order">246</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.ImageIndex" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.ImageIndex">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078356</prop><prop prop-type="Status">0</prop><prop prop-type="Order">247</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.ExplicitLeft" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.ExplicitLeft">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078356</prop><prop prop-type="Status">0</prop><prop prop-type="Order">248</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.ExplicitTop" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.ExplicitTop">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078356</prop><prop prop-type="Status">0</prop><prop prop-type="Order">249</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.ExplicitWidth" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.ExplicitWidth">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078472</prop><prop prop-type="Status">0</prop><prop prop-type="Order">250</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.ExplicitHeight" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.ExplicitHeight">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078472</prop><prop prop-type="Status">0</prop><prop prop-type="Order">251</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078472</prop><prop prop-type="Status">0</prop><prop prop-type="Order">252</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078472</prop><prop prop-type="Status">0</prop><prop prop-type="Order">253</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.Width">
+        <source>313</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078472</prop><prop prop-type="Status">0</prop><prop prop-type="Order">254</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.Height">
+        <source>201</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078472</prop><prop prop-type="Status">0</prop><prop prop-type="Order">255</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078588</prop><prop prop-type="Status">0</prop><prop prop-type="Order">256</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078588</prop><prop prop-type="Status">0</prop><prop prop-type="Order">257</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078588</prop><prop prop-type="Status">0</prop><prop prop-type="Order">258</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.Width">
+        <source>297</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078588</prop><prop prop-type="Status">0</prop><prop prop-type="Order">259</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.Height">
+        <source>145</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078588</prop><prop prop-type="Status">0</prop><prop prop-type="Order">260</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.Columns[0].Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.Columns[0].Caption">
+        <source>'ID'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078588</prop><prop prop-type="Status">0</prop><prop prop-type="Order">261</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">&lt;item</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.Columns[1].Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.Columns[1].Caption">
+        <source>'Guild'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078704</prop><prop prop-type="Status">0</prop><prop prop-type="Order">262</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.Columns[1].Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.Columns[1].Width">
+        <source>150</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078704</prop><prop prop-type="Status">0</prop><prop prop-type="Order">263</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.Columns[2].Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.Columns[2].Caption">
+        <source>'Date'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078704</prop><prop prop-type="Status">0</prop><prop prop-type="Order">264</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.Columns[2].Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.Columns[2].Width">
+        <source>80</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078704</prop><prop prop-type="Status">0</prop><prop prop-type="Order">265</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end&gt;</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.GridLines" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.GridLines">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078704</prop><prop prop-type="Status">0</prop><prop prop-type="Order">266</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.ReadOnly" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078704</prop><prop prop-type="Status">0</prop><prop prop-type="Order">267</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.RowSelect" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.RowSelect">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078819</prop><prop prop-type="Status">0</prop><prop prop-type="Order">268</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078819</prop><prop prop-type="Status">0</prop><prop prop-type="Order">269</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.ViewStyle" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.ViewStyle">
+        <source>vsReport</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078819</prop><prop prop-type="Status">0</prop><prop prop-type="Order">270</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.OnClick" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ListViewAttackSabukWall.OnClick">
+        <source>ListViewAttackSabukWallClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078819</prop><prop prop-type="Status">0</prop><prop prop-type="Order">271</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackAd.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackAd.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078819</prop><prop prop-type="Status">0</prop><prop prop-type="Order">272</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackAd.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackAd.Top">
+        <source>168</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078819</prop><prop prop-type="Status">0</prop><prop prop-type="Order">273</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackAd.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackAd.Width">
+        <source>65</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078935</prop><prop prop-type="Status">0</prop><prop prop-type="Order">274</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackAd.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackAd.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078935</prop><prop prop-type="Status">0</prop><prop prop-type="Order">275</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackAd.Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackAd.Caption">
+        <source>'Add(&amp;A)'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078935</prop><prop prop-type="Status">0</prop><prop prop-type="Order">276</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackAd.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackAd.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078935</prop><prop prop-type="Status">0</prop><prop prop-type="Order">277</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackAd.OnClick" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackAd.OnClick">
+        <source>ButtonAttackAdClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078935</prop><prop prop-type="Status">0</prop><prop prop-type="Order">278</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackEdit.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackEdit.Left">
+        <source>80</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124078935</prop><prop prop-type="Status">0</prop><prop prop-type="Order">279</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackEdit.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackEdit.Top">
+        <source>168</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124079051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">280</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackEdit.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackEdit.Width">
+        <source>65</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124079051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">281</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackEdit.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackEdit.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124079051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">282</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackEdit.Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackEdit.Caption">
+        <source>'Edit(&amp;E)'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124079051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">283</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackEdit.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackEdit.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124079051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">284</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackEdit.OnClick" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackEdit.OnClick">
+        <source>ButtonAttackEditClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124079051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">285</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackDel.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackDel.Left">
+        <source>151</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124079167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">286</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackDel.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackDel.Top">
+        <source>167</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124079167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">287</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackDel.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackDel.Width">
+        <source>65</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124079167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">288</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackDel.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackDel.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124079167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">289</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackDel.Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackDel.Caption">
+        <source>'Delete(&amp;D)'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124079167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">290</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackDel.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackDel.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124079167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">291</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackDel.OnClick" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackDel.OnClick">
+        <source>ButtonAttackDelClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124079167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">292</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackR.Left" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackR.Left">
+        <source>240</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124079282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">293</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackR.Top" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackR.Top">
+        <source>168</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124079282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">294</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackR.Width" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackR.Width">
+        <source>67</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124079282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">295</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackR.Height" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackR.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124079282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">296</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackR.Caption" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackR.Caption">
+        <source>'Reload(&amp;R)'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124079282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">297</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackR.TabOrder" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackR.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124079282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">298</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackR.OnClick" resname="O:frmCastleManage.O:GroupBox2.O:PageControlCastle.O:TabSheet4.O:GroupBox6.O:ButtonAttackR.OnClick">
+        <source>ButtonAttackRClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9124079398</prop><prop prop-type="Status">0</prop><prop prop-type="Order">299</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

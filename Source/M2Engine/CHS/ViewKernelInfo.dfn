@@ -1,0 +1,1508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="D:\AceM2 Source\Source\M2Engine\ViewKernelInfo.dfm" source-language="en-GB" target-language="zh-CN" datatype="delphiform" tool="ETM v10.0" ts="D:\AceM2 Source\Source\M2Engine\ViewKernelInfo.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">45469.9128935185</prop>
+        <prop prop-type="OrigDateTime">45468.8302314815</prop>
+        <prop prop-type="XlatDateTime">45468.8302314815</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">298</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:frmViewKernelInfo.Left" resname="O:frmViewKernelInfo.Left">
+        <source>818</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129031713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TfrmViewKernelInfo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.Top" resname="O:frmViewKernelInfo.Top">
+        <source>584</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129031713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TfrmViewKernelInfo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.BorderIcons" resname="O:frmViewKernelInfo.BorderIcons">
+        <source>[biSystemMenu, biMinimize]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129031713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TfrmViewKernelInfo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.BorderStyle" resname="O:frmViewKernelInfo.BorderStyle">
+        <source>bsSingle</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129031713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TfrmViewKernelInfo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.Caption" resname="O:frmViewKernelInfo.Caption">
+        <source>'Kernal Data View'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129031713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TfrmViewKernelInfo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.ClientHeight" resname="O:frmViewKernelInfo.ClientHeight">
+        <source>389</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129031713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TfrmViewKernelInfo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.ClientWidth" resname="O:frmViewKernelInfo.ClientWidth">
+        <source>403</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129031713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TfrmViewKernelInfo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.Color" resname="O:frmViewKernelInfo.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129031829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TfrmViewKernelInfo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.Font.Charset" resname="O:frmViewKernelInfo.Font.Charset">
+        <source>GB2312_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129031829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TfrmViewKernelInfo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.Font.Color" resname="O:frmViewKernelInfo.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129031829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TfrmViewKernelInfo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.Font.Height" resname="O:frmViewKernelInfo.Font.Height">
+        <source>-12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129031829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TfrmViewKernelInfo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.Font.Name" resname="O:frmViewKernelInfo.Font.Name">
+        <source>'??'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129031829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TfrmViewKernelInfo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.Font.Style" resname="O:frmViewKernelInfo.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129031829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TfrmViewKernelInfo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.Menu" resname="O:frmViewKernelInfo.Menu">
+        <source>MainMenu1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129031829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TfrmViewKernelInfo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.OldCreateOrder" resname="O:frmViewKernelInfo.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129031944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TfrmViewKernelInfo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.Position" resname="O:frmViewKernelInfo.Position">
+        <source>poOwnerFormCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129031944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TfrmViewKernelInfo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.OnCreate" resname="O:frmViewKernelInfo.OnCreate">
+        <source>FormCreate</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129031944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TfrmViewKernelInfo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.PixelsPerInch" resname="O:frmViewKernelInfo.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129031944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TfrmViewKernelInfo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.TextHeight" resname="O:frmViewKernelInfo.TextHeight">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129031944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TfrmViewKernelInfo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.Left" resname="O:frmViewKernelInfo.O:PageControl1.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129031944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.Top" resname="O:frmViewKernelInfo.O:PageControl1.Top">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.Width" resname="O:frmViewKernelInfo.O:PageControl1.Width">
+        <source>385</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.Height" resname="O:frmViewKernelInfo.O:PageControl1.Height">
+        <source>373</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.ActivePage" resname="O:frmViewKernelInfo.O:PageControl1.ActivePage">
+        <source>TabSheet5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.Caption">
+        <source>'Global Variables'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.ImageIndex" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.ImageIndex">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.ExplicitLeft" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.ExplicitLeft">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.ExplicitTop" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.ExplicitTop">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.ExplicitWidth" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.ExplicitWidth">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.ExplicitHeight" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.ExplicitHeight">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.Left">
+        <source>9</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.Top">
+        <source>9</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.Width">
+        <source>359</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.Height">
+        <source>139</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.Columns[0].Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.Columns[0].Caption">
+        <source>'No.'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">&lt;item</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.Columns[1].Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.Columns[1].Caption">
+        <source>'Current Value'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.Columns[1].Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.Columns[1].Width">
+        <source>285</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end&gt;</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.GridLines" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.GridLines">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.ReadOnly" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.RowSelect" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.RowSelect">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.ViewStyle" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.ViewStyle">
+        <source>vsReport</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.OnDblClick" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewInteger.OnDblClick">
+        <source>ListViewIntegerDblClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.Left">
+        <source>9</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.Top">
+        <source>163</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.Width">
+        <source>359</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032523</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.Height">
+        <source>139</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032523</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.Columns[0].Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.Columns[0].Caption">
+        <source>'No.'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032523</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">&lt;item</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.Columns[1].Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.Columns[1].Caption">
+        <source>'Current String'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032523</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.Columns[1].Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.Columns[1].Width">
+        <source>285</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032523</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">C:TListView</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end&gt;</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.GridLines" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.GridLines">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032523</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.ReadOnly" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032639</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.RowSelect" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.RowSelect">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032639</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032639</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.ViewStyle" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.ViewStyle">
+        <source>vsReport</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032639</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.OnDblClick" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:ListViewString.OnDblClick">
+        <source>ListViewStringDblClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032639</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TListView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button1.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button1.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032639</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button1.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button1.Top">
+        <source>312</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032755</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button1.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button1.Width">
+        <source>80</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032755</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button1.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button1.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032755</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button1.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button1.Caption">
+        <source>'Empty Var'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032755</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button1.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button1.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032755</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button1.OnClick" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button1.OnClick">
+        <source>Button1Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032755</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button2.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button2.Left">
+        <source>105</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032755</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button2.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button2.Top">
+        <source>312</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button2.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button2.Width">
+        <source>80</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button2.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button2.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button2.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button2.Caption">
+        <source>'Empty String'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button2.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button2.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button2.OnClick" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button2.OnClick">
+        <source>Button2Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button3.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button3.Left">
+        <source>289</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032986</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button3.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button3.Top">
+        <source>312</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032986</prop><prop prop-type="Status">0</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button3.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button3.Width">
+        <source>80</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032986</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button3.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button3.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032986</prop><prop prop-type="Status">0</prop><prop prop-type="Order">74</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button3.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button3.Caption">
+        <source>'&amp;Reload'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032986</prop><prop prop-type="Status">0</prop><prop prop-type="Order">75</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button3.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button3.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129032986</prop><prop prop-type="Status">0</prop><prop prop-type="Order">76</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button3.Visible" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet3.O:Button3.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033102</prop><prop prop-type="Status">0</prop><prop prop-type="Order">77</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.Caption">
+        <source>'Game Data'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033102</prop><prop prop-type="Status">0</prop><prop prop-type="Order">78</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.ExplicitLeft" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.ExplicitLeft">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033102</prop><prop prop-type="Status">0</prop><prop prop-type="Order">79</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.ExplicitTop" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.ExplicitTop">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033102</prop><prop prop-type="Status">0</prop><prop prop-type="Order">80</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.ExplicitWidth" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.ExplicitWidth">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033102</prop><prop prop-type="Status">0</prop><prop prop-type="Order">81</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.ExplicitHeight" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.ExplicitHeight">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033102</prop><prop prop-type="Status">0</prop><prop prop-type="Order">82</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033218</prop><prop prop-type="Status">0</prop><prop prop-type="Order">83</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.Top">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033218</prop><prop prop-type="Status">0</prop><prop prop-type="Order">84</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.Width">
+        <source>168</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033218</prop><prop prop-type="Status">0</prop><prop prop-type="Order">85</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.Height">
+        <source>133</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033218</prop><prop prop-type="Status">0</prop><prop prop-type="Order">86</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.Caption">
+        <source>'Game Database'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033218</prop><prop prop-type="Status">0</prop><prop prop-type="Order">87</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033218</prop><prop prop-type="Status">0</prop><prop prop-type="Order">88</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label1.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label1.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033218</prop><prop prop-type="Status">0</prop><prop prop-type="Order">89</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label1.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label1.Top">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033333</prop><prop prop-type="Status">0</prop><prop prop-type="Order">90</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label1.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label1.Width">
+        <source>102</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033333</prop><prop prop-type="Status">0</prop><prop prop-type="Order">91</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label1.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label1.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033333</prop><prop prop-type="Status">0</prop><prop prop-type="Order">92</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label1.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label1.Caption">
+        <source>'Load HumDB Count:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033333</prop><prop prop-type="Status">0</prop><prop prop-type="Order">93</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label2.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label2.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033333</prop><prop prop-type="Status">0</prop><prop prop-type="Order">94</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label2.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label2.Top">
+        <source>44</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033333</prop><prop prop-type="Status">0</prop><prop prop-type="Order">95</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label2.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label2.Width">
+        <source>138</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033333</prop><prop prop-type="Status">0</prop><prop prop-type="Order">96</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label2.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label2.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033333</prop><prop prop-type="Status">0</prop><prop prop-type="Order">97</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label2.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label2.Caption">
+        <source>'Load HumDB Error Count:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033333</prop><prop prop-type="Status">0</prop><prop prop-type="Order">98</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label3.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label3.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033333</prop><prop prop-type="Status">0</prop><prop prop-type="Order">99</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label3.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label3.Top">
+        <source>68</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033565</prop><prop prop-type="Status">0</prop><prop prop-type="Order">100</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label3.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label3.Width">
+        <source>102</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033565</prop><prop prop-type="Status">0</prop><prop prop-type="Order">101</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label3.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label3.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033565</prop><prop prop-type="Status">0</prop><prop prop-type="Order">102</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label3.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label3.Caption">
+        <source>'Save HumDB Count:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033565</prop><prop prop-type="Status">0</prop><prop prop-type="Order">103</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label4.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label4.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033565</prop><prop prop-type="Status">0</prop><prop prop-type="Order">104</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label4.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label4.Top">
+        <source>92</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033565</prop><prop prop-type="Status">0</prop><prop prop-type="Order">105</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label4.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label4.Width">
+        <source>84</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033565</prop><prop prop-type="Status">0</prop><prop prop-type="Order">106</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label4.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label4.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033681</prop><prop prop-type="Status">0</prop><prop prop-type="Order">107</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label4.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:Label4.Caption">
+        <source>'HumDB QueryID:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033681</prop><prop prop-type="Status">0</prop><prop prop-type="Order">108</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditLoadHumanDBCount.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditLoadHumanDBCount.Left">
+        <source>88</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033681</prop><prop prop-type="Status">0</prop><prop prop-type="Order">109</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditLoadHumanDBCount.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditLoadHumanDBCount.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033681</prop><prop prop-type="Status">0</prop><prop prop-type="Order">110</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditLoadHumanDBCount.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditLoadHumanDBCount.Width">
+        <source>71</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033681</prop><prop prop-type="Status">0</prop><prop prop-type="Order">111</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditLoadHumanDBCount.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditLoadHumanDBCount.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033681</prop><prop prop-type="Status">0</prop><prop prop-type="Order">112</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditLoadHumanDBCount.ReadOnly" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditLoadHumanDBCount.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033681</prop><prop prop-type="Status">0</prop><prop prop-type="Order">113</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditLoadHumanDBCount.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditLoadHumanDBCount.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033796</prop><prop prop-type="Status">0</prop><prop prop-type="Order">114</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditLoadHumanDBErrorCoun.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditLoadHumanDBErrorCoun.Left">
+        <source>88</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033796</prop><prop prop-type="Status">0</prop><prop prop-type="Order">115</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditLoadHumanDBErrorCoun.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditLoadHumanDBErrorCoun.Top">
+        <source>40</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033796</prop><prop prop-type="Status">0</prop><prop prop-type="Order">116</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditLoadHumanDBErrorCoun.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditLoadHumanDBErrorCoun.Width">
+        <source>71</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033796</prop><prop prop-type="Status">0</prop><prop prop-type="Order">117</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditLoadHumanDBErrorCoun.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditLoadHumanDBErrorCoun.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033796</prop><prop prop-type="Status">0</prop><prop prop-type="Order">118</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditLoadHumanDBErrorCoun.ReadOnly" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditLoadHumanDBErrorCoun.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033796</prop><prop prop-type="Status">0</prop><prop prop-type="Order">119</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditLoadHumanDBErrorCoun.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditLoadHumanDBErrorCoun.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033912</prop><prop prop-type="Status">0</prop><prop prop-type="Order">120</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditSaveHumanDBCount.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditSaveHumanDBCount.Left">
+        <source>88</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033912</prop><prop prop-type="Status">0</prop><prop prop-type="Order">121</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditSaveHumanDBCount.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditSaveHumanDBCount.Top">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033912</prop><prop prop-type="Status">0</prop><prop prop-type="Order">122</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditSaveHumanDBCount.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditSaveHumanDBCount.Width">
+        <source>71</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033912</prop><prop prop-type="Status">0</prop><prop prop-type="Order">123</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditSaveHumanDBCount.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditSaveHumanDBCount.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033912</prop><prop prop-type="Status">0</prop><prop prop-type="Order">124</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditSaveHumanDBCount.ReadOnly" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditSaveHumanDBCount.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033912</prop><prop prop-type="Status">0</prop><prop prop-type="Order">125</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditSaveHumanDBCount.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditSaveHumanDBCount.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129033912</prop><prop prop-type="Status">0</prop><prop prop-type="Order">126</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditHumanDBQueryID.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditHumanDBQueryID.Left">
+        <source>88</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">127</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditHumanDBQueryID.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditHumanDBQueryID.Top">
+        <source>88</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">128</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditHumanDBQueryID.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditHumanDBQueryID.Width">
+        <source>71</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">129</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditHumanDBQueryID.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditHumanDBQueryID.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">130</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditHumanDBQueryID.ReadOnly" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditHumanDBQueryID.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">131</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditHumanDBQueryID.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox1.O:EditHumanDBQueryID.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">132</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.Left">
+        <source>182</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">133</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.Top">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">134</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.Width">
+        <source>190</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">135</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.Height">
+        <source>133</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">136</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.Caption">
+        <source>'Item Number'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">137</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">138</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:Label7.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:Label7.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">139</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:Label7.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:Label7.Top">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">140</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:Label7.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:Label7.Width">
+        <source>78</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">141</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:Label7.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:Label7.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">142</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:Label7.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:Label7.Caption">
+        <source>'Dropped Item:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">143</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:Label8.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:Label8.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">144</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:Label8.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:Label8.Top">
+        <source>44</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">145</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:Label8.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:Label8.Width">
+        <source>72</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">146</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:Label8.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:Label8.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">147</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:Label8.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:Label8.Caption">
+        <source>'Made by CMD:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">148</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:EditItemNumber.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:EditItemNumber.Left">
+        <source>88</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">149</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:EditItemNumber.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:EditItemNumber.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">150</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:EditItemNumber.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:EditItemNumber.Width">
+        <source>93</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">151</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:EditItemNumber.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:EditItemNumber.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">152</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:EditItemNumber.ReadOnly" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:EditItemNumber.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">153</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:EditItemNumber.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:EditItemNumber.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">154</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:EditItemNumberEx.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:EditItemNumberEx.Left">
+        <source>88</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">155</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:EditItemNumberEx.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:EditItemNumberEx.Top">
+        <source>40</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">156</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:EditItemNumberEx.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:EditItemNumberEx.Width">
+        <source>93</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">157</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:EditItemNumberEx.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:EditItemNumberEx.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">158</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:EditItemNumberEx.ReadOnly" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:EditItemNumberEx.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">159</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:EditItemNumberEx.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox4.O:EditItemNumberEx.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">160</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">161</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.Top">
+        <source>156</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">162</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.Width">
+        <source>168</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">163</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.Height">
+        <source>187</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">164</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.Caption">
+        <source>'Win Lottery'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">165</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">166</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label9.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label9.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">167</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label9.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label9.Top">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">168</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label9.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label9.Width">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">169</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label9.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label9.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">170</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label9.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label9.Caption">
+        <source>'1st:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">171</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label10.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label10.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">172</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label10.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label10.Top">
+        <source>44</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">173</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label10.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label10.Width">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">174</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label10.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label10.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">175</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label10.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label10.Caption">
+        <source>'2nd:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">176</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label11.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label11.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">177</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label11.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label11.Top">
+        <source>68</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">178</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label11.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label11.Width">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">179</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label11.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label11.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">180</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label11.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label11.Caption">
+        <source>'3rd:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">181</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label12.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label12.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">182</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label12.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label12.Top">
+        <source>92</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">183</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label12.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label12.Width">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034954</prop><prop prop-type="Status">0</prop><prop prop-type="Order">184</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label12.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label12.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034954</prop><prop prop-type="Status">0</prop><prop prop-type="Order">185</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label12.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label12.Caption">
+        <source>'4th:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034954</prop><prop prop-type="Status">0</prop><prop prop-type="Order">186</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label13.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label13.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034954</prop><prop prop-type="Status">0</prop><prop prop-type="Order">187</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label13.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label13.Top">
+        <source>116</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034954</prop><prop prop-type="Status">0</prop><prop prop-type="Order">188</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label13.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label13.Width">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034954</prop><prop prop-type="Status">0</prop><prop prop-type="Order">189</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label13.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label13.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129034954</prop><prop prop-type="Status">0</prop><prop prop-type="Order">190</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label13.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label13.Caption">
+        <source>'5th:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035069</prop><prop prop-type="Status">0</prop><prop prop-type="Order">191</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label14.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label14.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035069</prop><prop prop-type="Status">0</prop><prop prop-type="Order">192</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label14.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label14.Top">
+        <source>140</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035069</prop><prop prop-type="Status">0</prop><prop prop-type="Order">193</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label14.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label14.Width">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035069</prop><prop prop-type="Status">0</prop><prop prop-type="Order">194</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label14.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label14.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035069</prop><prop prop-type="Status">0</prop><prop prop-type="Order">195</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label14.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:Label14.Caption">
+        <source>'6th:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035069</prop><prop prop-type="Status">0</prop><prop prop-type="Order">196</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel1.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel1.Left">
+        <source>88</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035069</prop><prop prop-type="Status">0</prop><prop prop-type="Order">197</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel1.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel1.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035185</prop><prop prop-type="Status">0</prop><prop prop-type="Order">198</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel1.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel1.Width">
+        <source>71</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035185</prop><prop prop-type="Status">0</prop><prop prop-type="Order">199</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel1.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel1.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035185</prop><prop prop-type="Status">0</prop><prop prop-type="Order">200</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel1.ReadOnly" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel1.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035185</prop><prop prop-type="Status">0</prop><prop prop-type="Order">201</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel1.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035185</prop><prop prop-type="Status">0</prop><prop prop-type="Order">202</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel2.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel2.Left">
+        <source>88</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035185</prop><prop prop-type="Status">0</prop><prop prop-type="Order">203</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel2.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel2.Top">
+        <source>40</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035301</prop><prop prop-type="Status">0</prop><prop prop-type="Order">204</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel2.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel2.Width">
+        <source>71</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035301</prop><prop prop-type="Status">0</prop><prop prop-type="Order">205</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel2.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel2.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035301</prop><prop prop-type="Status">0</prop><prop prop-type="Order">206</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel2.ReadOnly" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel2.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035301</prop><prop prop-type="Status">0</prop><prop prop-type="Order">207</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel2.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel2.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035301</prop><prop prop-type="Status">0</prop><prop prop-type="Order">208</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel3.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel3.Left">
+        <source>88</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035301</prop><prop prop-type="Status">0</prop><prop prop-type="Order">209</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel3.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel3.Top">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035301</prop><prop prop-type="Status">0</prop><prop prop-type="Order">210</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel3.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel3.Width">
+        <source>71</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035417</prop><prop prop-type="Status">0</prop><prop prop-type="Order">211</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel3.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel3.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035417</prop><prop prop-type="Status">0</prop><prop prop-type="Order">212</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel3.ReadOnly" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel3.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035417</prop><prop prop-type="Status">0</prop><prop prop-type="Order">213</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel3.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel3.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035417</prop><prop prop-type="Status">0</prop><prop prop-type="Order">214</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel4.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel4.Left">
+        <source>88</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035417</prop><prop prop-type="Status">0</prop><prop prop-type="Order">215</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel4.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel4.Top">
+        <source>88</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035417</prop><prop prop-type="Status">0</prop><prop prop-type="Order">216</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel4.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel4.Width">
+        <source>71</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035532</prop><prop prop-type="Status">0</prop><prop prop-type="Order">217</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel4.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel4.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035532</prop><prop prop-type="Status">0</prop><prop prop-type="Order">218</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel4.ReadOnly" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel4.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035532</prop><prop prop-type="Status">0</prop><prop prop-type="Order">219</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel4.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel4.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035532</prop><prop prop-type="Status">0</prop><prop prop-type="Order">220</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel5.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel5.Left">
+        <source>88</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035532</prop><prop prop-type="Status">0</prop><prop prop-type="Order">221</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel5.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel5.Top">
+        <source>112</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035532</prop><prop prop-type="Status">0</prop><prop prop-type="Order">222</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel5.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel5.Width">
+        <source>71</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035532</prop><prop prop-type="Status">0</prop><prop prop-type="Order">223</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel5.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel5.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035648</prop><prop prop-type="Status">0</prop><prop prop-type="Order">224</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel5.ReadOnly" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel5.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035648</prop><prop prop-type="Status">0</prop><prop prop-type="Order">225</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel5.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel5.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035648</prop><prop prop-type="Status">0</prop><prop prop-type="Order">226</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel6.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel6.Left">
+        <source>88</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035648</prop><prop prop-type="Status">0</prop><prop prop-type="Order">227</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel6.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel6.Top">
+        <source>136</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035648</prop><prop prop-type="Status">0</prop><prop prop-type="Order">228</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel6.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel6.Width">
+        <source>71</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035648</prop><prop prop-type="Status">0</prop><prop prop-type="Order">229</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel6.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel6.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035648</prop><prop prop-type="Status">0</prop><prop prop-type="Order">230</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel6.ReadOnly" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel6.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035648</prop><prop prop-type="Status">0</prop><prop prop-type="Order">231</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel6.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox3.O:EditWinLotteryLevel6.TabOrder">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035648</prop><prop prop-type="Status">0</prop><prop prop-type="Order">232</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.Left">
+        <source>182</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035648</prop><prop prop-type="Status">0</prop><prop prop-type="Order">233</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.Top">
+        <source>156</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903588</prop><prop prop-type="Status">0</prop><prop prop-type="Order">234</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.Width">
+        <source>190</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903588</prop><prop prop-type="Status">0</prop><prop prop-type="Order">235</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.Height">
+        <source>187</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903588</prop><prop prop-type="Status">0</prop><prop prop-type="Order">236</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.Caption">
+        <source>'Lottery Winning Number'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903588</prop><prop prop-type="Status">0</prop><prop prop-type="Order">237</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903588</prop><prop prop-type="Status">0</prop><prop prop-type="Order">238</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:Label5.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:Label5.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903588</prop><prop prop-type="Status">0</prop><prop prop-type="Order">239</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:Label5.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:Label5.Top">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903588</prop><prop prop-type="Status">0</prop><prop prop-type="Order">240</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:Label5.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:Label5.Width">
+        <source>60</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035995</prop><prop prop-type="Status">0</prop><prop prop-type="Order">241</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:Label5.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:Label5.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035995</prop><prop prop-type="Status">0</prop><prop prop-type="Order">242</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:Label5.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:Label5.Caption">
+        <source>'Win Count:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035995</prop><prop prop-type="Status">0</prop><prop prop-type="Order">243</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:Label6.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:Label6.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035995</prop><prop prop-type="Status">0</prop><prop prop-type="Order">244</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:Label6.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:Label6.Top">
+        <source>44</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035995</prop><prop prop-type="Status">0</prop><prop prop-type="Order">245</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:Label6.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:Label6.Width">
+        <source>78</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035995</prop><prop prop-type="Status">0</prop><prop prop-type="Order">246</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:Label6.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:Label6.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129035995</prop><prop prop-type="Status">0</prop><prop prop-type="Order">247</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:Label6.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:Label6.Caption">
+        <source>'No Win Count:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036111</prop><prop prop-type="Status">0</prop><prop prop-type="Order">248</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:EditWinLotteryCount.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:EditWinLotteryCount.Left">
+        <source>88</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036111</prop><prop prop-type="Status">0</prop><prop prop-type="Order">249</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:EditWinLotteryCount.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:EditWinLotteryCount.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036111</prop><prop prop-type="Status">0</prop><prop prop-type="Order">250</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:EditWinLotteryCount.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:EditWinLotteryCount.Width">
+        <source>93</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036111</prop><prop prop-type="Status">0</prop><prop prop-type="Order">251</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:EditWinLotteryCount.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:EditWinLotteryCount.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036111</prop><prop prop-type="Status">0</prop><prop prop-type="Order">252</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:EditWinLotteryCount.ReadOnly" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:EditWinLotteryCount.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036111</prop><prop prop-type="Status">0</prop><prop prop-type="Order">253</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:EditWinLotteryCount.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:EditWinLotteryCount.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036227</prop><prop prop-type="Status">0</prop><prop prop-type="Order">254</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:EditNoWinLotteryCount.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:EditNoWinLotteryCount.Left">
+        <source>88</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036227</prop><prop prop-type="Status">0</prop><prop prop-type="Order">255</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:EditNoWinLotteryCount.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:EditNoWinLotteryCount.Top">
+        <source>40</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036227</prop><prop prop-type="Status">0</prop><prop prop-type="Order">256</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:EditNoWinLotteryCount.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:EditNoWinLotteryCount.Width">
+        <source>93</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036227</prop><prop prop-type="Status">0</prop><prop prop-type="Order">257</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:EditNoWinLotteryCount.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:EditNoWinLotteryCount.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036227</prop><prop prop-type="Status">0</prop><prop prop-type="Order">258</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:EditNoWinLotteryCount.ReadOnly" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:EditNoWinLotteryCount.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036227</prop><prop prop-type="Status">0</prop><prop prop-type="Order">259</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:EditNoWinLotteryCount.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet1.O:GroupBox2.O:EditNoWinLotteryCount.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036227</prop><prop prop-type="Status">0</prop><prop prop-type="Order">260</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.Caption">
+        <source>'Thread'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036343</prop><prop prop-type="Status">0</prop><prop prop-type="Order">261</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.ImageIndex" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.ImageIndex">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036343</prop><prop prop-type="Status">0</prop><prop prop-type="Order">262</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.ExplicitLeft" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.ExplicitLeft">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036343</prop><prop prop-type="Status">0</prop><prop prop-type="Order">263</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.ExplicitTop" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.ExplicitTop">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036343</prop><prop prop-type="Status">0</prop><prop prop-type="Order">264</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.ExplicitWidth" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.ExplicitWidth">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036343</prop><prop prop-type="Status">0</prop><prop prop-type="Order">265</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.ExplicitHeight" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.ExplicitHeight">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036458</prop><prop prop-type="Status">0</prop><prop prop-type="Order">266</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.Left">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036458</prop><prop prop-type="Status">0</prop><prop prop-type="Order">267</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.Top">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036458</prop><prop prop-type="Status">0</prop><prop prop-type="Order">268</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.Width">
+        <source>364</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036458</prop><prop prop-type="Status">0</prop><prop prop-type="Order">269</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.Height">
+        <source>137</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036458</prop><prop prop-type="Status">0</prop><prop prop-type="Order">270</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.Caption" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.Caption">
+        <source>'Thread State'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036458</prop><prop prop-type="Status">0</prop><prop prop-type="Order">271</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036458</prop><prop prop-type="Status">0</prop><prop prop-type="Order">272</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.Left" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.Left">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036574</prop><prop prop-type="Status">0</prop><prop prop-type="Order">273</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.Top" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.Top">
+        <source>18</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036574</prop><prop prop-type="Status">0</prop><prop prop-type="Order">274</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.Width" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.Width">
+        <source>343</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036574</prop><prop prop-type="Status">0</prop><prop prop-type="Order">275</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.Height" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.Height">
+        <source>108</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036574</prop><prop prop-type="Status">0</prop><prop prop-type="Order">276</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.DefaultRowHeight" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.DefaultRowHeight">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036574</prop><prop prop-type="Status">0</prop><prop prop-type="Order">277</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.FixedCols" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.FixedCols">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036574</prop><prop prop-type="Status">0</prop><prop prop-type="Order">278</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.Options" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.Options">
+        <source>[goFixedVertLine, goFixedHorzLine, goVertLine, goHorzLine, goRangeSelect, goRowSelect]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903669</prop><prop prop-type="Status">0</prop><prop prop-type="Order">279</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.TabOrder" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903669</prop><prop prop-type="Status">0</prop><prop prop-type="Order">280</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.ColWidths[0]" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.ColWidths[0]">
+        <source>48</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903669</prop><prop prop-type="Status">0</prop><prop prop-type="Order">281</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.ColWidths[1]" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.ColWidths[1]">
+        <source>50</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903669</prop><prop prop-type="Status">0</prop><prop prop-type="Order">282</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.ColWidths[2]" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.ColWidths[2]">
+        <source>51</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903669</prop><prop prop-type="Status">0</prop><prop prop-type="Order">283</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.ColWidths[3]" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.ColWidths[3]">
+        <source>102</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912903669</prop><prop prop-type="Status">0</prop><prop prop-type="Order">284</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.ColWidths[4]" resname="O:frmViewKernelInfo.O:PageControl1.O:TabSheet5.O:GroupBox7.O:GridThread.ColWidths[4]">
+        <source>84</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036806</prop><prop prop-type="Status">0</prop><prop prop-type="Order">285</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:Timer.Enabled" resname="O:frmViewKernelInfo.O:Timer.Enabled">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036806</prop><prop prop-type="Status">0</prop><prop prop-type="Order">286</prop><prop prop-type="Type">TTimer</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:Timer.OnTimer" resname="O:frmViewKernelInfo.O:Timer.OnTimer">
+        <source>TimerTimer</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036806</prop><prop prop-type="Status">0</prop><prop prop-type="Order">287</prop><prop prop-type="Type">TTimer</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:Timer.Left" resname="O:frmViewKernelInfo.O:Timer.Left">
+        <source>368</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036806</prop><prop prop-type="Status">0</prop><prop prop-type="Order">288</prop><prop prop-type="Type">TTimer</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:Timer.Top" resname="O:frmViewKernelInfo.O:Timer.Top">
+        <source>360</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036806</prop><prop prop-type="Status">0</prop><prop prop-type="Order">289</prop><prop prop-type="Type">TTimer</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:MainMenu1.Top" resname="O:frmViewKernelInfo.O:MainMenu1.Top">
+        <source>272</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036806</prop><prop prop-type="Status">0</prop><prop prop-type="Order">290</prop><prop prop-type="Type">TMainMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:MainMenu1.O:V1.Caption" resname="O:frmViewKernelInfo.O:MainMenu1.O:V1.Caption">
+        <source>'&amp;View'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036806</prop><prop prop-type="Status">0</prop><prop prop-type="Order">291</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:MainMenu1.O:V1.O:N1.Caption" resname="O:frmViewKernelInfo.O:MainMenu1.O:V1.O:N1.Caption">
+        <source>'&amp;Update Speed'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036921</prop><prop prop-type="Status">0</prop><prop prop-type="Order">292</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:MainMenu1.O:V1.O:N1.O:N2.Caption" resname="O:frmViewKernelInfo.O:MainMenu1.O:V1.O:N1.O:N2.Caption">
+        <source>'&amp;High'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036921</prop><prop prop-type="Status">0</prop><prop prop-type="Order">293</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:MainMenu1.O:V1.O:N1.O:N3.Caption" resname="O:frmViewKernelInfo.O:MainMenu1.O:V1.O:N1.O:N3.Caption">
+        <source>'&amp;Normal'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036921</prop><prop prop-type="Status">0</prop><prop prop-type="Order">294</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:MainMenu1.O:V1.O:N1.O:N3.Checked" resname="O:frmViewKernelInfo.O:MainMenu1.O:V1.O:N1.O:N3.Checked">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036921</prop><prop prop-type="Status">0</prop><prop prop-type="Order">295</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:MainMenu1.O:V1.O:N1.O:N4.Caption" resname="O:frmViewKernelInfo.O:MainMenu1.O:V1.O:N1.O:N4.Caption">
+        <source>'&amp;Low'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036921</prop><prop prop-type="Status">0</prop><prop prop-type="Order">296</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmViewKernelInfo.O:MainMenu1.O:A1.Caption" resname="O:frmViewKernelInfo.O:MainMenu1.O:A1.Caption">
+        <source>'&amp;About'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9129036921</prop><prop prop-type="Status">0</prop><prop prop-type="Order">297</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

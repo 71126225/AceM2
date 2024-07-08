@@ -3,7 +3,7 @@ object frmRouteManage: TfrmRouteManage
   Top = 285
   BorderIcons = [biSystemMenu]
   BorderStyle = bsSingle
-  Caption = #32593#20851#36335#30001#37197#32622
+  Caption = 'Gateway routing configuration'
   ClientHeight = 223
   ClientWidth = 481
   Color = clBtnFace
@@ -19,10 +19,10 @@ object frmRouteManage: TfrmRouteManage
   TextHeight = 12
   object GroupBox1: TGroupBox
     Left = 8
-    Top = 8
+    Top = 6
     Width = 465
     Height = 209
-    Caption = #32593#20851#36335#30001#34920
+    Caption = 'Gateway routing table'
     TabOrder = 0
     object ListViewRoute: TListView
       Left = 8
@@ -31,19 +31,19 @@ object frmRouteManage: TfrmRouteManage
       Height = 153
       Columns = <
         item
-          Caption = #24207#21495
+          Caption = 'ID'
           Width = 40
         end
         item
-          Caption = #30331#24405#32593#20851
+          Caption = 'Login Gate'
           Width = 80
         end
         item
-          Caption = #32593#20851#25968#37327
+          Caption = 'Sel Gate'
           Width = 60
         end
         item
-          Caption = #28216#25103#32593#20851
+          Caption = 'Game Gate'
           Width = 1000
         end>
       GridLines = True
@@ -58,8 +58,8 @@ object frmRouteManage: TfrmRouteManage
       Top = 176
       Width = 73
       Height = 25
-      Hint = #20462#25913#36873#23450#30340#32593#20851#36335#30001
-      Caption = #32534#36753'(&E)'
+      Hint = 'Modify the selected gateway route'
+      Caption = 'Edit(&E)'
       TabOrder = 1
       OnClick = ButtonDeleteClick
     end
@@ -68,8 +68,8 @@ object frmRouteManage: TfrmRouteManage
       Top = 176
       Width = 73
       Height = 25
-      Hint = #21024#38500#36873#23450#30340#32593#20851#36335#30001
-      Caption = #21024#38500'(&D)'
+      Hint = 'Delete the selected gateway route'
+      Caption = 'Delete(&D)'
       TabOrder = 2
       OnClick = ButtonDeleteClick
     end
@@ -78,8 +78,8 @@ object frmRouteManage: TfrmRouteManage
       Top = 176
       Width = 73
       Height = 25
-      Hint = #20445#23384#32593#20851#36335#30001#35774#32622#36864#20986
-      Caption = #30830#23450'(&O)'
+      Hint = 'Save gateway routing settings and exit'
+      Caption = 'OK(&O)'
       TabOrder = 3
       OnClick = ButtonDeleteClick
     end
@@ -88,8 +88,8 @@ object frmRouteManage: TfrmRouteManage
       Top = 176
       Width = 73
       Height = 25
-      Hint = #20462#25913#36873#23450#30340#32593#20851#36335#30001
-      Caption = #22686#21152'(&A)'
+      Hint = 'Modify the selected gateway route'
+      Caption = 'ADD(&A)'
       TabOrder = 4
       OnClick = ButtonDeleteClick
     end

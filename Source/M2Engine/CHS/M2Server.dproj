@@ -1,0 +1,162 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{c65e90e2-45cc-4d20-b915-c41bef890aec}</ProjectGuid>
+    <MainSource>M2Server.dpr</MainSource>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <DCC_DCCCompiler>DCC32</DCC_DCCCompiler>
+    <DCC_DependencyCheckOutputName>..\MirServer\M2Server.CHS</DCC_DependencyCheckOutputName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_DebugInformation>False</DCC_DebugInformation>
+    <DCC_LocalDebugSymbols>False</DCC_LocalDebugSymbols>
+    <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+    <DCC_ExeOutput>..\MirServer</DCC_ExeOutput>
+    <DCC_DcuOutput>..\Build\M2Server</DCC_DcuOutput>
+    <DCC_ObjOutput>..\Build\M2Server</DCC_ObjOutput>
+    <DCC_HppOutput>..\Build\M2Server</DCC_HppOutput>
+    <DCC_Define>RELEASE</DCC_Define>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_ExeOutput>..\MirServer</DCC_ExeOutput>
+    <DCC_DcuOutput>..\Build\M2Server</DCC_DcuOutput>
+    <DCC_ObjOutput>..\Build\M2Server</DCC_ObjOutput>
+    <DCC_HppOutput>..\Build\M2Server</DCC_HppOutput>
+    <DCC_Define>DEBUG</DCC_Define>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Delphi.Personality</Borland.Personality>
+    <Borland.ProjectType>VCLApplication</Borland.ProjectType>
+    <BorlandProject>
+<BorlandProject xmlns=""> <Delphi.Personality>   <Parameters>
+      <Parameters Name="UseLauncher">False</Parameters>
+      <Parameters Name="LoadAllSymbols">True</Parameters>
+      <Parameters Name="LoadUnspecifiedSymbols">False</Parameters>
+    </Parameters>
+    <VersionInfo>
+      <VersionInfo Name="IncludeVerInfo">True</VersionInfo>
+      <VersionInfo Name="AutoIncBuild">False</VersionInfo>
+      <VersionInfo Name="MajorVer">2</VersionInfo>
+      <VersionInfo Name="MinorVer">0</VersionInfo>
+      <VersionInfo Name="Release">0</VersionInfo>
+      <VersionInfo Name="Build">0</VersionInfo>
+      <VersionInfo Name="Debug">False</VersionInfo>
+      <VersionInfo Name="PreRelease">False</VersionInfo>
+      <VersionInfo Name="Special">False</VersionInfo>
+      <VersionInfo Name="Private">False</VersionInfo>
+      <VersionInfo Name="DLL">False</VersionInfo>
+      <VersionInfo Name="Locale">2052</VersionInfo>
+      <VersionInfo Name="CodePage">936</VersionInfo>
+    </VersionInfo>
+    <VersionInfoKeys>
+      <VersionInfoKeys Name="CompanyName">飞尔世界</VersionInfoKeys>
+      <VersionInfoKeys Name="FileDescription">飞尔世界数据处理引擎</VersionInfoKeys>
+      <VersionInfoKeys Name="FileVersion">2.0.0.0</VersionInfoKeys>
+      <VersionInfoKeys Name="InternalName">EngineServer.exe</VersionInfoKeys>
+      <VersionInfoKeys Name="LegalCopyright">版权所有(C) 飞尔世界.  2005-2008</VersionInfoKeys>
+      <VersionInfoKeys Name="LegalTrademarks">飞尔世界游戏引擎</VersionInfoKeys>
+      <VersionInfoKeys Name="OriginalFilename">EngineServer.exe</VersionInfoKeys>
+      <VersionInfoKeys Name="ProductName">网络游戏数据处理引擎</VersionInfoKeys>
+      <VersionInfoKeys Name="ProductVersion">2.0.0.0</VersionInfoKeys>
+      <VersionInfoKeys Name="Comments"></VersionInfoKeys>
+    </VersionInfoKeys>
+    <Source>
+      <Source Name="MainSource">M2Server.dpr</Source>
+    </Source>
+  </Delphi.Personality> </BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <ItemGroup />
+  <ItemGroup>
+    <DelphiCompile Include="M2Server.dpr">
+      <MainSource>MainSource</MainSource>
+    </DelphiCompile>
+    <DCCReference Include="ActionSpeedConfig.dfm">
+      <Form>frmActionSpeed</Form>
+    </DCCReference>
+    <DCCReference Include="AttackSabukWallConfig.dfm">
+      <Form>FrmAttackSabukWall</Form>
+    </DCCReference>
+    <DCCReference Include="CastleManage.dfm">
+      <Form>frmCastleManage</Form>
+    </DCCReference>
+    <DCCReference Include="ConfigMerchant.dfm">
+      <Form>frmConfigMerchant</Form>
+    </DCCReference>
+    <DCCReference Include="ConfigMonGen.dfm">
+      <Form>frmConfigMonGen</Form>
+    </DCCReference>
+    <DCCReference Include="EditCompoundInfo.dfm">
+      <Form>EditCompoundInfoForm</Form>
+    </DCCReference>
+    <DCCReference Include="EngineRegister.dfm">
+      <Form>FrmRegister</Form>
+    </DCCReference>
+    <DCCReference Include="FrmShop.dfm">
+      <Form>FormShop</Form>
+    </DCCReference>
+    <DCCReference Include="FSrvValue.dfm">
+      <Form>FrmServerValue</Form>
+    </DCCReference>
+    <DCCReference Include="FunctionConfig.dfm">
+      <Form>frmFunctionConfig</Form>
+    </DCCReference>
+    <DCCReference Include="GameCommand.dfm">
+      <Form>frmGameCmd</Form>
+    </DCCReference>
+    <DCCReference Include="GameConfig.dfm">
+      <Form>frmGameConfig</Form>
+    </DCCReference>
+    <DCCReference Include="GeneralConfig.dfm">
+      <Form>frmGeneralConfig</Form>
+    </DCCReference>
+    <DCCReference Include="HumanInfo.dfm">
+      <Form>frmHumanInfo</Form>
+    </DCCReference>
+    <DCCReference Include="IdSrvClient.dfm">
+      <Form>FrmIDSoc</Form>
+    </DCCReference>
+    <DCCReference Include="ItemSet.dfm">
+      <Form>frmItemSet</Form>
+    </DCCReference>
+    <DCCReference Include="LocalDB.dfm">
+      <Form>FrmDB</Form>
+    </DCCReference>
+    <DCCReference Include="MonsterConfig.dfm">
+      <Form>frmMonsterConfig</Form>
+    </DCCReference>
+    <DCCReference Include="OnlineEmail.dfm">
+      <Form>frmOnlineEmail</Form>
+    </DCCReference>
+    <DCCReference Include="OnlineMsg.dfm">
+      <Form>frmOnlineMsg</Form>
+    </DCCReference>
+    <DCCReference Include="svMain.dfm">
+      <Form>FrmMain</Form>
+    </DCCReference>
+    <DCCReference Include="ViewCompoundInfo.dfm">
+      <Form>FrmViewCompoundInfo</Form>
+    </DCCReference>
+    <DCCReference Include="ViewKernelInfo.dfm">
+      <Form>frmViewKernelInfo</Form>
+    </DCCReference>
+    <DCCReference Include="ViewLevel.dfm">
+      <Form>frmViewLevel</Form>
+    </DCCReference>
+    <DCCReference Include="ViewList.dfm">
+      <Form>frmViewList</Form>
+    </DCCReference>
+    <DCCReference Include="ViewOnlineHuman.dfm">
+      <Form>frmViewOnlineHuman</Form>
+    </DCCReference>
+    <DCCReference Include="ViewSession.dfm">
+      <Form>frmViewSession</Form>
+    </DCCReference>
+    <RcCompile Include="M2Server_DRC.rc">
+      <ModuleName>M2Server_DRC.rc</ModuleName>
+      <Form>M2Server_DRC.res</Form>
+    </RcCompile>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Borland.Delphi.Targets" />
+</Project>

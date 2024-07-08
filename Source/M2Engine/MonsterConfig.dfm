@@ -22,7 +22,7 @@ object frmMonsterConfig: TfrmMonsterConfig
     Top = 8
     Width = 601
     Height = 297
-    ActivePage = TabSheet2
+    ActivePage = TabSheet1
     TabOrder = 0
     object TabSheet1: TTabSheet
       Caption = 'Basic Parameters'

@@ -1,0 +1,24 @@
+First read the last 12 bytes of the file
+Take out the index position of the last image + data length = the starting position of the index table
+
+The index format is 12 bytes in total
+The first 4 bytes are the index
+The last 4 bytes are the data length
+The last 4 bytes are unknown (seems to always be 0)
+
+Data format
+Whether to be encrypted 4 bytes (1 encrypted, 0 unencrypted)
+Width 2 bytes
+Height 2 bytes
+X coordinate 2 bytes
+Y coordinate 2 bytes
+Data information X bytes
+
+24*22 528
+
+800*251 200800
+
+26512 10*29
+26769
+
+0..4

@@ -1,0 +1,1593 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="D:\AceM2 Source\Source\M2Engine\GameCommand.dfm" source-language="en-GB" target-language="zh-CN" datatype="delphiform" tool="ETM v10.0" ts="D:\AceM2 Source\Source\M2Engine\GameCommand.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">45469.9125694444</prop>
+        <prop prop-type="OrigDateTime">45468.8302083333</prop>
+        <prop prop-type="XlatDateTime">45468.8302083333</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">315</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:frmGameCmd.Left" resname="O:frmGameCmd.Left">
+        <source>343</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125720833</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TfrmGameCmd</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.Top" resname="O:frmGameCmd.Top">
+        <source>287</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125720833</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TfrmGameCmd</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.BorderIcons" resname="O:frmGameCmd.BorderIcons">
+        <source>[biSystemMenu, biMinimize]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125720833</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TfrmGameCmd</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.BorderStyle" resname="O:frmGameCmd.BorderStyle">
+        <source>bsSingle</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125720833</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TfrmGameCmd</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.Caption" resname="O:frmGameCmd.Caption">
+        <source>'Game Commands'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125720833</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TfrmGameCmd</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.ClientHeight" resname="O:frmGameCmd.ClientHeight">
+        <source>407</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125720949</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TfrmGameCmd</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.ClientWidth" resname="O:frmGameCmd.ClientWidth">
+        <source>583</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125720949</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TfrmGameCmd</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.Color" resname="O:frmGameCmd.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125720949</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TfrmGameCmd</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.Font.Charset" resname="O:frmGameCmd.Font.Charset">
+        <source>GB2312_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125720949</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TfrmGameCmd</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.Font.Color" resname="O:frmGameCmd.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125720949</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TfrmGameCmd</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.Font.Height" resname="O:frmGameCmd.Font.Height">
+        <source>-12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125720949</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TfrmGameCmd</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.Font.Name" resname="O:frmGameCmd.Font.Name">
+        <source>'??'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125720949</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TfrmGameCmd</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.Font.Style" resname="O:frmGameCmd.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721065</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TfrmGameCmd</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.OldCreateOrder" resname="O:frmGameCmd.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721065</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TfrmGameCmd</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.Position" resname="O:frmGameCmd.Position">
+        <source>poMainFormCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721065</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TfrmGameCmd</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.OnCreate" resname="O:frmGameCmd.OnCreate">
+        <source>FormCreate</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721065</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TfrmGameCmd</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.PixelsPerInch" resname="O:frmGameCmd.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721065</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TfrmGameCmd</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.TextHeight" resname="O:frmGameCmd.TextHeight">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721065</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TfrmGameCmd</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.Left" resname="O:frmGameCmd.O:PageControl.Left">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721065</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.Top" resname="O:frmGameCmd.O:PageControl.Top">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721181</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.Width" resname="O:frmGameCmd.O:PageControl.Width">
+        <source>574</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721181</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.Height" resname="O:frmGameCmd.O:PageControl.Height">
+        <source>390</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721181</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.ActivePage" resname="O:frmGameCmd.O:PageControl.ActivePage">
+        <source>TabSheet1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721181</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.HotTrack" resname="O:frmGameCmd.O:PageControl.HotTrack">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721181</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.TabOrder" resname="O:frmGameCmd.O:PageControl.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721181</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.Caption" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.Caption">
+        <source>'Player'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721296</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.ExplicitLeft" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.ExplicitLeft">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721296</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.ExplicitTop" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.ExplicitTop">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721296</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.ExplicitWidth" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.ExplicitWidth">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721296</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.ExplicitHeight" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.ExplicitHeight">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721296</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.Left">
+        <source>7</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.Top">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.Width">
+        <source>552</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.Height">
+        <source>254</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.ColCount" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.ColCount">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.DefaultRowHeight" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.DefaultRowHeight">
+        <source>18</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721412</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.FixedCols" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.FixedCols">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.Options" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.Options">
+        <source>[goFixedVertLine, goFixedHorzLine, goVertLine, goHorzLine, goRangeSelect, goColSizing, goEditing, goRowSelect]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.TabOrder" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.OnClick" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.OnClick">
+        <source>StringGridGameCmdClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.ColWidths[0]" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.ColWidths[0]">
+        <source>90</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.ColWidths[1]" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.ColWidths[1]">
+        <source>60</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.ColWidths[2]" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.ColWidths[2]">
+        <source>128</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721528</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.ColWidths[3]" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:StringGridGameCmd.ColWidths[3]">
+        <source>248</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721644</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.Left">
+        <source>7</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721644</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.Top">
+        <source>268</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721644</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.Width">
+        <source>552</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721644</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.Height">
+        <source>89</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721644</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.Caption" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.Caption">
+        <source>'Details'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721644</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.TabOrder" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721759</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label1.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label1.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721759</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label1.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label1.Top">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721759</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label1.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label1.Width">
+        <source>48</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721759</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label1.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label1.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721759</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label1.Caption" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label1.Caption">
+        <source>'Command:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721759</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label6.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label6.Left">
+        <source>176</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721759</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label6.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label6.Top">
+        <source>18</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label6.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label6.Width">
+        <source>66</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label6.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label6.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label6.Caption" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label6.Caption">
+        <source>'Permission:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdFunc.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdFunc.Left">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdFunc.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdFunc.Top">
+        <source>44</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdFunc.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdFunc.Width">
+        <source>401</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdFunc.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdFunc.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721991</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdFunc.AutoSize" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdFunc.AutoSize">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721991</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdFunc.Font.Charset" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdFunc.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721991</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdFunc.Font.Color" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdFunc.Font.Color">
+        <source>clBlue</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721991</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdFunc.Font.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdFunc.Font.Height">
+        <source>-12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721991</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdFunc.Font.Name" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdFunc.Font.Name">
+        <source>'??'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721991</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdFunc.Font.Style" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdFunc.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125721991</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdFunc.ParentFont" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdFunc.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722106</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdParam.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdParam.Left">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722106</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdParam.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdParam.Top">
+        <source>68</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722106</prop><prop prop-type="Status">0</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdParam.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdParam.Width">
+        <source>401</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722106</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdParam.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdParam.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722106</prop><prop prop-type="Status">0</prop><prop prop-type="Order">74</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdParam.AutoSize" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdParam.AutoSize">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722106</prop><prop prop-type="Status">0</prop><prop prop-type="Order">75</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdParam.Font.Charset" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdParam.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722222</prop><prop prop-type="Status">0</prop><prop prop-type="Order">76</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdParam.Font.Color" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdParam.Font.Color">
+        <source>clBlue</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722222</prop><prop prop-type="Status">0</prop><prop prop-type="Order">77</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdParam.Font.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdParam.Font.Height">
+        <source>-12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722222</prop><prop prop-type="Status">0</prop><prop prop-type="Order">78</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdParam.Font.Name" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdParam.Font.Name">
+        <source>'??'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722222</prop><prop prop-type="Status">0</prop><prop prop-type="Order">79</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdParam.Font.Style" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdParam.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722222</prop><prop prop-type="Status">0</prop><prop prop-type="Order">80</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdParam.ParentFont" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:LabelUserCmdParam.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722222</prop><prop prop-type="Status">0</prop><prop prop-type="Order">81</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label2.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label2.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722222</prop><prop prop-type="Status">0</prop><prop prop-type="Order">82</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label2.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label2.Top">
+        <source>44</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">83</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label2.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label2.Width">
+        <source>30</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">84</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label2.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label2.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">85</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label2.Caption" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label2.Caption">
+        <source>'Desc:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">86</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label3.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label3.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">87</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label3.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label3.Top">
+        <source>68</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">88</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label3.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label3.Width">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">89</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label3.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label3.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722454</prop><prop prop-type="Status">0</prop><prop prop-type="Order">90</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label3.Caption" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:Label3.Caption">
+        <source>'Use:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722454</prop><prop prop-type="Status">0</prop><prop prop-type="Order">91</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdName.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdName.Left">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722454</prop><prop prop-type="Status">0</prop><prop prop-type="Order">92</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdName.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdName.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722454</prop><prop prop-type="Status">0</prop><prop prop-type="Order">93</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdName.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdName.Width">
+        <source>105</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722454</prop><prop prop-type="Status">0</prop><prop prop-type="Order">94</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdName.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdName.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722454</prop><prop prop-type="Status">0</prop><prop prop-type="Order">95</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdName.TabOrder" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdName.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722454</prop><prop prop-type="Status">0</prop><prop prop-type="Order">96</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdName.OnChange" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdName.OnChange">
+        <source>EditUserCmdNameChange</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722569</prop><prop prop-type="Status">0</prop><prop prop-type="Order">97</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdPerMission.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdPerMission.Left">
+        <source>236</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722569</prop><prop prop-type="Status">0</prop><prop prop-type="Order">98</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdPerMission.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdPerMission.Top">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722569</prop><prop prop-type="Status">0</prop><prop prop-type="Order">99</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdPerMission.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdPerMission.Width">
+        <source>45</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722569</prop><prop prop-type="Status">0</prop><prop prop-type="Order">100</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdPerMission.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdPerMission.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722569</prop><prop prop-type="Status">0</prop><prop prop-type="Order">101</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdPerMission.MaxValue" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdPerMission.MaxValue">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722685</prop><prop prop-type="Status">0</prop><prop prop-type="Order">102</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdPerMission.MinValue" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdPerMission.MinValue">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722685</prop><prop prop-type="Status">0</prop><prop prop-type="Order">103</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdPerMission.TabOrder" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdPerMission.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722685</prop><prop prop-type="Status">0</prop><prop prop-type="Order">104</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdPerMission.Value" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdPerMission.Value">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722685</prop><prop prop-type="Status">0</prop><prop prop-type="Order">105</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdPerMission.OnChange" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdPerMission.OnChange">
+        <source>EditUserCmdPerMissionChange</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722685</prop><prop prop-type="Status">0</prop><prop prop-type="Order">106</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdOK.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdOK.Left">
+        <source>471</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722801</prop><prop prop-type="Status">0</prop><prop prop-type="Order">107</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdOK.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdOK.Top">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722801</prop><prop prop-type="Status">0</prop><prop prop-type="Order">108</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdOK.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdOK.Width">
+        <source>73</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722801</prop><prop prop-type="Status">0</prop><prop prop-type="Order">109</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdOK.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdOK.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722801</prop><prop prop-type="Status">0</prop><prop prop-type="Order">110</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdOK.Caption" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdOK.Caption">
+        <source>'&amp;OK'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722801</prop><prop prop-type="Status">0</prop><prop prop-type="Order">111</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdOK.TabOrder" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdOK.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722801</prop><prop prop-type="Status">0</prop><prop prop-type="Order">112</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdOK.OnClick" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdOK.OnClick">
+        <source>EditUserCmdOKClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">113</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdSave.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdSave.Left">
+        <source>471</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">114</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdSave.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdSave.Top">
+        <source>55</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">115</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdSave.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdSave.Width">
+        <source>73</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">116</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdSave.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdSave.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">117</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdSave.Caption" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdSave.Caption">
+        <source>'&amp;Save'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">118</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdSave.TabOrder" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdSave.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125722917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">119</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdSave.OnClick" resname="O:frmGameCmd.O:PageControl.O:TabSheet1.O:GroupBox1.O:EditUserCmdSave.OnClick">
+        <source>EditUserCmdSaveClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">120</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.Caption" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.Caption">
+        <source>'GM-S'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">121</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.ImageIndex" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.ImageIndex">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">122</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.ExplicitLeft" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.ExplicitLeft">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">123</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.ExplicitTop" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.ExplicitTop">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">124</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.ExplicitWidth" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.ExplicitWidth">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">125</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.ExplicitHeight" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.ExplicitHeight">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">126</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.Left">
+        <source>7</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">127</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.Top">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">128</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.Width">
+        <source>552</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">129</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.Height">
+        <source>254</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">130</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.ColCount" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.ColCount">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">131</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.DefaultRowHeight" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.DefaultRowHeight">
+        <source>18</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">132</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.FixedCols" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.FixedCols">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">133</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.Options" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.Options">
+        <source>[goFixedVertLine, goFixedHorzLine, goVertLine, goHorzLine, goRangeSelect, goColSizing, goEditing, goRowSelect]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">134</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.TabOrder" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">135</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.OnClick" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.OnClick">
+        <source>StringGridGameMasterCmdClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">136</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.ColWidths[0]" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.ColWidths[0]">
+        <source>90</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">137</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.ColWidths[1]" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.ColWidths[1]">
+        <source>60</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912572338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">138</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.ColWidths[2]" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.ColWidths[2]">
+        <source>129</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912572338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">139</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.ColWidths[3]" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:StringGridGameMasterCmd.ColWidths[3]">
+        <source>248</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912572338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">140</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.Left">
+        <source>7</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912572338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">141</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.Top">
+        <source>268</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912572338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">142</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.Width">
+        <source>552</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912572338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">143</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.Height">
+        <source>89</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">144</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.Caption" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.Caption">
+        <source>'Details'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">145</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.TabOrder" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">146</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label4.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label4.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">147</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label4.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label4.Top">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">148</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label4.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label4.Width">
+        <source>48</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">149</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label4.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label4.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">150</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label4.Caption" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label4.Caption">
+        <source>'Command:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">151</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label5.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label5.Left">
+        <source>176</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">152</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label5.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label5.Top">
+        <source>18</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">153</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label5.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label5.Width">
+        <source>66</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">154</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label5.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label5.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">155</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label5.Caption" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label5.Caption">
+        <source>'Permission:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">156</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdFunc.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdFunc.Left">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">157</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdFunc.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdFunc.Top">
+        <source>44</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">158</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdFunc.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdFunc.Width">
+        <source>401</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">159</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdFunc.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdFunc.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">160</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdFunc.AutoSize" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdFunc.AutoSize">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">161</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdFunc.Font.Charset" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdFunc.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">162</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdFunc.Font.Color" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdFunc.Font.Color">
+        <source>clBlue</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">163</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdFunc.Font.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdFunc.Font.Height">
+        <source>-12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">164</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdFunc.Font.Name" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdFunc.Font.Name">
+        <source>'??'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">165</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdFunc.Font.Style" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdFunc.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">166</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdFunc.ParentFont" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdFunc.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">167</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdParam.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdParam.Left">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">168</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdParam.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdParam.Top">
+        <source>68</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">169</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdParam.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdParam.Width">
+        <source>401</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">170</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdParam.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdParam.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">171</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdParam.AutoSize" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdParam.AutoSize">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">172</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdParam.Font.Charset" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdParam.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">173</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdParam.Font.Color" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdParam.Font.Color">
+        <source>clBlue</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">174</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdParam.Font.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdParam.Font.Height">
+        <source>-12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">175</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdParam.Font.Name" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdParam.Font.Name">
+        <source>'??'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">176</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdParam.Font.Style" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdParam.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125723958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">177</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdParam.ParentFont" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:LabelGameMasterCmdParam.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">178</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label7.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label7.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">179</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label7.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label7.Top">
+        <source>44</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">180</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label7.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label7.Width">
+        <source>30</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">181</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label7.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label7.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">182</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label7.Caption" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label7.Caption">
+        <source>'Desc:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">183</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label8.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label8.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">184</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label8.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label8.Top">
+        <source>68</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912572419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">185</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label8.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label8.Width">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912572419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">186</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label8.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label8.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912572419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">187</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label8.Caption" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:Label8.Caption">
+        <source>'Use:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912572419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">188</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdName.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdName.Left">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912572419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">189</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdName.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdName.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912572419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">190</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdName.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdName.Width">
+        <source>105</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912572419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">191</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdName.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdName.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">192</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdName.TabOrder" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdName.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">193</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdName.OnChange" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdName.OnChange">
+        <source>EditGameMasterCmdNameChange</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">194</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdPerMission.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdPerMission.Left">
+        <source>236</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">195</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdPerMission.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdPerMission.Top">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">196</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdPerMission.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdPerMission.Width">
+        <source>45</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">197</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdPerMission.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdPerMission.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">198</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdPerMission.MaxValue" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdPerMission.MaxValue">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">199</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdPerMission.MinValue" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdPerMission.MinValue">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">200</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdPerMission.TabOrder" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdPerMission.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">201</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdPerMission.Value" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdPerMission.Value">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">202</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdPerMission.OnChange" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdPerMission.OnChange">
+        <source>EditGameMasterCmdPerMissionChange</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">203</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdOK.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdOK.Left">
+        <source>471</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">204</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdOK.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdOK.Top">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">205</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdOK.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdOK.Width">
+        <source>73</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">206</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdOK.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdOK.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">207</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdOK.Caption" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdOK.Caption">
+        <source>'&amp;OK'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724653</prop><prop prop-type="Status">0</prop><prop prop-type="Order">208</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdOK.TabOrder" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdOK.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724653</prop><prop prop-type="Status">0</prop><prop prop-type="Order">209</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdOK.OnClick" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdOK.OnClick">
+        <source>EditGameMasterCmdOKClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724653</prop><prop prop-type="Status">0</prop><prop prop-type="Order">210</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdSave.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdSave.Left">
+        <source>471</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724653</prop><prop prop-type="Status">0</prop><prop prop-type="Order">211</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdSave.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdSave.Top">
+        <source>55</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724653</prop><prop prop-type="Status">0</prop><prop prop-type="Order">212</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdSave.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdSave.Width">
+        <source>73</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724653</prop><prop prop-type="Status">0</prop><prop prop-type="Order">213</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdSave.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdSave.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724653</prop><prop prop-type="Status">0</prop><prop prop-type="Order">214</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdSave.Caption" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdSave.Caption">
+        <source>'&amp;Save'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724769</prop><prop prop-type="Status">0</prop><prop prop-type="Order">215</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdSave.TabOrder" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdSave.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724769</prop><prop prop-type="Status">0</prop><prop prop-type="Order">216</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdSave.OnClick" resname="O:frmGameCmd.O:PageControl.O:TabSheet2.O:GroupBox2.O:EditGameMasterCmdSave.OnClick">
+        <source>EditGameMasterCmdSaveClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724769</prop><prop prop-type="Status">0</prop><prop prop-type="Order">217</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.Caption" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.Caption">
+        <source>'Admin'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724769</prop><prop prop-type="Status">0</prop><prop prop-type="Order">218</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.ImageIndex" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.ImageIndex">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724769</prop><prop prop-type="Status">0</prop><prop prop-type="Order">219</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.ExplicitLeft" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.ExplicitLeft">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724769</prop><prop prop-type="Status">0</prop><prop prop-type="Order">220</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.ExplicitTop" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.ExplicitTop">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724884</prop><prop prop-type="Status">0</prop><prop prop-type="Order">221</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.ExplicitWidth" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.ExplicitWidth">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724884</prop><prop prop-type="Status">0</prop><prop prop-type="Order">222</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.ExplicitHeight" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.ExplicitHeight">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724884</prop><prop prop-type="Status">0</prop><prop prop-type="Order">223</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.Left">
+        <source>7</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724884</prop><prop prop-type="Status">0</prop><prop prop-type="Order">224</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.Top">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724884</prop><prop prop-type="Status">0</prop><prop prop-type="Order">225</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.Width">
+        <source>552</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125724884</prop><prop prop-type="Status">0</prop><prop prop-type="Order">226</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.Height">
+        <source>254</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725</prop><prop prop-type="Status">0</prop><prop prop-type="Order">227</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.ColCount" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.ColCount">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725</prop><prop prop-type="Status">0</prop><prop prop-type="Order">228</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.DefaultRowHeight" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.DefaultRowHeight">
+        <source>18</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725</prop><prop prop-type="Status">0</prop><prop prop-type="Order">229</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.FixedCols" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.FixedCols">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725</prop><prop prop-type="Status">0</prop><prop prop-type="Order">230</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.Options" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.Options">
+        <source>[goFixedVertLine, goFixedHorzLine, goVertLine, goHorzLine, goRangeSelect, goColSizing, goEditing, goRowSelect]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725</prop><prop prop-type="Status">0</prop><prop prop-type="Order">231</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.TabOrder" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725</prop><prop prop-type="Status">0</prop><prop prop-type="Order">232</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.OnClick" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.OnClick">
+        <source>StringGridGameDebugCmdClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">233</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.ColWidths[0]" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.ColWidths[0]">
+        <source>90</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">234</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.ColWidths[1]" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.ColWidths[1]">
+        <source>60</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">235</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.ColWidths[2]" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.ColWidths[2]">
+        <source>129</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">236</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.ColWidths[3]" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:StringGridGameDebugCmd.ColWidths[3]">
+        <source>248</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">237</prop><prop prop-type="Type">TStringGrid</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.Left">
+        <source>7</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">238</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.Top">
+        <source>268</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">239</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.Width">
+        <source>552</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">240</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.Height">
+        <source>89</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">241</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.Caption" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.Caption">
+        <source>'Details'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">242</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.TabOrder" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">243</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label9.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label9.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">244</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label9.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label9.Top">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">245</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label9.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label9.Width">
+        <source>48</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">246</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label9.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label9.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">247</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label9.Caption" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label9.Caption">
+        <source>'Command:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">248</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label10.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label10.Left">
+        <source>176</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">249</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label10.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label10.Top">
+        <source>18</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725463</prop><prop prop-type="Status">0</prop><prop prop-type="Order">250</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label10.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label10.Width">
+        <source>66</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725463</prop><prop prop-type="Status">0</prop><prop prop-type="Order">251</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label10.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label10.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725463</prop><prop prop-type="Status">0</prop><prop prop-type="Order">252</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label10.Caption" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label10.Caption">
+        <source>'Permission:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725463</prop><prop prop-type="Status">0</prop><prop prop-type="Order">253</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdFunc.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdFunc.Left">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725463</prop><prop prop-type="Status">0</prop><prop prop-type="Order">254</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdFunc.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdFunc.Top">
+        <source>44</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725463</prop><prop prop-type="Status">0</prop><prop prop-type="Order">255</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdFunc.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdFunc.Width">
+        <source>401</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725463</prop><prop prop-type="Status">0</prop><prop prop-type="Order">256</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdFunc.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdFunc.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">257</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdFunc.AutoSize" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdFunc.AutoSize">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">258</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdFunc.Font.Charset" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdFunc.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">259</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdFunc.Font.Color" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdFunc.Font.Color">
+        <source>clBlue</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">260</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdFunc.Font.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdFunc.Font.Height">
+        <source>-12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">261</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdFunc.Font.Name" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdFunc.Font.Name">
+        <source>'??'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">262</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdFunc.Font.Style" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdFunc.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">263</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdFunc.ParentFont" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdFunc.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">264</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdParam.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdParam.Left">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">265</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdParam.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdParam.Top">
+        <source>68</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">266</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdParam.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdParam.Width">
+        <source>401</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">267</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdParam.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdParam.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">268</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdParam.AutoSize" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdParam.AutoSize">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">269</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdParam.Font.Charset" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdParam.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">270</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdParam.Font.Color" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdParam.Font.Color">
+        <source>clBlue</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912572581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">271</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdParam.Font.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdParam.Font.Height">
+        <source>-12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912572581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">272</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdParam.Font.Name" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdParam.Font.Name">
+        <source>'??'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912572581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">273</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdParam.Font.Style" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdParam.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912572581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">274</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdParam.ParentFont" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:LabelGameDebugCmdParam.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912572581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">275</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label11.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label11.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912572581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">276</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label11.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label11.Top">
+        <source>44</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912572581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">277</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label11.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label11.Width">
+        <source>30</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725926</prop><prop prop-type="Status">0</prop><prop prop-type="Order">278</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label11.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label11.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725926</prop><prop prop-type="Status">0</prop><prop prop-type="Order">279</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label11.Caption" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label11.Caption">
+        <source>'Desc:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725926</prop><prop prop-type="Status">0</prop><prop prop-type="Order">280</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label12.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label12.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725926</prop><prop prop-type="Status">0</prop><prop prop-type="Order">281</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label12.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label12.Top">
+        <source>68</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725926</prop><prop prop-type="Status">0</prop><prop prop-type="Order">282</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label12.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label12.Width">
+        <source>66</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125725926</prop><prop prop-type="Status">0</prop><prop prop-type="Order">283</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label12.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label12.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726042</prop><prop prop-type="Status">0</prop><prop prop-type="Order">284</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label12.Caption" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:Label12.Caption">
+        <source>'How to use:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726042</prop><prop prop-type="Status">0</prop><prop prop-type="Order">285</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdName.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdName.Left">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726042</prop><prop prop-type="Status">0</prop><prop prop-type="Order">286</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdName.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdName.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726042</prop><prop prop-type="Status">0</prop><prop prop-type="Order">287</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdName.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdName.Width">
+        <source>105</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726042</prop><prop prop-type="Status">0</prop><prop prop-type="Order">288</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdName.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdName.Height">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726042</prop><prop prop-type="Status">0</prop><prop prop-type="Order">289</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdName.TabOrder" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdName.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726042</prop><prop prop-type="Status">0</prop><prop prop-type="Order">290</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdName.OnChange" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdName.OnChange">
+        <source>EditGameDebugCmdNameChange</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726157</prop><prop prop-type="Status">0</prop><prop prop-type="Order">291</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdPerMission.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdPerMission.Left">
+        <source>236</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726157</prop><prop prop-type="Status">0</prop><prop prop-type="Order">292</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdPerMission.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdPerMission.Top">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726157</prop><prop prop-type="Status">0</prop><prop prop-type="Order">293</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdPerMission.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdPerMission.Width">
+        <source>45</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726157</prop><prop prop-type="Status">0</prop><prop prop-type="Order">294</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdPerMission.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdPerMission.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726157</prop><prop prop-type="Status">0</prop><prop prop-type="Order">295</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdPerMission.MaxValue" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdPerMission.MaxValue">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726273</prop><prop prop-type="Status">0</prop><prop prop-type="Order">296</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdPerMission.MinValue" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdPerMission.MinValue">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726273</prop><prop prop-type="Status">0</prop><prop prop-type="Order">297</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdPerMission.TabOrder" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdPerMission.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726273</prop><prop prop-type="Status">0</prop><prop prop-type="Order">298</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdPerMission.Value" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdPerMission.Value">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726273</prop><prop prop-type="Status">0</prop><prop prop-type="Order">299</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdPerMission.OnChange" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdPerMission.OnChange">
+        <source>EditGameDebugCmdPerMissionChange</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726273</prop><prop prop-type="Status">0</prop><prop prop-type="Order">300</prop><prop prop-type="Type">TSpinEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdOK.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdOK.Left">
+        <source>471</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726389</prop><prop prop-type="Status">0</prop><prop prop-type="Order">301</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdOK.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdOK.Top">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726389</prop><prop prop-type="Status">0</prop><prop prop-type="Order">302</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdOK.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdOK.Width">
+        <source>73</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726389</prop><prop prop-type="Status">0</prop><prop prop-type="Order">303</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdOK.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdOK.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726389</prop><prop prop-type="Status">0</prop><prop prop-type="Order">304</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdOK.Caption" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdOK.Caption">
+        <source>'&amp;OK'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726389</prop><prop prop-type="Status">0</prop><prop prop-type="Order">305</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdOK.TabOrder" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdOK.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726389</prop><prop prop-type="Status">0</prop><prop prop-type="Order">306</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdOK.OnClick" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdOK.OnClick">
+        <source>EditGameDebugCmdOKClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726505</prop><prop prop-type="Status">0</prop><prop prop-type="Order">307</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdSave.Left" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdSave.Left">
+        <source>471</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726505</prop><prop prop-type="Status">0</prop><prop prop-type="Order">308</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdSave.Top" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdSave.Top">
+        <source>55</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726505</prop><prop prop-type="Status">0</prop><prop prop-type="Order">309</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdSave.Width" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdSave.Width">
+        <source>73</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726505</prop><prop prop-type="Status">0</prop><prop prop-type="Order">310</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdSave.Height" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdSave.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726505</prop><prop prop-type="Status">0</prop><prop prop-type="Order">311</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdSave.Caption" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdSave.Caption">
+        <source>'&amp;Save'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726505</prop><prop prop-type="Status">0</prop><prop prop-type="Order">312</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdSave.TabOrder" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdSave.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.9125726505</prop><prop prop-type="Status">0</prop><prop prop-type="Order">313</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdSave.OnClick" resname="O:frmGameCmd.O:PageControl.O:TabSheet3.O:GroupBox3.O:EditGameDebugCmdSave.OnClick">
+        <source>EditGameDebugCmdSaveClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">45469.912572662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">314</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

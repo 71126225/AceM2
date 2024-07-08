@@ -87,7 +87,7 @@ var
 begin
   sIPaddr := Socket.RemoteAddress;
   {if not CheckServerIP(sIPaddr) then begin
-    MainOutMessage('非法网关连接: ' + sIPaddr);
+    MainOutMessage('Illegal gateway connection: ' + sIPaddr);
     Socket.Close;
     Exit;
   end;   }
@@ -696,7 +696,7 @@ begin
             {if boAttack and AddAttackIP(UserInfo.sUserIPaddr) then
               SendKickUser(UserInfo.Socket, UserInfo.sConnID, 0); }
             Inc(g_nQueryChrCount);
-            MainOutMessage('[超速操作] 查询人物 ' + UserInfo.sUserIPaddr);
+            MainOutMessage('[Overspeed operation] Search for people ' + UserInfo.sUserIPaddr);
           end;
         end;
       end;
@@ -717,7 +717,7 @@ begin
             {if boAttack and AddAttackIP(UserInfo.sUserIPaddr) then
               SendKickUser(UserInfo.Socket, UserInfo.sConnID, 1);   }
             Inc(nHackerNewChrCount);
-            MainOutMessage('[超速操作] 创建人物 ' + UserInfo.sAccount + '/'
+            MainOutMessage('[Overspeed operation] Creating a character ' + UserInfo.sAccount + '/'
               +
               UserInfo.sUserIPaddr);
           end;
@@ -740,7 +740,7 @@ begin
             {if boAttack and AddAttackIP(UserInfo.sUserIPaddr) then
               SendKickUser(UserInfo.Socket, UserInfo.sConnID, 0);  }
             Inc(nHackerDelChrCount);
-            MainOutMessage('[超速操作] 删除人物' + UserInfo.sAccount + '/'
+            MainOutMessage('[Overspeed operation] Delete a character' + UserInfo.sAccount + '/'
               +
               UserInfo.sUserIPaddr);
           end;
@@ -763,7 +763,7 @@ begin
             {if boAttack and AddAttackIP(UserInfo.sUserIPaddr) then
               SendKickUser(UserInfo.Socket, UserInfo.sConnID, 1);  }
             Inc(nHackerSelChrCount);
-            MainOutMessage('[端口攻击]' + UserInfo.sAccount + '/' + UserInfo.sUserIPaddr);
+            MainOutMessage('[Port Attack]' + UserInfo.sAccount + '/' + UserInfo.sUserIPaddr);
           end;
         end;
       end;
@@ -781,7 +781,7 @@ begin
           end
           else begin
             //Inc(g_nViewDelHum);
-            MainOutMessage('[超速操作] 查询已删人物 ' + UserInfo.sUserIPaddr);
+            MainOutMessage('[Overspeed operation] Query deleted characters ' + UserInfo.sUserIPaddr);
           end;
         end;
       end;
@@ -804,7 +804,7 @@ begin
           end
           else begin
             //Inc(g_nRenewDelHum);
-            MainOutMessage('[超速操作] 恢复人物 ' + UserInfo.sUserIPaddr);
+            MainOutMessage('[Overspeed operation] Restore Character ' + UserInfo.sUserIPaddr);
           end;
         end;
       end;
@@ -851,7 +851,7 @@ begin
             for i := 0 to ChrList.Count - 1 do begin
               QuickID := pTQuickID(ChrList.Objects[i]);
               //FrmDBSrv.MemoLog.Lines.Add('UserInfo.nSelGateID: '+IntToStr(UserInfo.nSelGateID)+' QuickID.nIndex: '+IntToStr(QuickID.nIndex));
-              //如果选择ID不对,则跳过
+              //If the selected ID is incorrect, skip
               //if QuickID.nIndex <> UserInfo.nSelGateID then Continue;
 
               if HumChrDB.Get(QuickID.sChrName, HumRecord) and
@@ -1218,7 +1218,7 @@ begin
     sDefMsg := EncodeMessage(MakeDefaultMsg(SM_STARTPLAY, 0, 0, 0, 0));
 
     if g_boDynamicIPMode then
-      sRouteIP := UserInfo.sGateIPaddr //使用动态IP
+      sRouteIP := UserInfo.sGateIPaddr //Using Dynamic IP
     else
       sRouteIP := GateRouteIP(GateInfo.sGateaddr, nRoutePort);
     //MainOutMessage('sRouteIP+nMapIndex+UserInfo.nSessionID:'+sRouteIP+IntToStr(nMapIndex)+IntToStr(UserInfo.nSessionID));

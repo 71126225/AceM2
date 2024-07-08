@@ -35,16 +35,12 @@ object frmGeneralConfig: TfrmGeneralConfig
     Top = 8
     Width = 401
     Height = 249
-    ActivePage = ShareSheet
+    ActivePage = ServerInfoSheet
     TabOrder = 0
     OnChanging = PageControlChanging
     object NetWorkSheet: TTabSheet
       Caption = 'Network'
       ImageIndex = 2
-      ExplicitLeft = 0
-      ExplicitTop = 0
-      ExplicitWidth = 0
-      ExplicitHeight = 0
       object GroupBoxNet: TGroupBox
         Left = 8
         Top = 5
@@ -267,10 +263,6 @@ object frmGeneralConfig: TfrmGeneralConfig
     end
     object ServerInfoSheet: TTabSheet
       Caption = 'Server Configuration'
-      ExplicitLeft = 0
-      ExplicitTop = 0
-      ExplicitWidth = 0
-      ExplicitHeight = 0
       object GroupBoxInfo: TGroupBox
         Left = 8
         Top = 5
@@ -473,10 +465,6 @@ object frmGeneralConfig: TfrmGeneralConfig
     object ShareSheet: TTabSheet
       Caption = 'Directories'
       ImageIndex = 1
-      ExplicitLeft = 0
-      ExplicitTop = 0
-      ExplicitWidth = 0
-      ExplicitHeight = 0
       object Label17: TLabel
         Left = 8
         Top = 12
